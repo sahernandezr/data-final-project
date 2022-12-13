@@ -1,0 +1,40 @@
+brand:
+    Anchor
+    Cosmo
+    CXC
+    DMC
+    J&P Coats
+    Madeira
+
+type_floss: based on DMC catalogue
+    mouliné - Six stranded cotton thread
+    perlé - Cotton twisted non-divisible thread
+    
+code: Numbering system exclusive to DMC ©1898
+
+color family: as defined in DMC's website
+    red
+    orange
+    yellow
+    muted green
+    green
+    teal
+    blue
+    purple
+    pink
+    brown
+    mixed
+    dark
+    light
+    
+name: list obtained through DMC's website although the company highlights that it refers to its colors by number only. "Names given to our colors are by the individual designer of a publication or chart", says DMC.
+
+image: jpg of a sample of floss
+
+r,g,b: the corresponding values of red, green and blue of each color floss
+
+hexcode: the six character code corresponding to each color floss
+    
+
+
+    
