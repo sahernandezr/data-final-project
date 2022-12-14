@@ -1,494 +1,503 @@
 code,hexcode,r,g,b,name_x,r2,g2,b2,hexcode2,merge_1_2,name_y,hexcode3,_merge
-3713,#ecc4c5,236.0,196.0,197.0,Salmon-VY LT,253,229,217,###FDE5D9,both,Salmon very light,#FFC7C7,both
-761,#dca6a7,220.0,166.0,167.0,Salmon-LT,255,201,188,###FFC9BC,both,Salmon light,#F5A3A8,both
-760,#c67d80,198.0,125.0,128.0,Salmon,249,160,146,###F9A092,both,Salmon,#E5787F,both
-3712,#b1585c,177.0,88.0,92.0,Salmon-MD,230,101,107,###E6656B,both,Salmon medium,#CF575C,both
-3328,#993a40,153.0,58.0,64.0,Salmon-DK,188,64,85,###BC4055,both,Salmon dark,#C1424B,both
-347,#840821,132.0,8.0,33.0,Salmon-VY DK,194,36,67,###C22443,both,Salmon very dark,#A62030,both
-353,#e9b7a8,233.0,183.0,168.0,Peach Flesh,255,196,184,###FFC4B8,both,Peach,#FEA693,both
-352,#cd766a,205.0,118.0,106.0,Coral-LT,255,157,144,###FF9D90,both,Coral light,#F27365,both
-351,#ac3632,172.0,54.0,50.0,Coral,255,128,135,###FF8087,both,Coral,#E04D46,both
-350,#9d1a1e,157.0,26.0,30.0,Coral-MD,237,69,90,###ED455A,both,Coral medium,#D43434,both
-349,#890012,137.0,0.0,18.0,Coral-DK,220,61,91,###DC3D5B,both,Coral dark,#BD1C29,both
-817,#85000d,133.0,0.0,13.0,Coral Red-VY DK,219,24,85,###DB1855,both,Coral Red very dark,#A60D1B,both
-304,#6d0023,109.0,0.0,35.0,Christmas Red-MD,188,0,97,###BC0061,both,Christmas Red medium,#9A0029,both
-3833,#bd5b70,189.0,91.0,112.0,,,,,,left_only,Raspberry light,#CF556A,both
-3832,#a6344f,166.0,52.0,79.0,,,,,,left_only,Raspberry medium,#C63850,both
-3831,#80002a,128.0,0.0,42.0,,,,,,left_only,Raspberry dark,#A8203A,both
+3713,#ECC4C5,236.0,196.0,197.0,Salmon-VY LT,253,229,217,#FDE5D9,both,Salmon very light,#FFC7C7,both
+761,#DCA6A7,220.0,166.0,167.0,Salmon-LT,255,201,188,#FFC9BC,both,Salmon light,#F5A3A8,both
+760,#C67D80,198.0,125.0,128.0,Salmon,249,160,146,#F9A092,both,Salmon,#E5787F,both
+3712,#B1585C,177.0,88.0,92.0,Salmon-MD,230,101,107,#E6656B,both,Salmon medium,#CF575C,both
+3328,#993A40,153.0,58.0,64.0,Salmon-DK,188,64,85,#BC4055,both,Salmon dark,#C1424B,both
+347,#840821,132.0,8.0,33.0,Salmon-VY DK,194,36,67,#C22443,both,Salmon very dark,#A62030,both
+353,#E9B7A8,233.0,183.0,168.0,Peach Flesh,255,196,184,#FFC4B8,both,Peach,#FEA693,both
+352,#CD766A,205.0,118.0,106.0,Coral-LT,255,157,144,#FF9D90,both,Coral light,#F27365,both
+351,#AC3632,172.0,54.0,50.0,Coral,255,128,135,#FF8087,both,Coral,#E04D46,both
+350,#9D1A1E,157.0,26.0,30.0,Coral-MD,237,69,90,#ED455A,both,Coral medium,#D43434,both
+349,#890012,137.0,0.0,18.0,Coral-DK,220,61,91,#DC3D5B,both,Coral dark,#BD1C29,both
+817,#85000D,133.0,0.0,13.0,Coral Red-VY DK,219,24,85,#DB1855,both,Coral Red very dark,#A60D1B,both
+304,#6D0023,109.0,0.0,35.0,Christmas Red-MD,188,0,97,#BC0061,both,Christmas Red medium,#9A0029,both
+3833,#BD5B70,189.0,91.0,112.0,,,,,,left_only,Raspberry light,#CF556A,both
+3832,#A6344F,166.0,52.0,79.0,,,,,,left_only,Raspberry medium,#C63850,both
+3831,#80002A,128.0,0.0,42.0,,,,,,left_only,Raspberry dark,#A8203A,both
 777,#420016,66.0,0.0,22.0,,,,,,left_only,Raspberry very dark,#780D2C,both
-3801,#ad0025,173.0,0.0,37.0,,,,,,left_only,Christmas Red light,#E02338,both
-666,#880000,136.0,0.0,0.0,Christmas Red-LT,213,39,86,###D52756,both,Christmas Red bright,#C90023,both
-321,#6f0012,111.0,0.0,18.0,Christmas Red,231,18,97,###E71261,both,Christmas Red,#AC0025,both
-498,#520014,82.0,0.0,20.0,Christmas Red-LT,187,0,97,###BB0061,both,Christmas Red dark,#880025,both
-816,#550012,85.0,0.0,18.0,Garnet,179,0,91,###B3005B,both,Garnet,#89132C,both
-815,#320009,50.0,0.0,9.0,Garnet-MD,166,0,91,###A6005B,both,Garnet medium,#700D23,both
-814,#2a000c,42.0,0.0,12.0,Garnet-DK,162,0,88,###A20058,both,Garnet dark,#5B1325,both
-894,#e88aa2,232.0,138.0,162.0,Carnation-VY LT,255,194,191,###FFC2BF,both,Carnation very light,#FF7C9A,both
-893,#cc4a6c,204.0,74.0,108.0,Carnation-LT,243,149,157,###F3959D,both,Carnation light,#FB4D6D,both
-892,#c8344f,200.0,52.0,79.0,Carnation-MD,249,90,97,###F95A61,both,Carnation medium,#F43853,both
-891,#be1a45,190.0,26.0,69.0,Carnation-DK,241,49,84,###F13154,both,Carnation dark,#EF2C46,both
-818,#eec9cb,238.0,201.0,203.0,Baby Pink,255,234,235,###FFEAEB,both,Baby Pink,#FFD0D2,both
-957,#ea89a8,234.0,137.0,168.0,Gernanium-PALE,255,204,208,###FFCCD0,both,Geranium pale,#FF7CA2,both
-956,#d24977,210.0,73.0,119.0,Geranium,255,109,115,###FF6D73,both,Geranium,#F94472,both
-3708,#e98aa2,233.0,138.0,162.0,Melon-LT,254,212,219,###FED4DB,both,Melon light,#FF889E,both
-3706,#df697f,223.0,105.0,127.0,Melon-MD,255,128,109,###FF806D,both,Melon medium,#FF6175,both
-3705,#ba263d,186.0,38.0,61.0,Melon-DK,255,85,91,###FF555B,both,Melon dark,#EE3A4D,both
-963,#efc0c9,239.0,192.0,201.0,Dusty Rose-ULT VY L,255,233,233,###FFE9E9,both,Dusty Rose ultra,#FFBAC4,both
-3716,#de99af,222.0,153.0,175.0,Dusty Rose-VY LT,255,211,212,###FFD3D4,both,Dusty Rose very light,#FE97AF,both
-962,#c26f85,194.0,111.0,133.0,Dusty Rose-MD,253,134,141,###FD868D,both,Dusty Rose medium,#E46486,both
-961,#b74e6e,183.0,78.0,110.0,Dusty Rose-DK,243,108,123,###F36C7B,both,Dusty Rose dark,#D94B6F,both
-309,#7d002c,125.0,0.0,44.0,Rose-DP,214,43,91,###D62B5B,both,Rose deep,#AD203E,both
-819,#f4dfd8,244.0,223.0,216.0,Baby Pink-LT,248,247,221,###F8F7DD,both,Baby Pink light,#FFDEDA,both
-3326,#d990a0,217.0,144.0,160.0,Rose-LT,255,157,150,###FF9D96,both,Rose light (776),#F793A6,both
-899,#be5a79,190.0,90.0,121.0,Rose-MD,233,109,115,###E96D73,both,Rose medium,#EB6682,both
-335,#aa3c5e,170.0,60.0,94.0,Rose,219,36,79,###DB244F,both,Rose,#D44464,both
-326,#680024,104.0,0.0,36.0,Rose-VY DP,188,22,65,###BC1641,both,Rose very deep,#A61238,both
-151,#e2acb9,226.0,172.0,185.0,,,,,,left_only,Dusty Rose very light,#F2A8BA,both
-3354,#ce8c9e,206.0,140.0,158.0,Dusty Rose-LT,255,214,209,###FFD6D1,both,Dusty Rose light,#E7899E,both
-3733,#ba677f,186.0,103.0,127.0,Dusty Rose,255,154,148,###FF9A94,both,Dusty Rose,#E06C85,both
-3731,#a0395c,160.0,57.0,92.0,Dusty Rose-VY DK,209,93,103,###D15D67,both,Dusty Rose very dark,#C1405F,both
-3350,#751231,117.0,18.0,49.0,Dusty Rose-ULT DK,201,79,91,###C94F5B,both,Dusty Rose ultra dark,#9E2946,both
-150,#5d001f,93.0,0.0,31.0,,,,,,left_only,Rose Ultra V DK Dusty,#911238,both
-23,#f2e4e5,242.0,228.0,229.0,,,,,,left_only,Rose Water,#E8DADF,both
-3689,#dfb1c4,223.0,177.0,196.0,Mauve-LT,255,213,216,###FFD5D8,both,Mauve light,#F5ACC2,both
-3688,#b16986,177.0,105.0,134.0,Mauve-MD,250,151,144,###FA9790,both,Mauve medium,#D16987,both
-3687,#954165,149.0,65.0,101.0,Mauve,203,78,97,###CB4E61,both,Mauve,#B13D64,both
-3803,#5d133a,93.0,19.0,58.0,,,,,,left_only,Mauve medium,#7B2544,both
-3685,#41001e,65.0,0.0,30.0,Mauve-DK,161,53,79,###A1354F,both,Mauve dark,#6A1836,both
-605,#e8afc5,232.0,175.0,197.0,Cranberry-VY LT,255,207,214,###FFCFD6,both,Cranberry very light,#FE98C1,both
-604,#e197b4,225.0,151.0,180.0,Cranberry-LT,255,189,202,###FFBDCA,both,Cranberry light,#F67AAD,both
-603,#d06f97,208.0,111.0,151.0,Cranberry,255,115,140,###FF738C,both,Cranberry,#E94F8C,both
-602,#b64073,182.0,64.0,115.0,Cranberry-MD,231,84,122,###E7547A,both,Cranberry medium,#D7306D,both
-601,#9c1752,156.0,23.0,82.0,Cranberry-DK,222,57,105,###DE3969,both,Cranberry dark,#C61B57,both
-600,#890041,137.0,0.0,65.0,Cranberry-VY DK,208,57,106,###D0396A,both,Cranberry very dark,#AF0047,both
-3806,#d1789f,209.0,120.0,159.0,,,,,,left_only,Cyclamen Pink light,#E45592,both
-3805,#aa3870,170.0,56.0,112.0,,,,,,left_only,Cyclamen Pink,#CC2B73,both
-3804,#9d2360,157.0,35.0,96.0,,,,,,left_only,Cyclamen Pink dark,#BA1861,both
-3609,#d6a5c8,214.0,165.0,200.0,Plum-ULT LT,255,214,229,###FFD6E5,both,Plum ultra light,#E591CE,both
-3608,#c282ab,194.0,130.0,171.0,Plum-VY LT,247,152,182,###F798B6,both,Plum very light,#D770AD,both
-3607,#933879,147.0,56.0,121.0,Plum-LT,231,79,134,###E74F86,both,Plum light,#BF3D8F,both
-718,#74004d,116.0,0.0,77.0,Plum,219,55,121,###DB3779,both,Plum,#A7206F,both
-917,#780752,120.0,7.0,82.0,Plum-MD,171,22,95,###AB165F,both,Plum medium,#911B5B,both
-915,#3b001d,59.0,0.0,29.0,Plum-DK,170,24,91,###AA185B,both,Plum dark,#76003D,both
-33,#723d72,114.0,61.0,114.0,,,,,,left_only,Maroon,#884B8E,both
-34,#55014b,85.0,1.0,75.0,,,,,,left_only,Maroon Med,#7A3070,both
+3801,#AD0025,173.0,0.0,37.0,,,,,,left_only,Christmas Red light,#E02338,both
+666,#880000,136.0,0.0,0.0,Christmas Red-LT,213,39,86,#D52756,both,Christmas Red bright,#C90023,both
+321,#6F0012,111.0,0.0,18.0,Christmas Red,231,18,97,#E71261,both,Christmas Red,#AC0025,both
+498,#520014,82.0,0.0,20.0,Christmas Red-LT,187,0,97,#BB0061,both,Christmas Red dark,#880025,both
+816,#550012,85.0,0.0,18.0,Garnet,179,0,91,#B3005B,both,Garnet,#89132C,both
+815,#320009,50.0,0.0,9.0,Garnet-MD,166,0,91,#A6005B,both,Garnet medium,#700D23,both
+814,#2A000C,42.0,0.0,12.0,Garnet-DK,162,0,88,#A20058,both,Garnet dark,#5B1325,both
+894,#E88AA2,232.0,138.0,162.0,Carnation-VY LT,255,194,191,#FFC2BF,both,Carnation very light,#FF7C9A,both
+893,#CC4A6C,204.0,74.0,108.0,Carnation-LT,243,149,157,#F3959D,both,Carnation light,#FB4D6D,both
+892,#C8344F,200.0,52.0,79.0,Carnation-MD,249,90,97,#F95A61,both,Carnation medium,#F43853,both
+891,#BE1A45,190.0,26.0,69.0,Carnation-DK,241,49,84,#F13154,both,Carnation dark,#EF2C46,both
+818,#EEC9CB,238.0,201.0,203.0,Baby Pink,255,234,235,#FFEAEB,both,Baby Pink,#FFD0D2,both
+957,#EA89A8,234.0,137.0,168.0,Gernanium-PALE,255,204,208,#FFCCD0,both,Geranium pale,#FF7CA2,both
+956,#D24977,210.0,73.0,119.0,Geranium,255,109,115,#FF6D73,both,Geranium,#F94472,both
+3708,#E98AA2,233.0,138.0,162.0,Melon-LT,254,212,219,#FED4DB,both,Melon light,#FF889E,both
+3706,#DF697F,223.0,105.0,127.0,Melon-MD,255,128,109,#FF806D,both,Melon medium,#FF6175,both
+3705,#BA263D,186.0,38.0,61.0,Melon-DK,255,85,91,#FF555B,both,Melon dark,#EE3A4D,both
+963,#EFC0C9,239.0,192.0,201.0,Dusty Rose-ULT VY L,255,233,233,#FFE9E9,both,Dusty Rose ultra,#FFBAC4,both
+3716,#DE99AF,222.0,153.0,175.0,Dusty Rose-VY LT,255,211,212,#FFD3D4,both,Dusty Rose very light,#FE97AF,both
+962,#C26F85,194.0,111.0,133.0,Dusty Rose-MD,253,134,141,#FD868D,both,Dusty Rose medium,#E46486,both
+961,#B74E6E,183.0,78.0,110.0,Dusty Rose-DK,243,108,123,#F36C7B,both,Dusty Rose dark,#D94B6F,both
+309,#7D002C,125.0,0.0,44.0,Rose-DP,214,43,91,#D62B5B,both,Rose deep,#AD203E,both
+819,#F4DFD8,244.0,223.0,216.0,Baby Pink-LT,248,247,221,#F8F7DD,both,Baby Pink light,#FFDEDA,both
+3326,#D990A0,217.0,144.0,160.0,Rose-LT,255,157,150,#FF9D96,both,Rose light (776),#F793A6,both
+899,#BE5A79,190.0,90.0,121.0,Rose-MD,233,109,115,#E96D73,both,Rose medium,#EB6682,both
+335,#AA3C5E,170.0,60.0,94.0,Rose,219,36,79,#DB244F,both,Rose,#D44464,both
+326,#680024,104.0,0.0,36.0,Rose-VY DP,188,22,65,#BC1641,both,Rose very deep,#A61238,both
+151,#E2ACB9,226.0,172.0,185.0,,,,,,left_only,Dusty Rose very light,#F2A8BA,both
+3354,#CE8C9E,206.0,140.0,158.0,Dusty Rose-LT,255,214,209,#FFD6D1,both,Dusty Rose light,#E7899E,both
+3733,#BA677F,186.0,103.0,127.0,Dusty Rose,255,154,148,#FF9A94,both,Dusty Rose,#E06C85,both
+3731,#A0395C,160.0,57.0,92.0,Dusty Rose-VY DK,209,93,103,#D15D67,both,Dusty Rose very dark,#C1405F,both
+3350,#751231,117.0,18.0,49.0,Dusty Rose-ULT DK,201,79,91,#C94F5B,both,Dusty Rose ultra dark,#9E2946,both
+150,#5D001F,93.0,0.0,31.0,,,,,,left_only,Rose Ultra V DK Dusty,#911238,both
+23,#F2E4E5,242.0,228.0,229.0,,,,,,left_only,Rose Water,#E8DADF,both
+3689,#DFB1C4,223.0,177.0,196.0,Mauve-LT,255,213,216,#FFD5D8,both,Mauve light,#F5ACC2,both
+3688,#B16986,177.0,105.0,134.0,Mauve-MD,250,151,144,#FA9790,both,Mauve medium,#D16987,both
+3687,#954165,149.0,65.0,101.0,Mauve,203,78,97,#CB4E61,both,Mauve,#B13D64,both
+3803,#5D133A,93.0,19.0,58.0,,,,,,left_only,Mauve medium,#7B2544,both
+3685,#41001E,65.0,0.0,30.0,Mauve-DK,161,53,79,#A1354F,both,Mauve dark,#6A1836,both
+605,#E8AFC5,232.0,175.0,197.0,Cranberry-VY LT,255,207,214,#FFCFD6,both,Cranberry very light,#FE98C1,both
+604,#E197B4,225.0,151.0,180.0,Cranberry-LT,255,189,202,#FFBDCA,both,Cranberry light,#F67AAD,both
+603,#D06F97,208.0,111.0,151.0,Cranberry,255,115,140,#FF738C,both,Cranberry,#E94F8C,both
+602,#B64073,182.0,64.0,115.0,Cranberry-MD,231,84,122,#E7547A,both,Cranberry medium,#D7306D,both
+601,#9C1752,156.0,23.0,82.0,Cranberry-DK,222,57,105,#DE3969,both,Cranberry dark,#C61B57,both
+600,#890041,137.0,0.0,65.0,Cranberry-VY DK,208,57,106,#D0396A,both,Cranberry very dark,#AF0047,both
+3806,#D1789F,209.0,120.0,159.0,,,,,,left_only,Cyclamen Pink light,#E45592,both
+3805,#AA3870,170.0,56.0,112.0,,,,,,left_only,Cyclamen Pink,#CC2B73,both
+3804,#9D2360,157.0,35.0,96.0,,,,,,left_only,Cyclamen Pink dark,#BA1861,both
+3609,#D6A5C8,214.0,165.0,200.0,Plum-ULT LT,255,214,229,#FFD6E5,both,Plum ultra light,#E591CE,both
+3608,#C282AB,194.0,130.0,171.0,Plum-VY LT,247,152,182,#F798B6,both,Plum very light,#D770AD,both
+3607,#933879,147.0,56.0,121.0,Plum-LT,231,79,134,#E74F86,both,Plum light,#BF3D8F,both
+718,#74004D,116.0,0.0,77.0,Plum,219,55,121,#DB3779,both,Plum,#A7206F,both
+917,#780752,120.0,7.0,82.0,Plum-MD,171,22,95,#AB165F,both,Plum medium,#911B5B,both
+915,#3B001D,59.0,0.0,29.0,Plum-DK,170,24,91,#AA185B,both,Plum dark,#76003D,both
+33,#723D72,114.0,61.0,114.0,,,,,,left_only,Maroon,#884B8E,both
+34,#55014B,85.0,1.0,75.0,,,,,,left_only,Maroon Med,#7A3070,both
 35,#330027,51.0,0.0,39.0,,,,,,left_only,Maroon DK,#58274B,both
-778,#c8a6a9,200.0,166.0,169.0,Antique Mauve-VY LT,255,199,184,###FFC7B8,both,Antique Mauve very lt,#C9949E,both
-3727,#bc8f9e,188.0,143.0,158.0,Antique Mauve-LT,255,199,196,###FFC7C4,both,Antique Mauve light,#C9899C,both
-316,#a6738a,166.0,115.0,138.0,Antique Mauve-MD,220,141,141,###DC8D8D,both,Antique Mauve medium,#AF6A7F,both
-3726,#794452,121.0,68.0,82.0,Antique Mauve-DK,195,118,123,###C3767B,both,Antique Mauve dark,#804653,both
-315,#582737,88.0,39.0,55.0,Antique Mauve-VY DK,163,90,91,###A35A5B,both,Antique Mauve dark,#6F3842,both
+778,#C8A6A9,200.0,166.0,169.0,Antique Mauve-VY LT,255,199,184,#FFC7B8,both,Antique Mauve very lt,#C9949E,both
+3727,#BC8F9E,188.0,143.0,158.0,Antique Mauve-LT,255,199,196,#FFC7C4,both,Antique Mauve light,#C9899C,both
+316,#A6738A,166.0,115.0,138.0,Antique Mauve-MD,220,141,141,#DC8D8D,both,Antique Mauve medium,#AF6A7F,both
+3726,#794452,121.0,68.0,82.0,Antique Mauve-DK,195,118,123,#C3767B,both,Antique Mauve dark,#804653,both
+315,#582737,88.0,39.0,55.0,Antique Mauve-VY DK,163,90,91,#A35A5B,both,Antique Mauve dark,#6F3842,both
 3802,#481426,72.0,20.0,38.0,,,,,,left_only,Antique Mauve very dk,#602C36,both
-902,#410015,65.0,0.0,21.0,Granet-VY DK,138,24,77,###8A184D,both,Garnet very dark,#5B202E,both
-3836,#9f7e9b,159.0,126.0,155.0,,,,,,left_only,Grape light,#A26C90,both
-3835,#724a6e,114.0,74.0,110.0,,,,,,left_only,Grape medium,#714061,both
-3834,#3f163a,63.0,22.0,58.0,,,,,,left_only,Grape dark,#5B294A,both
-154,#14000f,20.0,0.0,15.0,,,,,,left_only,Grape very light,#38172B,both
-24,#e6d7e2,230.0,215.0,226.0,,,,,,left_only,Lilac Pale,#E0D9E4,both
-25,#d9cfdf,217.0,207.0,223.0,,,,,,left_only,Lilac,#D0CADB,both
-26,#c5c1d8,197.0,193.0,216.0,,,,,,left_only,Hyacinth,#BBB0D1,both
-211,#c2b8da,194.0,184.0,218.0,Lavender-LT,243,218,228,###F3DAE4,both,Lavender light,#D6B5E3,both
-210,#a999c8,169.0,153.0,200.0,Lavender-MD,236,207,225,###ECCFE1,both,Lavender medium,#BE91CD,both
-209,#866fa9,134.0,111.0,169.0,Lavender-DK,206,148,186,###CE94BA,both,Lavender dark,#A66CB3,both
-208,#633d88,99.0,61.0,136.0,Lavender-VY DK,148,91,128,###945B80,both,Lavender very dark,#824596,both
+902,#410015,65.0,0.0,21.0,Granet-VY DK,138,24,77,#8A184D,both,Garnet very dark,#5B202E,both
+3836,#9F7E9B,159.0,126.0,155.0,,,,,,left_only,Grape light,#A26C90,both
+3835,#724A6E,114.0,74.0,110.0,,,,,,left_only,Grape medium,#714061,both
+3834,#3F163A,63.0,22.0,58.0,,,,,,left_only,Grape dark,#5B294A,both
+154,#14000F,20.0,0.0,15.0,,,,,,left_only,Grape very light,#38172B,both
+24,#E6D7E2,230.0,215.0,226.0,,,,,,left_only,Lilac Pale,#E0D9E4,both
+25,#D9CFDF,217.0,207.0,223.0,,,,,,left_only,Lilac,#D0CADB,both
+26,#C5C1D8,197.0,193.0,216.0,,,,,,left_only,Hyacinth,#BBB0D1,both
+211,#C2B8DA,194.0,184.0,218.0,Lavender-LT,243,218,228,#F3DAE4,both,Lavender light,#D6B5E3,both
+210,#A999C8,169.0,153.0,200.0,Lavender-MD,236,207,225,#ECCFE1,both,Lavender medium,#BE91CD,both
+209,#866FA9,134.0,111.0,169.0,Lavender-DK,206,148,186,#CE94BA,both,Lavender dark,#A66CB3,both
+208,#633D88,99.0,61.0,136.0,Lavender-VY DK,148,91,128,#945B80,both,Lavender very dark,#824596,both
 3837,#482671,72.0,38.0,113.0,,,,,,left_only,Lavender ultra dark,#6C3681,both
-327,#462350,70.0,35.0,80.0,Violet-DK,61,0,103,###3D0067,both,Violet,#5E2E5E,both
-153,#c9b3d0,201.0,179.0,208.0,,,,,,left_only,Violet very light,#D19EC4,both
-554,#af92b8,175.0,146.0,184.0,Violet-LT,243,206,225,###F3CEE1,both,Violet light,#C48BC3,both
-553,#6d4987,109.0,73.0,135.0,Violet,160,100,146,###A06492,both,Violet,#924F92,both
-552,#562f6e,86.0,47.0,110.0,Violet-MD,146,85,130,###925582,both,Violet medium,#7B3881,both
-550,#2c033c,44.0,3.0,60.0,Violet-VY LT,109,18,97,###6D1261,both,Violet very dark,#47184B,both
-3743,#c3bbc4,195.0,187.0,196.0,Antique Violet-VY L,235,235,231,###EBEBE7,both,Antique Violet very,#BBA9B8,both
-3042,#9d8f9e,157.0,143.0,158.0,Antique Violet-LT,225,205,200,###E1CDC8,both,Antique Violet light,#967C8D,both
-3041,#675162,103.0,81.0,98.0,Antique Violet-MD,190,155,167,###BE9BA7,both,Antique Violet mediu,#725465,both
-3740,#482f3f,72.0,47.0,63.0,Antique Violet-DK,156,125,133,###9C7D85,both,Antique Violet dark,#5C3E4D,both
-27,#dbd7de,219.0,215.0,222.0,,,,,,left_only,Lilac aged,#D9D4D8,both
-28,#67637a,103.0,99.0,122.0,,,,,,left_only,Indigrey,#8178A0,both
-29,#2b1e38,43.0,30.0,56.0,,,,,,left_only,Purple DK,#493C5E,both
-3747,#bfc6d7,191.0,198.0,215.0,Blue Violet-VY LT,230,236,232,###E6ECE8,both,Blue Violet very light,#ADBADF,both
-341,#94a4c4,148.0,164.0,196.0,Blue Violet-LT,145,180,197,###91B4C5,both,Blue Violet light,#929ECB,both
-156,#7d8cb5,125.0,140.0,181.0,,,,,,left_only,Blue Violet medium lt,#737DB3,both
-340,#747cb2,116.0,124.0,178.0,Blue Violet-MD,162,121,164,###A279A4,both,Blue Violet medium,#7C76BE,both
-155,#7475ae,116.0,117.0,174.0,,,,,,left_only,Blue Violet medium dk,#7665AB,both
-3746,#545797,84.0,87.0,151.0,Blue Violet-DK,149,102,162,###9566A2,both,Blue Violet dark,#604F9F,both
-333,#3a2f77,58.0,47.0,119.0,Blue Violet-VY DK,127,84,130,###7F5482,both,Blue Violet very dark,#4F3687,both
+327,#462350,70.0,35.0,80.0,Violet-DK,61,0,103,#3D0067,both,Violet,#5E2E5E,both
+153,#C9B3D0,201.0,179.0,208.0,,,,,,left_only,Violet very light,#D19EC4,both
+554,#AF92B8,175.0,146.0,184.0,Violet-LT,243,206,225,#F3CEE1,both,Violet light,#C48BC3,both
+553,#6D4987,109.0,73.0,135.0,Violet,160,100,146,#A06492,both,Violet,#924F92,both
+552,#562F6E,86.0,47.0,110.0,Violet-MD,146,85,130,#925582,both,Violet medium,#7B3881,both
+550,#2C033C,44.0,3.0,60.0,Violet-VY LT,109,18,97,#6D1261,both,Violet very dark,#47184B,both
+3743,#C3BBC4,195.0,187.0,196.0,Antique Violet-VY L,235,235,231,#EBEBE7,both,Antique Violet very,#BBA9B8,both
+3042,#9D8F9E,157.0,143.0,158.0,Antique Violet-LT,225,205,200,#E1CDC8,both,Antique Violet light,#967C8D,both
+3041,#675162,103.0,81.0,98.0,Antique Violet-MD,190,155,167,#BE9BA7,both,Antique Violet mediu,#725465,both
+3740,#482F3F,72.0,47.0,63.0,Antique Violet-DK,156,125,133,#9C7D85,both,Antique Violet dark,#5C3E4D,both
+27,#DBD7DE,219.0,215.0,222.0,,,,,,left_only,Lilac aged,#D9D4D8,both
+28,#67637A,103.0,99.0,122.0,,,,,,left_only,Indigrey,#8178A0,both
+29,#2B1E38,43.0,30.0,56.0,,,,,,left_only,Purple DK,#493C5E,both
+3747,#BFC6D7,191.0,198.0,215.0,Blue Violet-VY LT,230,236,232,#E6ECE8,both,Blue Violet very light,#ADBADF,both
+341,#94A4C4,148.0,164.0,196.0,Blue Violet-LT,145,180,197,#91B4C5,both,Blue Violet light,#929ECB,both
+156,#7D8CB5,125.0,140.0,181.0,,,,,,left_only,Blue Violet medium lt,#737DB3,both
+340,#747CB2,116.0,124.0,178.0,Blue Violet-MD,162,121,164,#A279A4,both,Blue Violet medium,#7C76BE,both
+155,#7475AE,116.0,117.0,174.0,,,,,,left_only,Blue Violet medium dk,#7665AB,both
+3746,#545797,84.0,87.0,151.0,Blue Violet-DK,149,102,162,#9566A2,both,Blue Violet dark,#604F9F,both
+333,#3A2F77,58.0,47.0,119.0,Blue Violet-VY DK,127,84,130,#7F5482,both,Blue Violet very dark,#4F3687,both
 30,#727198,114.0,113.0,152.0,,,,,,left_only,Purple Mid,#8A89B0,both
-31,#4b4d76,75.0,77.0,118.0,,,,,,left_only,Violet aged,#65629D,both
-32,#2d2f55,45.0,47.0,85.0,,,,,,left_only,Indigo dark,#565385,both
-157,#9cb0c9,156.0,176.0,201.0,,,,,,left_only,Cornflower Blue very,#95ABCA,both
-794,#7c94b5,124.0,148.0,181.0,Cornflower Blue-LT,187,208,218,###BBD0DA,both,Cornflower Blue light,#708AB8,both
-793,#607198,96.0,113.0,152.0,Cornflower Blue-MD,147,139,164,###938BA4,both,Cornflower Blue medium,#546497,both
+31,#4B4D76,75.0,77.0,118.0,,,,,,left_only,Violet aged,#65629D,both
+32,#2D2F55,45.0,47.0,85.0,,,,,,left_only,Indigo dark,#565385,both
+157,#9CB0C9,156.0,176.0,201.0,,,,,,left_only,Cornflower Blue very,#95ABCA,both
+794,#7C94B5,124.0,148.0,181.0,Cornflower Blue-LT,187,208,218,#BBD0DA,both,Cornflower Blue light,#708AB8,both
+793,#607198,96.0,113.0,152.0,Cornflower Blue-MD,147,139,164,#938BA4,both,Cornflower Blue medium,#546497,both
 3807,#435382,67.0,83.0,130.0,,,,,,left_only,Cornflower Blue,#47548F,both
-792,#33437c,51.0,67.0,124.0,Cornflower Blue-DK,97,97,128,###616180,both,Cornflower Blue dark,#3A3E82,both
-158,#1d2758,29.0,39.0,88.0,,,,,,left_only,Cornflower Blue medium,#303065,both
-791,#181548,24.0,21.0,72.0,Cornflower Blue-VYD,71,55,93,###47375D,both,Cornflower Blue very,#2E2960,both
-3840,#a1b8d3,161.0,184.0,211.0,,,,,,left_only,Lavender Blue light,#85A3CE,both
-3839,#6b82b1,107.0,130.0,177.0,,,,,,left_only,Lavender Blue medium,#5B70AE,both
-3838,#556ba0,85.0,107.0,160.0,,,,,,left_only,Lavender Blue dark,#4A5CA6,both
-800,#98b5cc,152.0,181.0,204.0,Delft-PALE,233,238,233,###E9EEE9,both,Delft Blue pale,#8EB2D4,both
-809,#7d99c0,125.0,153.0,192.0,Delft,190,193,205,###BEC1CD,both,Delft Blue,#5C92BB,both
-799,#597da6,89.0,125.0,166.0,Delft-MD,132,156,182,###849CB6,both,Delft Blue medium,#537BB5,both
-798,#33568e,51.0,86.0,142.0,Delft-DK,103,115,141,###67738D,both,Delft Blue dark,#3D5FA3,both
-797,#1f2e69,31.0,46.0,105.0,Royal Blue,30,66,99,###1E4263,both,Royal Blue,#293A7C,both
-796,#121150,18.0,17.0,80.0,Royal Blue-DK,30,58,95,###1E3A5F,both,Royal Blue dark,#242B70,both
-820,#10033f,16.0,3.0,63.0,Royal Blue-VY DK,30,54,85,###1E3655,both,Royal Blue very dark,#202063,both
-162,#bad2d8,186.0,210.0,216.0,,,,,,left_only,Blue ultra very light,#A2C1D0,both
-827,#98bacc,152.0,186.0,204.0,Blue-VY LT,213,231,232,###D5E7E8,both,Blue very light,#87B4D0,both
-813,#6a94b1,106.0,148.0,177.0,Blue-LT,175,195,205,###AFC3CD,both,Blue - LT,#A1C2D7,both
-826,#3d6c96,61.0,108.0,150.0,Blue-MD,115,138,153,###738A99,both,Blue medium,#306BA1,both
-825,#073e6d,7.0,62.0,109.0,Blue-DK,85,108,128,###556C80,both,Blue dark,#1B4F86,both
-824,#042452,4.0,36.0,82.0,Blue-VY DK,71,97,116,###476174,both,Blue very dark,#1B3E71,both
-996,#2a9ece,42.0,158.0,206.0,Electric Blue-MD,170,222,225,###AADEE1,both,Electric Blue medium,#0097E1,both
-3843,#0070a3,0.0,112.0,163.0,,,,,,left_only,Electric Blue,#0081C7,both
-995,#006196,0.0,97.0,150.0,Electric Blue-DK,0,123,134,###007B86,both,Electric Blue dark,#006FBC,both
-3846,#18b3cc,24.0,179.0,204.0,,,,,,left_only,Bright Turquoise light,#00AFD1,both
-3845,#0096b2,0.0,150.0,178.0,,,,,,left_only,Bright Turquoise med,#009BBE,both
-3844,#006b84,0.0,107.0,132.0,,,,,,left_only,Bright Turquoise dark,#0089B2,both
-159,#99a2b6,153.0,162.0,182.0,,,,,,left_only,Grey Blue light,#97A6C5,both
-160,#6c7b97,108.0,123.0,151.0,,,,,,left_only,Grey Blue medium,#66759C,both
+792,#33437C,51.0,67.0,124.0,Cornflower Blue-DK,97,97,128,#616180,both,Cornflower Blue dark,#3A3E82,both
+158,#1D2758,29.0,39.0,88.0,,,,,,left_only,Cornflower Blue medium,#303065,both
+791,#181548,24.0,21.0,72.0,Cornflower Blue-VYD,71,55,93,#47375D,both,Cornflower Blue very,#2E2960,both
+3840,#A1B8D3,161.0,184.0,211.0,,,,,,left_only,Lavender Blue light,#85A3CE,both
+3839,#6B82B1,107.0,130.0,177.0,,,,,,left_only,Lavender Blue medium,#5B70AE,both
+3838,#556BA0,85.0,107.0,160.0,,,,,,left_only,Lavender Blue dark,#4A5CA6,both
+800,#98B5CC,152.0,181.0,204.0,Delft-PALE,233,238,233,#E9EEE9,both,Delft Blue pale,#8EB2D4,both
+809,#7D99C0,125.0,153.0,192.0,Delft,190,193,205,#BEC1CD,both,Delft Blue,#5C92BB,both
+799,#597DA6,89.0,125.0,166.0,Delft-MD,132,156,182,#849CB6,both,Delft Blue medium,#537BB5,both
+798,#33568E,51.0,86.0,142.0,Delft-DK,103,115,141,#67738D,both,Delft Blue dark,#3D5FA3,both
+797,#1F2E69,31.0,46.0,105.0,Royal Blue,30,66,99,#1E4263,both,Royal Blue,#293A7C,both
+796,#121150,18.0,17.0,80.0,Royal Blue-DK,30,58,95,#1E3A5F,both,Royal Blue dark,#242B70,both
+820,#10033F,16.0,3.0,63.0,Royal Blue-VY DK,30,54,85,#1E3655,both,Royal Blue very dark,#202063,both
+162,#BAD2D8,186.0,210.0,216.0,,,,,,left_only,Blue ultra very light,#A2C1D0,both
+827,#98BACC,152.0,186.0,204.0,Blue-VY LT,213,231,232,#D5E7E8,both,Blue very light,#87B4D0,both
+813,#6A94B1,106.0,148.0,177.0,Blue-LT,175,195,205,#AFC3CD,both,Blue - LT,#A1C2D7,both
+826,#3D6C96,61.0,108.0,150.0,Blue-MD,115,138,153,#738A99,both,Blue medium,#306BA1,both
+825,#073E6D,7.0,62.0,109.0,Blue-DK,85,108,128,#556C80,both,Blue dark,#1B4F86,both
+824,#042452,4.0,36.0,82.0,Blue-VY DK,71,97,116,#476174,both,Blue very dark,#1B3E71,both
+996,#2A9ECE,42.0,158.0,206.0,Electric Blue-MD,170,222,225,#AADEE1,both,Electric Blue medium,#0097E1,both
+3843,#0070A3,0.0,112.0,163.0,,,,,,left_only,Electric Blue,#0081C7,both
+995,#006196,0.0,97.0,150.0,Electric Blue-DK,0,123,134,#007B86,both,Electric Blue dark,#006FBC,both
+3846,#18B3CC,24.0,179.0,204.0,,,,,,left_only,Bright Turquoise light,#00AFD1,both
+3845,#0096B2,0.0,150.0,178.0,,,,,,left_only,Bright Turquoise med,#009BBE,both
+3844,#006B84,0.0,107.0,132.0,,,,,,left_only,Bright Turquoise dark,#0089B2,both
+159,#99A2B6,153.0,162.0,182.0,,,,,,left_only,Grey Blue light,#97A6C5,both
+160,#6C7B97,108.0,123.0,151.0,,,,,,left_only,Grey Blue medium,#66759C,both
 161,#475776,71.0,87.0,118.0,,,,,,left_only,Grey Blue,#4F5C85,both
-3756,#dee3de,222.0,227.0,222.0,Baby Blue-ULT VY LT,248,248,252,###F8F8FC,both,Baby Blue ultra,#DDEDF3,both
-775,#bcced4,188.0,206.0,212.0,Baby Blue-VY LT,247,246,248,###F7F6F8,both,Baby Blue very light,#B4CFDB,both
-3841,#aec6d1,174.0,198.0,209.0,,,,,,left_only,Baby Blue pale,#9FBCCE,both
-3325,#8aadc3,138.0,173.0,195.0,Baby Blue-LT,202,226,229,###CAE2E5,both,Baby Blue light,#8EB8D8,both
-3755,#729bb7,114.0,155.0,183.0,Baby Blue,158,176,206,###9EB0CE,both,Baby Blue,#6998C4,both
-334,#4b7597,75.0,117.0,151.0,Baby Blue-MD,115,140,170,###738CAA,both,Baby Blue medium,#4A75A6,both
-322,#4f7098,79.0,112.0,152.0,Navy Blue-VY LT,81,109,135,###516D87,both,Baby Blue dark,#40669B,both
-312,#102c55,16.0,44.0,85.0,Navy Blue-LT,58,84,103,###3A5467,both,Navy Blue light,#23426F,both
-803,#0a2447,10.0,36.0,71.0,,,,,,left_only,Baby Blue ultra very,#203660,both
-336,#091634,9.0,22.0,52.0,Navy Blue,36,73,103,###244967,both,Navy Blue,#202C4F,both
-823,#030215,3.0,2.0,21.0,Navy Blue-DK,0,0,73,###000049,both,Navy Blue dark,#20233A,both
-939,#030107,3.0,1.0,7.0,Navy Blue-Vy DK,0,0,49,###000031,both,Navy Blue very dark,#1B1B2C,both
-3753,#bcc9d1,188.0,201.0,209.0,Ant. Blue-ULT VY LT,237,247,247,###EDF7F7,both,Antique Blue ultra,#B1C6D7,both
-3752,#9fb1bd,159.0,177.0,189.0,Antique Blue-VY LT,194,209,206,###C2D1CE,both,Antique Blue very light,#9DB1BD,both
-932,#7d91a2,125.0,145.0,162.0,Antique Blue-LT,182,186,194,###B6BAC2,both,Antique Blue light,#758FA6,both
-931,#4e687f,78.0,104.0,127.0,Antique Blue-MD,124,135,145,###7C8791,both,Antique Blue medium,#536A82,both
-930,#203343,32.0,51.0,67.0,Antique Blue-DK,102,122,140,###667A8C,both,Antique Blue dark,#30465A,both
-3750,#081e35,8.0,30.0,53.0,Antique Blue-VY DK,12,91,108,###0C5B6C,both,Antique Blue very dark,#23384F,both
-828,#bad2d5,186.0,210.0,213.0,Blue-ULT VY LT,237,247,238,###EDF7EE,both,Blue ultra very light,#A6C9D4,both
-3761,#a4cad2,164.0,202.0,210.0,Sky Blue-LT,227,234,230,###E3EAE6,both,Sky Blue light,#8EC4D8,both
-519,#7daabd,125.0,170.0,189.0,Sky Blue,194,209,207,###C2D1CF,both,Sky Blue,#78B1C8,both
-518,#47859a,71.0,133.0,154.0,Wedgewood-LT,102,148,154,###66949A,both,Wedgewood light,#3D84A4,both
-3760,#34728f,52.0,114.0,143.0,Wedgewood,102,142,152,###668E98,both,Wedgewood (806),#2C6F99,both
-517,#004d77,0.0,77.0,119.0,Wedgewood-MD,16,127,135,###107F87,both,Wedgewood dark,#236391,both
-3842,#00395f,0.0,57.0,95.0,,,,,,left_only,Wedgewood dark,#0D3E6B,both
-311,#072544,7.0,37.0,68.0,Navy Blue-MD,0,79,97,###004F61,both,Navy Blue medium,#203050,both
-747,#bedcdd,190.0,220.0,221.0,Sky Blue-VY LT,240,247,239,###F0F7EF,both,Sky Blue very light,#ADDBE1,both
-3766,#7cb2bb,124.0,178.0,187.0,Peacock Blue-LT,24,101,111,###18656F,both,Peacock Blue light,#58A2B9,both
-807,#488a9a,72.0,138.0,154.0,Peacock Blue,128,167,160,###80A7A0,both,Peacock Blue dark,#6D90C7,both
-3765,#004d6c,0.0,77.0,108.0,Peacock Blue-VY DK,24,128,134,###188086,both,Raspberry dark,#005879,both
-3811,#a6c8c7,166.0,200.0,199.0,,,,,,left_only,Turquoise very light,#95C5C6,both
-598,#87b3b2,135.0,179.0,178.0,Turquoise-LT,208,223,205,###D0DFCD,both,Turquoise light,#7AB2B5,both
-597,#568d96,86.0,141.0,150.0,Turquoise,128,151,132,###809784,both,Turquoise,#4D929F,both
-3810,#34757f,52.0,117.0,127.0,,,,,,left_only,Turquoise dark,#347B8C,both
+3756,#DEE3DE,222.0,227.0,222.0,Baby Blue-ULT VY LT,248,248,252,#F8F8FC,both,Baby Blue ultra,#DDEDF3,both
+775,#BCCED4,188.0,206.0,212.0,Baby Blue-VY LT,247,246,248,#F7F6F8,both,Baby Blue very light,#B4CFDB,both
+3841,#AEC6D1,174.0,198.0,209.0,,,,,,left_only,Baby Blue pale,#9FBCCE,both
+3325,#8AADC3,138.0,173.0,195.0,Baby Blue-LT,202,226,229,#CAE2E5,both,Baby Blue light,#8EB8D8,both
+3755,#729BB7,114.0,155.0,183.0,Baby Blue,158,176,206,#9EB0CE,both,Baby Blue,#6998C4,both
+334,#4B7597,75.0,117.0,151.0,Baby Blue-MD,115,140,170,#738CAA,both,Baby Blue medium,#4A75A6,both
+322,#4F7098,79.0,112.0,152.0,Navy Blue-VY LT,81,109,135,#516D87,both,Baby Blue dark,#40669B,both
+312,#102C55,16.0,44.0,85.0,Navy Blue-LT,58,84,103,#3A5467,both,Navy Blue light,#23426F,both
+803,#0A2447,10.0,36.0,71.0,,,,,,left_only,Baby Blue ultra very,#203660,both
+336,#091634,9.0,22.0,52.0,Navy Blue,36,73,103,#244967,both,Navy Blue,#202C4F,both
+823,#030215,3.0,2.0,21.0,Navy Blue-DK,0,0,73,#000049,both,Navy Blue dark,#20233A,both
+939,#030107,3.0,1.0,7.0,Navy Blue-Vy DK,0,0,49,#000031,both,Navy Blue very dark,#1B1B2C,both
+3753,#BCC9D1,188.0,201.0,209.0,Ant. Blue-ULT VY LT,237,247,247,#EDF7F7,both,Antique Blue ultra,#B1C6D7,both
+3752,#9FB1BD,159.0,177.0,189.0,Antique Blue-VY LT,194,209,206,#C2D1CE,both,Antique Blue very light,#9DB1BD,both
+932,#7D91A2,125.0,145.0,162.0,Antique Blue-LT,182,186,194,#B6BAC2,both,Antique Blue light,#758FA6,both
+931,#4E687F,78.0,104.0,127.0,Antique Blue-MD,124,135,145,#7C8791,both,Antique Blue medium,#536A82,both
+930,#203343,32.0,51.0,67.0,Antique Blue-DK,102,122,140,#667A8C,both,Antique Blue dark,#30465A,both
+3750,#081E35,8.0,30.0,53.0,Antique Blue-VY DK,12,91,108,#0C5B6C,both,Antique Blue very dark,#23384F,both
+828,#BAD2D5,186.0,210.0,213.0,Blue-ULT VY LT,237,247,238,#EDF7EE,both,Blue ultra very light,#A6C9D4,both
+3761,#A4CAD2,164.0,202.0,210.0,Sky Blue-LT,227,234,230,#E3EAE6,both,Sky Blue light,#8EC4D8,both
+519,#7DAABD,125.0,170.0,189.0,Sky Blue,194,209,207,#C2D1CF,both,Sky Blue,#78B1C8,both
+518,#47859A,71.0,133.0,154.0,Wedgewood-LT,102,148,154,#66949A,both,Wedgewood light,#3D84A4,both
+3760,#34728F,52.0,114.0,143.0,Wedgewood,102,142,152,#668E98,both,Wedgewood (806),#2C6F99,both
+517,#004D77,0.0,77.0,119.0,Wedgewood-MD,16,127,135,#107F87,both,Wedgewood dark,#236391,both
+3842,#00395F,0.0,57.0,95.0,,,,,,left_only,Wedgewood dark,#0D3E6B,both
+311,#072544,7.0,37.0,68.0,Navy Blue-MD,0,79,97,#004F61,both,Navy Blue medium,#203050,both
+747,#BEDCDD,190.0,220.0,221.0,Sky Blue-VY LT,240,247,239,#F0F7EF,both,Sky Blue very light,#ADDBE1,both
+3766,#7CB2BB,124.0,178.0,187.0,Peacock Blue-LT,24,101,111,#18656F,both,Peacock Blue light,#58A2B9,both
+807,#488A9A,72.0,138.0,154.0,Peacock Blue,128,167,160,#80A7A0,both,Peacock Blue dark,#6D90C7,both
+3765,#004D6C,0.0,77.0,108.0,Peacock Blue-VY DK,24,128,134,#188086,both,Raspberry dark,#005879,both
+3811,#A6C8C7,166.0,200.0,199.0,,,,,,left_only,Turquoise very light,#95C5C6,both
+598,#87B3B2,135.0,179.0,178.0,Turquoise-LT,208,223,205,#D0DFCD,both,Turquoise light,#7AB2B5,both
+597,#568D96,86.0,141.0,150.0,Turquoise,128,151,132,#809784,both,Turquoise,#4D929F,both
+3810,#34757F,52.0,117.0,127.0,,,,,,left_only,Turquoise dark,#347B8C,both
 3809,#005059,0.0,80.0,89.0,,,,,,left_only,Turquoise very dark,#135C6D,both
 3808,#003035,0.0,48.0,53.0,,,,,,left_only,Turquoise ultra very,#004757,both
-928,#bbc2bd,187.0,194.0,189.0,Grey Green--VY LT,225,224,216,###E1E0D8,both,Grey Green very light,#ABB5B1,both
-927,#8e9c97,142.0,156.0,151.0,Grey Green-LT,200,198,194,###C8C6C2,both,Grey Green light,#889A97,both
-926,#687979,104.0,121.0,121.0,Grey Green-LT,96,116,115,###607473,both,Grey Green medium,#617878,both
-3768,#36484e,54.0,72.0,78.0,Grey Green-DK,92,110,108,###5C6E6C,both,Grey Green dark,#425B61,both
-924,#142d32,20.0,45.0,50.0,Grey Green--VY DK,86,99,100,###566364,both,Grey Green very dark,#294247,both
-3849,#50908c,80.0,144.0,140.0,,,,,,left_only,Teal Green light,#44918D,both
-3848,#136a64,19.0,106.0,100.0,,,,,,left_only,Teal Green medium,#186D6A,both
-3847,#003c37,0.0,60.0,55.0,,,,,,left_only,Teal Green dark,#00504D,both
-964,#95ccc3,149.0,204.0,195.0,Sea Green-LT,208,224,210,###D0E0D2,both,Sea Green light,#75CDC1,both
-959,#5cb19f,92.0,177.0,159.0,Sea Green-MD,171,206,177,###ABCEB1,both,Sea Green medium,#30AD9D,both
-958,#369c86,54.0,156.0,134.0,Sea Green-DK,0,160,130,###00A082,both,Sea Green dark,#009887,both
+928,#BBC2BD,187.0,194.0,189.0,Grey Green--VY LT,225,224,216,#E1E0D8,both,Grey Green very light,#ABB5B1,both
+927,#8E9C97,142.0,156.0,151.0,Grey Green-LT,200,198,194,#C8C6C2,both,Grey Green light,#889A97,both
+926,#687979,104.0,121.0,121.0,Grey Green-LT,96,116,115,#607473,both,Grey Green medium,#617878,both
+3768,#36484E,54.0,72.0,78.0,Grey Green-DK,92,110,108,#5C6E6C,both,Grey Green dark,#425B61,both
+924,#142D32,20.0,45.0,50.0,Grey Green--VY DK,86,99,100,#566364,both,Grey Green very dark,#294247,both
+3849,#50908C,80.0,144.0,140.0,,,,,,left_only,Teal Green light,#44918D,both
+3848,#136A64,19.0,106.0,100.0,,,,,,left_only,Teal Green medium,#186D6A,both
+3847,#003C37,0.0,60.0,55.0,,,,,,left_only,Teal Green dark,#00504D,both
+964,#95CCC3,149.0,204.0,195.0,Sea Green-LT,208,224,210,#D0E0D2,both,Sea Green light,#75CDC1,both
+959,#5CB19F,92.0,177.0,159.0,Sea Green-MD,171,206,177,#ABCEB1,both,Sea Green medium,#30AD9D,both
+958,#369C86,54.0,156.0,134.0,Sea Green-DK,0,160,130,#00A082,both,Sea Green dark,#009887,both
 3812,#007966,0.0,121.0,102.0,,,,,,left_only,Sea Green very dark,#00887C,both
-3851,#309e81,48.0,158.0,129.0,,,,,,left_only,Bright Green light,#009F82,both
-943,#007f63,0.0,127.0,99.0,Aquamarine-MD,0,162,117,###00A275,both,Aquamarine medium,#008F79,both
-3850,#006d4e,0.0,109.0,78.0,,,,,,left_only,Bright Green dark,#00856B,both
-993,#69a690,105.0,166.0,144.0,Aquamarine-LT,192,224,200,###C0E0C8,both,Aquamarine light,#55AB90,both
-992,#488c75,72.0,140.0,117.0,Aquamarine,146,183,165,###92B7A5,both,Aquamarine medium,#369380,both
-3814,#07695a,7.0,105.0,90.0,,,,,,left_only,Aquamarine (was 504),#0D7163,both
-991,#004f3e,0.0,79.0,62.0,Aquamarine-DK,47,91,73,###2F5B49,both,Aquamarine dark,#0D5850,both
-966,#95b697,149.0,182.0,151.0,Baby Green-MD,206,213,176,###CED5B0,both,Baby Green medium,#8DBF8E,both
-564,#9fc09e,159.0,192.0,158.0,Jade-VY LT,214,230,204,###D6E6CC,both,Jade very light,#8BC9A3,both
-563,#84ae8d,132.0,174.0,141.0,Jade-LT,182,212,180,###B6D4B4,both,Jade light,#6DB18C,both
-562,#497954,73.0,121.0,84.0,Jade-MD,97,134,97,###618661,both,Jade medium,#3A7C5A,both
+3851,#309E81,48.0,158.0,129.0,,,,,,left_only,Bright Green light,#009F82,both
+943,#007F63,0.0,127.0,99.0,Aquamarine-MD,0,162,117,#00A275,both,Aquamarine medium,#008F79,both
+3850,#006D4E,0.0,109.0,78.0,,,,,,left_only,Bright Green dark,#00856B,both
+993,#69A690,105.0,166.0,144.0,Aquamarine-LT,192,224,200,#C0E0C8,both,Aquamarine light,#55AB90,both
+992,#488C75,72.0,140.0,117.0,Aquamarine,146,183,165,#92B7A5,both,Aquamarine medium,#369380,both
+3814,#07695A,7.0,105.0,90.0,,,,,,left_only,Aquamarine (was 504),#0D7163,both
+991,#004F3E,0.0,79.0,62.0,Aquamarine-DK,47,91,73,#2F5B49,both,Aquamarine dark,#0D5850,both
+966,#95B697,149.0,182.0,151.0,Baby Green-MD,206,213,176,#CED5B0,both,Baby Green medium,#8DBF8E,both
+564,#9FC09E,159.0,192.0,158.0,Jade-VY LT,214,230,204,#D6E6CC,both,Jade very light,#8BC9A3,both
+563,#84AE8D,132.0,174.0,141.0,Jade-LT,182,212,180,#B6D4B4,both,Jade light,#6DB18C,both
+562,#497954,73.0,121.0,84.0,Jade-MD,97,134,97,#618661,both,Jade medium,#3A7C5A,both
 505,#275635,39.0,86.0,53.0,,,,,,left_only,Jade Green,#2C6142,both
-3817,#96ae9c,150.0,174.0,156.0,,,,,,left_only,Celadon Green light,#82AB96,both
-3816,#608c7b,96.0,140.0,123.0,,,,,,left_only,Celadon Green,#53836F,both
-163,#466b52,70.0,107.0,82.0,,,,,,left_only,Celadon Green medium,#44715B,both
-3815,#37634c,55.0,99.0,76.0,,,,,,left_only,Celadon Green dark,#386A57,both
-561,#224d38,34.0,77.0,56.0,Jade-VY DK,59,96,76,###3B604C,both,Jade very dark,#295544,both
-3813,#a4b7a9,164.0,183.0,169.0,,,,,,left_only,Blue Green light,#8CAC9D,both
-503,#7d9a8e,125.0,154.0,142.0,Blue Green-MD,195,206,183,###C3CEB7,both,Blue Green medium,#839C8B,both
-502,#5c7365,92.0,115.0,101.0,Blue Green,134,158,134,###869E86,both,Blue Green,#547565,both
-501,#31483e,49.0,72.0,62.0,Blue Green-DK,67,85,73,###435549,both,Blue Green dark,#36544A,both
-500,#091c15,9.0,28.0,21.0,Blue Green-VY DK,43,57,41,###2B3929,both,Blue Green very dark,#253D36,both
-955,#acd7b0,172.0,215.0,176.0,Nile Green-LT,214,230,204,###D6E6CC,both,Nile Green light,#97DCA8,both
-13,#a6cf9d,166.0,207.0,157.0,,,,,,left_only,Spearmint,#A8CEB7,both
-954,#88c193,136.0,193.0,147.0,Nile Green,170,213,164,###AAD5A4,both,Nile Green,#6CBE87,both
-913,#68ab78,104.0,171.0,120.0,Nile Green-MD,153,188,149,###99BC95,both,Nile Green medium,#4DAF78,both
-912,#479765,71.0,151.0,101.0,Emerald Green-LT,115,158,115,###739E73,both,Emerald Green light,#309C66,both
-911,#19834d,25.0,131.0,77.0,Emerald Green-MD,49,128,97,###318061,both,Emerald Green medium,#008853,both
-910,#00612d,0.0,97.0,45.0,Emerald Green-DK,48,116,91,###30745B,both,Emerald Green dark,#007A4B,both
-909,#00451f,0.0,69.0,31.0,Emerald Green-VY DK,49,105,85,###316955,both,Emerald Green very dk,#006540,both
+3817,#96AE9C,150.0,174.0,156.0,,,,,,left_only,Celadon Green light,#82AB96,both
+3816,#608C7B,96.0,140.0,123.0,,,,,,left_only,Celadon Green,#53836F,both
+163,#466B52,70.0,107.0,82.0,,,,,,left_only,Celadon Green medium,#44715B,both
+3815,#37634C,55.0,99.0,76.0,,,,,,left_only,Celadon Green dark,#386A57,both
+561,#224D38,34.0,77.0,56.0,Jade-VY DK,59,96,76,#3B604C,both,Jade very dark,#295544,both
+3813,#A4B7A9,164.0,183.0,169.0,,,,,,left_only,Blue Green light,#8CAC9D,both
+503,#7D9A8E,125.0,154.0,142.0,Blue Green-MD,195,206,183,#C3CEB7,both,Blue Green medium,#839C8B,both
+502,#5C7365,92.0,115.0,101.0,Blue Green,134,158,134,#869E86,both,Blue Green,#547565,both
+501,#31483E,49.0,72.0,62.0,Blue Green-DK,67,85,73,#435549,both,Blue Green dark,#36544A,both
+500,#091C15,9.0,28.0,21.0,Blue Green-VY DK,43,57,41,#2B3929,both,Blue Green very dark,#253D36,both
+955,#ACD7B0,172.0,215.0,176.0,Nile Green-LT,214,230,204,#D6E6CC,both,Nile Green light,#97DCA8,both
+13,#A6CF9D,166.0,207.0,157.0,,,,,,left_only,Spearmint,#A8CEB7,both
+954,#88C193,136.0,193.0,147.0,Nile Green,170,213,164,#AAD5A4,both,Nile Green,#6CBE87,both
+913,#68AB78,104.0,171.0,120.0,Nile Green-MD,153,188,149,#99BC95,both,Nile Green medium,#4DAF78,both
+912,#479765,71.0,151.0,101.0,Emerald Green-LT,115,158,115,#739E73,both,Emerald Green light,#309C66,both
+911,#19834D,25.0,131.0,77.0,Emerald Green-MD,49,128,97,#318061,both,Emerald Green medium,#008853,both
+910,#00612D,0.0,97.0,45.0,Emerald Green-DK,48,116,91,#30745B,both,Emerald Green dark,#007A4B,both
+909,#00451F,0.0,69.0,31.0,Emerald Green-VY DK,49,105,85,#316955,both,Emerald Green very dk,#006540,both
 3818,#003615,0.0,54.0,21.0,,,,,,left_only,Emerald Green ultra,#004F36,both
-369,#b6c39e,182.0,195.0,158.0,Pistachio Grn-VY LT,243,250,209,###F3FAD1,both,Pistachio Green very,#C1D49D,both
-368,#809468,128.0,148.0,104.0,Pistachio Green-LT,181,206,162,###B5CEA2,both,Pistachio Green light,#7BA476,both
-320,#597452,89.0,116.0,82.0,Pistachio Green-MD,138,153,120,###8A9978,both,Pistachio Green medium,#5A7F5A,both
-367,#375435,55.0,84.0,53.0,Pistachio Green-DK,95,112,91,###5F705B,both,Pistachio Green dark,#406647,both
-319,#06260e,6.0,38.0,14.0,Pistachio Grn-VY DK,85,95,82,###555F52,both,Pistachio Green very,#25402C,both
-890,#112317,17.0,35.0,23.0,Pistachio Grn-ULT D,79,86,76,###4F564C,both,Pistachio Green ultra,#1B3623,both
-164,#98b17b,152.0,177.0,123.0,,,,,,left_only,Forest Green light,#87BF78,both
-989,#718546,113.0,133.0,70.0,Forest Green,134,153,110,###86996E,both,Forest Green,#6C9254,both
-988,#5f7236,95.0,114.0,54.0,Forest Green-MD,134,145,110,###86916E,both,Forest Green medium,#5A8044,both
-987,#3d5022,61.0,80.0,34.0,Forest Green-DK,83,97,73,###536149,both,Forest Green dark,#42663A,both
-986,#153607,21.0,54.0,7.0,Forest Green-VY DK,58,82,65,###3A5241,both,Forest Green very dark,#25502C,both
-772,#ccd7aa,204.0,215.0,170.0,Pine Green--LT,231,249,203,###E7F9CB,both,Yellow Green very light,#C2DA97,both
-3348,#afae68,175.0,174.0,104.0,Yellow Green-LT,225,249,190,###E1F9BE,both,Yellow Green light,#A3B86A,both
-3347,#636d2a,99.0,109.0,42.0,Yellow Green-MD,128,152,115,###809873,both,Yellow Green medium,#6B834A,both
-3346,#48521b,72.0,82.0,27.0,Hunter Green,120,134,107,###78866B,both,Hunter Green,#4D6130,both
-3345,#1e2d05,30.0,45.0,5.0,Hunter Green-DK,97,100,82,###616452,both,Hunter Green dark,#344A25,both
-895,#082907,8.0,41.0,7.0,Hunter Green-VY DK,89,92,78,###595C4E,both,Hunter Green very dark,#253D25,both
-14,#d2dea4,210.0,222.0,164.0,,,,,,left_only,Cabbage LT,#C5C8A3,both
-15,#cdd38d,205.0,211.0,141.0,,,,,,left_only,Mint Creme,#BDC580,both
-16,#b9c655,185.0,198.0,85.0,,,,,,left_only,Ivy,#B0B56A,both
-704,#7a992a,122.0,153.0,42.0,Chartreuse-BRT,165,164,103,###A5A467,both,Chartreuse bright,#78AD44,both
-703,#69963f,105.0,150.0,63.0,Chartreuse,121,144,76,###79904C,both,Chartreuse,#60A746,both
-702,#448239,68.0,130.0,57.0,Kelly Green,79,121,66,###4F7942,both,Kelly Green,#34853E,both
-701,#0c6c22,12.0,108.0,34.0,Christmas Green-LT,79,108,69,###4F6C45,both,Christmas Green light,#0D7338,both
-700,#005a1a,0.0,90.0,26.0,Christmas Green-BRT,0,96,47,###00602F,both,Christmas Green bright,#00703E,both
-699,#003e16,0.0,62.0,22.0,Chirstmas Green,0,91,6,###005B06,both,Christmas Green,#005F3D,both
-907,#8fa10a,143.0,161.0,10.0,Parrot Green-LT,185,200,102,###B9C866,both,Parrot Green light,#87A623,both
-906,#567600,86.0,118.0,0.0,Parrot Green-MD,143,163,89,###8FA359,both,Parrot Green medium,#5A8B23,both
-905,#3a5500,58.0,85.0,0.0,Parrot Green-DK,98,119,57,###627739,both,Parrot Green dark,#3D7123,both
-904,#2e4200,46.0,66.0,0.0,Parrot Green-VY DK,78,95,57,###4E5F39,both,Parrot Green very dark,#345F25,both
-472,#b7ae58,183.0,174.0,88.0,Avocado Green-ULT L,238,255,182,###EEFFB6,both,Avocado Green ultra,#BBBB60,both
-471,#847f38,132.0,127.0,56.0,Avocado Green-VY LT,176,187,140,###B0BB8C,both,Avocado Green very lt,#8D9D54,both
-470,#616c07,97.0,108.0,7.0,Avocado Green-LT,133,143,108,###858F6C,both,Avocado Green light,#6A7830,both
-469,#514e00,81.0,78.0,0.0,Avocado Green,116,114,92,###74725C,both,Avocado Green,#575F23,both
-937,#3c4400,60.0,68.0,0.0,Avocado Green-MD,73,86,55,###495637,both,Avocado Green medium,#465429,both
-936,#35330c,53.0,51.0,12.0,Avocado Green--VY D,69,69,49,###454531,both,Avocado Green very dk,#424423,both
-935,#24240f,36.0,36.0,15.0,Avocado Green-DK,67,63,47,###433F2F,both,Avocado Green dark,#363D2C,both
-934,#1e1e16,30.0,30.0,22.0,Black Avocado Green,62,59,40,###3E3B28,both,Black Avocado Green,#2E3425,both
-3364,#797a4b,121.0,122.0,75.0,Pine Green,161,167,135,###A1A787,both,Pine Green,#89965F,both
-3363,#57603c,87.0,96.0,60.0,Pine Green-MD,116,127,96,###747F60,both,Pine Green medium,#5B6B4A,both
-3362,#3a4127,58.0,65.0,39.0,Pine Green-DK,96,95,84,###605F54,both,Pine Green dark,#424A33,both
-10,#e2ddba,226.0,221.0,186.0,,,,,,left_only,Manilla,#CECEB8,both
-11,#e3db7a,227.0,219.0,122.0,,,,,,left_only,Yellow/Green pale,#D5D29D,both
-12,#d1cb48,209.0,203.0,72.0,,,,,,left_only,Cabbage,#CCC563,both
-165,#cbc46d,203.0,196.0,109.0,,,,,,left_only,Moss Green very light,#CDC965,both
-3819,#c4bf56,196.0,191.0,86.0,,,,,,left_only,Moss Green light,#B8B738,both
-166,#a09500,160.0,149.0,0.0,,,,,,left_only,Moss Green medium light,#A19F20,both
-581,#767701,118.0,119.0,1.0,Moss Green,151,152,49,###979831,both,Moss Green,#797B29,both
-580,#5f5920,95.0,89.0,32.0,Moss Green-DK,0,103,0,###006700,both,Moss Green dark,#5C5F20,both
-523,#919378,145.0,147.0,120.0,Fern Green-LT,172,183,142,###ACB78E,both,Fern Green light,#8E9773,both
-3053,#888e64,136.0,142.0,100.0,Green Grey,187,179,148,###BBB394,both,Green Grey,#8B9669,both
-3052,#727451,114.0,116.0,81.0,Green Grey--MD,137,141,114,###898D72,both,Green Grey medium,#717C54,both
-3051,#353717,53.0,55.0,23.0,Green Grey-DK,85,73,0,###554900,both,Green Grey dark,#464D2E,both
-524,#9fa387,159.0,163.0,135.0,Fern Green-VY LT,205,182,158,###CDB69E,both,Fern Green very light,#9AA284,both
-522,#838a6f,131.0,138.0,111.0,Fern Green,159,169,142,###9FA98E,both,Fern Green,#727D5F,both
-520,#354028,53.0,64.0,40.0,Fern Green-DK,55,73,18,###374912,both,Fern Green dark,#3A4734,both
-734,#af9541,175.0,149.0,65.0,Olive Green-LT,221,166,107,###DDA66B,both,Olive Green light,#B09D47,both
-733,#947b22,148.0,123.0,34.0,Olive Green-MD,206,155,97,###CE9B61,both,Olive Green medium,#988630,both
-732,#665100,102.0,81.0,0.0,Olive Green,145,104,0,###916800,both,Olive Green (731),#695C20,both
-730,#4b3800,75.0,56.0,0.0,Olive Green-VY DK,132,102,0,###846600,both,Olive Green very dark,#574D20,both
-3013,#a29768,162.0,151.0,104.0,Khaki Green-LT,208,195,164,###D0C3A4,both,Khaki Green light,#A39F6A,both
-3012,#7c6d3f,124.0,109.0,63.0,Khaki Green-MD,170,134,103,###AA8667,both,Khaki Green medium,#7D7340,both
-3011,#574d2c,87.0,77.0,44.0,Khaki Green-DK,123,91,64,###7B5B40,both,Khaki Green dark,#5C5830,both
-372,#a7986e,167.0,152.0,110.0,Mustard - LT,203,162,107,###CBA26B,both,Mustard light,#A39361,both
-371,#867145,134.0,113.0,69.0,Mustard,196,155,100,###C49B64,both,Mustard,#8F7A47,both
-370,#917b49,145.0,123.0,73.0,Mustard - MD,184,138,87,###B88A57,both,Mustard medium,#826E3D,both
-17,#e0c76e,224.0,199.0,110.0,,,,,,left_only,Nutmeg LT,#D4C66B,both
-18,#dbbb44,219.0,187.0,68.0,,,,,,left_only,Yellow/Green Med,#B6A753,both
-834,#be9e4d,190.0,158.0,77.0,Golden Olive-VY LT,242,209,142,###F2D18E,both,Golden Olive very light,#C7A550,both
-833,#a68331,166.0,131.0,49.0,Golden Olive-LT,219,182,128,###DBB680,both,Golden Olive light,#B08D3E,both
-832,#936e1a,147.0,110.0,26.0,Golden Olive,178,119,55,###B27737,both,Golden Olive,#9A762C,both
-831,#77560a,119.0,86.0,10.0,Golden Olive-MD,144,103,18,###906712,both,Golden Olive medium,#785C25,both
-830,#5b3c00,91.0,60.0,0.0,Golden Olive-DK,136,95,18,###885F12,both,Golden Olive dark,#694B23,both
-829,#563302,86.0,51.0,2.0,Golden Olive-VY DK,130,90,8,###825A08,both,Golden Olive very dark,#5F4220,both
-746,#eae5c6,234.0,229.0,198.0,Off White,246,234,219,###F6EADB,both,Off White,#FAF1C7,both
-677,#e0c994,224.0,201.0,148.0,Old Gold-VY LT,255,231,182,###FFE7B6,both,Old Gold very light,#EACF8E,both
-422,#b99765,185.0,151.0,101.0,Hazel Nut Brown-LT,237,172,123,###EDAC7B,both,Hazel Nut Brown ligh,#BC935B,both
-3828,#a07947,160.0,121.0,71.0,,,,,,left_only,Hazel Nut Brown,#A67946,both
-420,#7f5222,127.0,82.0,34.0,Hazel Nut Brown-DK,140,91,43,###8C5B2B,both,Hazel Nut Brown dark,#8E6034,both
-869,#663e08,102.0,62.0,8.0,Hazel Nut Brn-VY DK,153,92,48,###995C30,both,Hazel Nut Brown very,#704725,both
-613,#cdc0a6,205.0,192.0,166.0,Drab Brown - LT,219,176,122,###DBB07A,both,Drab Brown very light,#AC966D,both
-612,#a18b66,161.0,139.0,102.0,Drab Brown - MD,203,152,103,###CB9867,both,Drab Brown light,#99815A,both
-611,#695235,105.0,82.0,53.0,Drab Brown - DK,158,109,91,###9E6D5B,both,Drab Brown,#705A3D,both
-610,#5e492c,94.0,73.0,44.0,Drab Brown - VY DK,151,104,84,###976854,both,Drab Brown dark,#604A30,both
-3047,#d4c799,212.0,199.0,153.0,Yellow Beige-LT,255,236,211,###FFECD3,both,Yellow Beige light,#DBC991,both
-3046,#c4aa6f,196.0,170.0,111.0,Yellow Beige-MD,229,193,139,###E5C18B,both,Yellow Beige medium,#C5A966,both
-3045,#a07b4b,160.0,123.0,75.0,Yellow Beige-DK,216,151,105,###D89769,both,Yellow Beige dark,#9F7646,both
-167,#80582c,128.0,88.0,44.0,,,,,,left_only,Yellow Beige very dark,#8D643A,both
-676,#d6b27a,214.0,178.0,122.0,Old Gold-LT,255,206,158,###FFCE9E,both,Old Gold light,#E6B469,both
-729,#be9256,190.0,146.0,86.0,Old Gold-MD,243,176,128,###F3B080,both,Old Gold medium,#C28940,both
-680,#9c6e28,156.0,110.0,40.0,Old Gold-DK,209,140,103,###D18C67,both,Old Gold dark,#A67334,both
-3829,#915e0b,145.0,94.0,11.0,,,,,,left_only,Old Gold very dark,#A46C2E,both
-3822,#e4c163,228.0,193.0,99.0,,,,,,left_only,Straw light,#F0C65F,both
-3821,#d6a93c,214.0,169.0,60.0,,,,,,left_only,Straw,#E3B044,both
-3820,#c9961c,201.0,150.0,28.0,,,,,,left_only,Straw dark,#D6962B,both
-3852,#b97e00,185.0,126.0,0.0,,,,,,left_only,Straw very dark,#C3801B,both
-728,#dca433,220.0,164.0,51.0,,,,,,left_only,Golden Yellow,#EFAD3D,both
-783,#be7900,190.0,121.0,0.0,Topaz-MD,225,146,85,###E19255,both,Topaz medium,#D0842C,both
-782,#925700,146.0,87.0,0.0,Topaz-DK,204,119,66,###CC7742,both,Topaz dark (781),#AC6520,both
-780,#7b3e00,123.0,62.0,0.0,Topaz-ULT VY DK,181,98,46,###B5622E,both,Topaz ultra very dark,#8C4A23,both
-3823,#f6e7be,246.0,231.0,190.0,,,,,,left_only,Yellow ultra pale,#FEEDB4,both
-3855,#f3c47d,243.0,196.0,125.0,,,,,,left_only,Autumn Gold light,#F9C170,both
-19,#f5bc6f,245.0,188.0,111.0,,,,,,left_only,Terracotta Pale,#E0B78A,both
-3854,#d99150,217.0,145.0,80.0,,,,,,left_only,Autumn Gold medium,#F29347,both
-3853,#c46617,196.0,102.0,23.0,,,,,,left_only,Autumn Gold dark,#D1642C,both
-3827,#d69b5d,214.0,155.0,93.0,,,,,,left_only,Golden Brown pale,#E19858,both
-977,#cf8c49,207.0,140.0,73.0,Golden Brown-LT,255,164,73,###FFA449,both,Golden Brown light,#E6833D,both
-976,#ae6419,174.0,100.0,25.0,Golden Brown-MD,246,141,57,###F68D39,both,Golden Brown medium,#C46A2C,both
-3826,#8d4506,141.0,69.0,6.0,,,,,,left_only,Golden Brown,#9C4D25,both
-975,#5a1f00,90.0,31.0,0.0,Golden Brown-DK,158,67,18,###9E4312,both,Golden Brown dark,#793A20,both
-445,#f5f1b3,245.0,241.0,179.0,Lemon-LT,255,255,190,###FFFFBE,both,Lemon light,#F7F57A,both
-307,#f7d830,247.0,216.0,48.0,Lemon,255,231,109,###FFE76D,both,Lemon,#FBDE18,both
-973,#f5c700,245.0,199.0,0.0,Canary-BRT,255,194,67,###FFC243,both,Canary bright,#FFCF00,both
-444,#efbc00,239.0,188.0,0.0,Lemon-DK,255,176,0,###FFB000,both,Lemon dark,#F0B900,both
-3078,#f5e499,245.0,228.0,153.0,Golden Yellow-VY LT,255,255,220,###FFFFDC,both,Golden Yellow very lt,#FAEB97,both
-727,#f7e181,247.0,225.0,129.0,Topaz-VY LT,255,235,168,###FFEBA8,both,Topaz very light,#FFE471,both
-726,#f8cf53,248.0,207.0,83.0,Topaz-LT,255,224,128,###FFE080,both,Topaz light,#FFD447,both
-725,#ecb037,236.0,176.0,55.0,Topaz,255,200,124,###FFC87C,both,Topaz,#FCBA40,both
-972,#f09d00,240.0,157.0,0.0,Canary-DP,255,146,0,###FF9200,both,Canary deep,#FFA400,both
-745,#f9dfa2,249.0,223.0,162.0,Yellow-LT PALE,255,240,197,###FFF0C5,both,Yellow light pale,#FFDF89,both
-744,#f6cf74,246.0,207.0,116.0,Yellow-PALE,255,239,170,###FFEFAA,both,Yellow pale,#FFDE7A,both
-743,#f5bf46,245.0,191.0,70.0,Yellow-MD,255,230,146,###FFE692,both,Yellow medium,#FFC847,both
-742,#f19f0e,241.0,159.0,14.0,Tangerine-LT,255,183,85,###FFB755,both,Tangerine light,#FFA523,both
-741,#f18800,241.0,136.0,0.0,Tangerine-MD,255,142,4,###FF8E04,both,Tangerine medium,#FF8820,both
-740,#e56100,229.0,97.0,0.0,Tangerine,255,131,19,###FF8313,both,Tangerine (971),#FF6C1B,both
-970,#ef6915,239.0,105.0,21.0,Pumpkin-LT,255,117,24,###FF7518,both,Pumpkin light,#FF6624,both
-947,#d24200,210.0,66.0,0.0,Burnt Orange,255,91,0,###FF5B00,both,Burnt Orange,#FF4A1B,both
-946,#c13807,193.0,56.0,7.0,Burnt Orange-MD,244,73,0,###F44900,both,Burnt Orange medium,#F53D1C,both
-900,#9c150b,156.0,21.0,11.0,Burnt Orange-DK,206,43,0,###CE2B00,both,Burnt Orange dark,#C63423,both
-967,#f9c2b2,249.0,194.0,178.0,,,,,,left_only,Apricot very light,#FFBEA9,both
-3824,#ec9e8b,236.0,158.0,139.0,,,,,,left_only,Apricot light,#FFA58D,both
-3341,#e4816b,228.0,129.0,107.0,Apricot,255,172,162,###EBACA2,both,Apricot,#FF8166,both
-3340,#db603e,219.0,96.0,62.0,Apricot-MD,255,123,103,###FF7B67,both,Apricot medium,#FF6647,both
-608,#c93200,201.0,50.0,0.0,Bright Orange,255,91,0,###FF5B00,both,Burnt Orange,#FF4225,both
-606,#a70100,167.0,1.0,0.0,Bright Orange-Red,255,0,0,###FF0000,both,Burnt Orange-Red,#E81820,both
-951,#e8cdb5,232.0,205.0,181.0,Flesh,255,229,188,###FFE5BC,both,Tawny light,#F7CEA9,both
-3856,#dfaf84,223.0,175.0,132.0,,,,,,left_only,Mahogany ultra very,#E5A472,both
-722,#e2834d,226.0,131.0,77.0,Orange Spice-LT,255,146,109,###FF926D,both,Orange Spice light,#FF824A,both
-721,#ce5822,206.0,88.0,34.0,Orange Spice-MD,255,115,97,###FF7361,both,Orange Spice medium,#F25C2C,both
-720,#af3700,175.0,55.0,0.0,Orange Spice-DK,200,36,43,###C8242B,both,Orange Spice dark,#D2421B,both
-3825,#eb9e70,235.0,158.0,112.0,,,,,,left_only,Pumpkin pale,#FF9A63,both
-922,#bb6239,187.0,98.0,57.0,Copper-LT,237,134,115,###ED8673,both,Copper light,#D7633A,both
-921,#9d401c,157.0,64.0,28.0,Copper,206,103,91,###CE675B,both,Copper,#BC4D2E,both
-920,#7f2203,127.0,34.0,3.0,Copper-MD,197,94,88,###C55E58,both,Copper medium,#A43D25,both
-919,#660600,102.0,6.0,0.0,Red Copper,180,75,82,###B44B52,both,Red Copper,#912920,both
-918,#5b1000,91.0,16.0,0.0,Red Copper-DK,168,68,76,###A8444C,both,Red Copper dark,#7B2E23,both
-3770,#f5e3d1,245.0,227.0,209.0,Flesh-VY LT,255,250,224,###FFFAE0,both,Tawny very light,#FFE6C9,both
-945,#dbba9e,219.0,186.0,158.0,Flesh-MD,255,206,164,###FFCEA4,both,Tawny medium,#EEB28F,both
-402,#d38e62,211.0,142.0,98.0,Mahogany-VY LT,255,190,164,###FFBEA4,both,Mahogany very light,#E8895B,both
-3776,#ad6741,173.0,103.0,65.0,Mahogony-LT,221,109,91,###DD6D5B,both,Mahogany light,#BD5F36,both
-301,#884319,136.0,67.0,25.0,Mahogany-MD,209,102,84,###D16654,both,Mahogany medium,#994725,both
-400,#591a00,89.0,26.0,0.0,Mahogany-DK,157,60,39,###9D3C27,both,Mahogany dark,#753321,both
-300,#3f0e01,63.0,14.0,1.0,Mahogany-VY DK,143,57,38,###8F3926,both,Mahogany very dark,#632E20,both
-225,#e7c6c2,231.0,198.0,194.0,Shell Pink-ULT VY L,255,240,228,###FFF0E4,both,Shell Pink ultra ver,#F5C4BD,both
-224,#ca9b97,202.0,155.0,151.0,Shell Pink-VY LT,255,199,176,###FFC7B0,both,Shell Pink very light,#D48F8B,both
-152,#bc8688,188.0,134.0,136.0,,,,,,left_only,Shell Pink medium li,#CC8285,both
-223,#93505a,147.0,80.0,90.0,Shell Pink-LT,219,128,115,###DB8073,both,Shell Pink light,#B35C65,both
-3722,#803c46,128.0,60.0,70.0,Shell Pink-MD,184,89,88,###B85958,both,Shell Pink medium,#99444D,both
-3721,#681f2b,104.0,31.0,43.0,Shell Pink-DK,184,75,77,###B84B4D,both,Shell Pink dark,#85303A,both
-221,#520416,82.0,4.0,22.0,Shell Pink-VY DK,156,41,74,###9C294A,both,Shell Pink very dark,#6D2329,both
-948,#e6cab6,230.0,202.0,182.0,Peach Flesh-VY LT,255,243,231,###FFF3E7,both,Peach very light,#FDD5C1,both
-754,#daaa93,218.0,170.0,147.0,Peach Flesh-LT,251,227,209,###FBE3D1,both,Peach light,#F4B096,both
-3771,#cc9778,204.0,151.0,120.0,,,,,,left_only,Terra Cotta ultra,#DF9B7B,both
-758,#c89079,200.0,144.0,121.0,Terra Cotta-VY LT,255,177,147,###FFB193,both,Terra Cotta very light,#DB917A,both
-3778,#ac6858,172.0,104.0,88.0,Terra Cotta-LT,237,122,100,###ED7A64,both,Terra Cotta light,#C1695A,both
-356,#914b41,145.0,75.0,65.0,Terra Cotta-MD,226,114,91,###E2725B,both,Terra Cotta medium,#AD4F45,both
-3830,#7e2a23,126.0,42.0,35.0,,,,,,left_only,Terra Cotta,#9C3A36,both
-355,#610908,97.0,9.0,8.0,Terra Cotta-DK,189,73,47,###BD492F,both,Terra Cotta dark,#882E2C,both
-3777,#480005,72.0,0.0,5.0,Terra Cotta-VY DK,191,64,36,###BF4024,both,Terra Cotta very dark,#822529,both
-3779,#d6a393,214.0,163.0,147.0,Ter. Cotta-ULT VY L,255,177,152,###FFB198,both,Terra Cotta ultra,#E8A492,both
+369,#B6C39E,182.0,195.0,158.0,Pistachio Grn-VY LT,243,250,209,#F3FAD1,both,Pistachio Green very,#C1D49D,both
+368,#809468,128.0,148.0,104.0,Pistachio Green-LT,181,206,162,#B5CEA2,both,Pistachio Green light,#7BA476,both
+320,#597452,89.0,116.0,82.0,Pistachio Green-MD,138,153,120,#8A9978,both,Pistachio Green medium,#5A7F5A,both
+367,#375435,55.0,84.0,53.0,Pistachio Green-DK,95,112,91,#5F705B,both,Pistachio Green dark,#406647,both
+319,#06260E,6.0,38.0,14.0,Pistachio Grn-VY DK,85,95,82,#555F52,both,Pistachio Green very,#25402C,both
+890,#112317,17.0,35.0,23.0,Pistachio Grn-ULT D,79,86,76,#4F564C,both,Pistachio Green ultra,#1B3623,both
+164,#98B17B,152.0,177.0,123.0,,,,,,left_only,Forest Green light,#87BF78,both
+989,#718546,113.0,133.0,70.0,Forest Green,134,153,110,#86996E,both,Forest Green,#6C9254,both
+988,#5F7236,95.0,114.0,54.0,Forest Green-MD,134,145,110,#86916E,both,Forest Green medium,#5A8044,both
+987,#3D5022,61.0,80.0,34.0,Forest Green-DK,83,97,73,#536149,both,Forest Green dark,#42663A,both
+986,#153607,21.0,54.0,7.0,Forest Green-VY DK,58,82,65,#3A5241,both,Forest Green very dark,#25502C,both
+772,#CCD7AA,204.0,215.0,170.0,Pine Green--LT,231,249,203,#E7F9CB,both,Yellow Green very light,#C2DA97,both
+3348,#AFAE68,175.0,174.0,104.0,Yellow Green-LT,225,249,190,#E1F9BE,both,Yellow Green light,#A3B86A,both
+3347,#636D2A,99.0,109.0,42.0,Yellow Green-MD,128,152,115,#809873,both,Yellow Green medium,#6B834A,both
+3346,#48521B,72.0,82.0,27.0,Hunter Green,120,134,107,#78866B,both,Hunter Green,#4D6130,both
+3345,#1E2D05,30.0,45.0,5.0,Hunter Green-DK,97,100,82,#616452,both,Hunter Green dark,#344A25,both
+895,#082907,8.0,41.0,7.0,Hunter Green-VY DK,89,92,78,#595C4E,both,Hunter Green very dark,#253D25,both
+14,#D2DEA4,210.0,222.0,164.0,,,,,,left_only,Cabbage LT,#C5C8A3,both
+15,#CDD38D,205.0,211.0,141.0,,,,,,left_only,Mint Creme,#BDC580,both
+16,#B9C655,185.0,198.0,85.0,,,,,,left_only,Ivy,#B0B56A,both
+704,#7A992A,122.0,153.0,42.0,Chartreuse-BRT,165,164,103,#A5A467,both,Chartreuse bright,#78AD44,both
+703,#69963F,105.0,150.0,63.0,Chartreuse,121,144,76,#79904C,both,Chartreuse,#60A746,both
+702,#448239,68.0,130.0,57.0,Kelly Green,79,121,66,#4F7942,both,Kelly Green,#34853E,both
+701,#0C6C22,12.0,108.0,34.0,Christmas Green-LT,79,108,69,#4F6C45,both,Christmas Green light,#0D7338,both
+700,#005A1A,0.0,90.0,26.0,Christmas Green-BRT,0,96,47,#00602F,both,Christmas Green bright,#00703E,both
+699,#003E16,0.0,62.0,22.0,Chirstmas Green,0,91,6,#005B06,both,Christmas Green,#005F3D,both
+907,#8FA10A,143.0,161.0,10.0,Parrot Green-LT,185,200,102,#B9C866,both,Parrot Green light,#87A623,both
+906,#567600,86.0,118.0,0.0,Parrot Green-MD,143,163,89,#8FA359,both,Parrot Green medium,#5A8B23,both
+905,#3A5500,58.0,85.0,0.0,Parrot Green-DK,98,119,57,#627739,both,Parrot Green dark,#3D7123,both
+904,#2E4200,46.0,66.0,0.0,Parrot Green-VY DK,78,95,57,#4E5F39,both,Parrot Green very dark,#345F25,both
+472,#B7AE58,183.0,174.0,88.0,Avocado Green-ULT L,238,255,182,#EEFFB6,both,Avocado Green ultra,#BBBB60,both
+471,#847F38,132.0,127.0,56.0,Avocado Green-VY LT,176,187,140,#B0BB8C,both,Avocado Green very lt,#8D9D54,both
+470,#616C07,97.0,108.0,7.0,Avocado Green-LT,133,143,108,#858F6C,both,Avocado Green light,#6A7830,both
+469,#514E00,81.0,78.0,0.0,Avocado Green,116,114,92,#74725C,both,Avocado Green,#575F23,both
+937,#3C4400,60.0,68.0,0.0,Avocado Green-MD,73,86,55,#495637,both,Avocado Green medium,#465429,both
+936,#35330C,53.0,51.0,12.0,Avocado Green--VY D,69,69,49,#454531,both,Avocado Green very dk,#424423,both
+935,#24240F,36.0,36.0,15.0,Avocado Green-DK,67,63,47,#433F2F,both,Avocado Green dark,#363D2C,both
+934,#1E1E16,30.0,30.0,22.0,Black Avocado Green,62,59,40,#3E3B28,both,Black Avocado Green,#2E3425,both
+3364,#797A4B,121.0,122.0,75.0,Pine Green,161,167,135,#A1A787,both,Pine Green,#89965F,both
+3363,#57603C,87.0,96.0,60.0,Pine Green-MD,116,127,96,#747F60,both,Pine Green medium,#5B6B4A,both
+3362,#3A4127,58.0,65.0,39.0,Pine Green-DK,96,95,84,#605F54,both,Pine Green dark,#424A33,both
+10,#E2DDBA,226.0,221.0,186.0,,,,,,left_only,Manilla,#CECEB8,both
+11,#E3DB7A,227.0,219.0,122.0,,,,,,left_only,Yellow/Green pale,#D5D29D,both
+12,#D1CB48,209.0,203.0,72.0,,,,,,left_only,Cabbage,#CCC563,both
+165,#CBC46D,203.0,196.0,109.0,,,,,,left_only,Moss Green very light,#CDC965,both
+3819,#C4BF56,196.0,191.0,86.0,,,,,,left_only,Moss Green light,#B8B738,both
+166,#A09500,160.0,149.0,0.0,,,,,,left_only,Moss Green medium light,#A19F20,both
+581,#767701,118.0,119.0,1.0,Moss Green,151,152,49,#979831,both,Moss Green,#797B29,both
+580,#5F5920,95.0,89.0,32.0,Moss Green-DK,0,103,0,#006700,both,Moss Green dark,#5C5F20,both
+523,#919378,145.0,147.0,120.0,Fern Green-LT,172,183,142,#ACB78E,both,Fern Green light,#8E9773,both
+3053,#888E64,136.0,142.0,100.0,Green Grey,187,179,148,#BBB394,both,Green Grey,#8B9669,both
+3052,#727451,114.0,116.0,81.0,Green Grey--MD,137,141,114,#898D72,both,Green Grey medium,#717C54,both
+3051,#353717,53.0,55.0,23.0,Green Grey-DK,85,73,0,#554900,both,Green Grey dark,#464D2E,both
+524,#9FA387,159.0,163.0,135.0,Fern Green-VY LT,205,182,158,#CDB69E,both,Fern Green very light,#9AA284,both
+522,#838A6F,131.0,138.0,111.0,Fern Green,159,169,142,#9FA98E,both,Fern Green,#727D5F,both
+520,#354028,53.0,64.0,40.0,Fern Green-DK,55,73,18,#374912,both,Fern Green dark,#3A4734,both
+734,#AF9541,175.0,149.0,65.0,Olive Green-LT,221,166,107,#DDA66B,both,Olive Green light,#B09D47,both
+733,#947B22,148.0,123.0,34.0,Olive Green-MD,206,155,97,#CE9B61,both,Olive Green medium,#988630,both
+732,#665100,102.0,81.0,0.0,Olive Green,145,104,0,#916800,both,Olive Green (731),#695C20,both
+730,#4B3800,75.0,56.0,0.0,Olive Green-VY DK,132,102,0,#846600,both,Olive Green very dark,#574D20,both
+3013,#A29768,162.0,151.0,104.0,Khaki Green-LT,208,195,164,#D0C3A4,both,Khaki Green light,#A39F6A,both
+3012,#7C6D3F,124.0,109.0,63.0,Khaki Green-MD,170,134,103,#AA8667,both,Khaki Green medium,#7D7340,both
+3011,#574D2C,87.0,77.0,44.0,Khaki Green-DK,123,91,64,#7B5B40,both,Khaki Green dark,#5C5830,both
+372,#A7986E,167.0,152.0,110.0,Mustard - LT,203,162,107,#CBA26B,both,Mustard light,#A39361,both
+371,#867145,134.0,113.0,69.0,Mustard,196,155,100,#C49B64,both,Mustard,#8F7A47,both
+370,#917B49,145.0,123.0,73.0,Mustard - MD,184,138,87,#B88A57,both,Mustard medium,#826E3D,both
+17,#E0C76E,224.0,199.0,110.0,,,,,,left_only,Nutmeg LT,#D4C66B,both
+18,#DBBB44,219.0,187.0,68.0,,,,,,left_only,Yellow/Green Med,#B6A753,both
+834,#BE9E4D,190.0,158.0,77.0,Golden Olive-VY LT,242,209,142,#F2D18E,both,Golden Olive very light,#C7A550,both
+833,#A68331,166.0,131.0,49.0,Golden Olive-LT,219,182,128,#DBB680,both,Golden Olive light,#B08D3E,both
+832,#936E1A,147.0,110.0,26.0,Golden Olive,178,119,55,#B27737,both,Golden Olive,#9A762C,both
+831,#77560A,119.0,86.0,10.0,Golden Olive-MD,144,103,18,#906712,both,Golden Olive medium,#785C25,both
+830,#5B3C00,91.0,60.0,0.0,Golden Olive-DK,136,95,18,#885F12,both,Golden Olive dark,#694B23,both
+829,#563302,86.0,51.0,2.0,Golden Olive-VY DK,130,90,8,#825A08,both,Golden Olive very dark,#5F4220,both
+746,#EAE5C6,234.0,229.0,198.0,Off White,246,234,219,#F6EADB,both,Off White,#FAF1C7,both
+677,#E0C994,224.0,201.0,148.0,Old Gold-VY LT,255,231,182,#FFE7B6,both,Old Gold very light,#EACF8E,both
+422,#B99765,185.0,151.0,101.0,Hazel Nut Brown-LT,237,172,123,#EDAC7B,both,Hazel Nut Brown ligh,#BC935B,both
+3828,#A07947,160.0,121.0,71.0,,,,,,left_only,Hazel Nut Brown,#A67946,both
+420,#7F5222,127.0,82.0,34.0,Hazel Nut Brown-DK,140,91,43,#8C5B2B,both,Hazel Nut Brown dark,#8E6034,both
+869,#663E08,102.0,62.0,8.0,Hazel Nut Brn-VY DK,153,92,48,#995C30,both,Hazel Nut Brown very,#704725,both
+613,#CDC0A6,205.0,192.0,166.0,Drab Brown - LT,219,176,122,#DBB07A,both,Drab Brown very light,#AC966D,both
+612,#A18B66,161.0,139.0,102.0,Drab Brown - MD,203,152,103,#CB9867,both,Drab Brown light,#99815A,both
+611,#695235,105.0,82.0,53.0,Drab Brown - DK,158,109,91,#9E6D5B,both,Drab Brown,#705A3D,both
+610,#5E492C,94.0,73.0,44.0,Drab Brown - VY DK,151,104,84,#976854,both,Drab Brown dark,#604A30,both
+3047,#D4C799,212.0,199.0,153.0,Yellow Beige-LT,255,236,211,#FFECD3,both,Yellow Beige light,#DBC991,both
+3046,#C4AA6F,196.0,170.0,111.0,Yellow Beige-MD,229,193,139,#E5C18B,both,Yellow Beige medium,#C5A966,both
+3045,#A07B4B,160.0,123.0,75.0,Yellow Beige-DK,216,151,105,#D89769,both,Yellow Beige dark,#9F7646,both
+167,#80582C,128.0,88.0,44.0,,,,,,left_only,Yellow Beige very dark,#8D643A,both
+676,#D6B27A,214.0,178.0,122.0,Old Gold-LT,255,206,158,#FFCE9E,both,Old Gold light,#E6B469,both
+729,#BE9256,190.0,146.0,86.0,Old Gold-MD,243,176,128,#F3B080,both,Old Gold medium,#C28940,both
+680,#9C6E28,156.0,110.0,40.0,Old Gold-DK,209,140,103,#D18C67,both,Old Gold dark,#A67334,both
+3829,#915E0B,145.0,94.0,11.0,,,,,,left_only,Old Gold very dark,#A46C2E,both
+3822,#E4C163,228.0,193.0,99.0,,,,,,left_only,Straw light,#F0C65F,both
+3821,#D6A93C,214.0,169.0,60.0,,,,,,left_only,Straw,#E3B044,both
+3820,#C9961C,201.0,150.0,28.0,,,,,,left_only,Straw dark,#D6962B,both
+3852,#B97E00,185.0,126.0,0.0,,,,,,left_only,Straw very dark,#C3801B,both
+728,#DCA433,220.0,164.0,51.0,,,,,,left_only,Golden Yellow,#EFAD3D,both
+783,#BE7900,190.0,121.0,0.0,Topaz-MD,225,146,85,#E19255,both,Topaz medium,#D0842C,both
+782,#925700,146.0,87.0,0.0,Topaz-DK,204,119,66,#CC7742,both,Topaz dark (781),#AC6520,both
+780,#7B3E00,123.0,62.0,0.0,Topaz-ULT VY DK,181,98,46,#B5622E,both,Topaz ultra very dark,#8C4A23,both
+3823,#F6E7BE,246.0,231.0,190.0,,,,,,left_only,Yellow ultra pale,#FEEDB4,both
+3855,#F3C47D,243.0,196.0,125.0,,,,,,left_only,Autumn Gold light,#F9C170,both
+19,#F5BC6F,245.0,188.0,111.0,,,,,,left_only,Terracotta Pale,#E0B78A,both
+3854,#D99150,217.0,145.0,80.0,,,,,,left_only,Autumn Gold medium,#F29347,both
+3853,#C46617,196.0,102.0,23.0,,,,,,left_only,Autumn Gold dark,#D1642C,both
+3827,#D69B5D,214.0,155.0,93.0,,,,,,left_only,Golden Brown pale,#E19858,both
+977,#CF8C49,207.0,140.0,73.0,Golden Brown-LT,255,164,73,#FFA449,both,Golden Brown light,#E6833D,both
+976,#AE6419,174.0,100.0,25.0,Golden Brown-MD,246,141,57,#F68D39,both,Golden Brown medium,#C46A2C,both
+3826,#8D4506,141.0,69.0,6.0,,,,,,left_only,Golden Brown,#9C4D25,both
+975,#5A1F00,90.0,31.0,0.0,Golden Brown-DK,158,67,18,#9E4312,both,Golden Brown dark,#793A20,both
+445,#F5F1B3,245.0,241.0,179.0,Lemon-LT,255,255,190,#FFFFBE,both,Lemon light,#F7F57A,both
+307,#F7D830,247.0,216.0,48.0,Lemon,255,231,109,#FFE76D,both,Lemon,#FBDE18,both
+973,#F5C700,245.0,199.0,0.0,Canary-BRT,255,194,67,#FFC243,both,Canary bright,#FFCF00,both
+444,#EFBC00,239.0,188.0,0.0,Lemon-DK,255,176,0,#FFB000,both,Lemon dark,#F0B900,both
+3078,#F5E499,245.0,228.0,153.0,Golden Yellow-VY LT,255,255,220,#FFFFDC,both,Golden Yellow very lt,#FAEB97,both
+727,#F7E181,247.0,225.0,129.0,Topaz-VY LT,255,235,168,#FFEBA8,both,Topaz very light,#FFE471,both
+726,#F8CF53,248.0,207.0,83.0,Topaz-LT,255,224,128,#FFE080,both,Topaz light,#FFD447,both
+725,#ECB037,236.0,176.0,55.0,Topaz,255,200,124,#FFC87C,both,Topaz,#FCBA40,both
+972,#F09D00,240.0,157.0,0.0,Canary-DP,255,146,0,#FF9200,both,Canary deep,#FFA400,both
+745,#F9DFA2,249.0,223.0,162.0,Yellow-LT PALE,255,240,197,#FFF0C5,both,Yellow light pale,#FFDF89,both
+744,#F6CF74,246.0,207.0,116.0,Yellow-PALE,255,239,170,#FFEFAA,both,Yellow pale,#FFDE7A,both
+743,#F5BF46,245.0,191.0,70.0,Yellow-MD,255,230,146,#FFE692,both,Yellow medium,#FFC847,both
+742,#F19F0E,241.0,159.0,14.0,Tangerine-LT,255,183,85,#FFB755,both,Tangerine light,#FFA523,both
+741,#F18800,241.0,136.0,0.0,Tangerine-MD,255,142,4,#FF8E04,both,Tangerine medium,#FF8820,both
+740,#E56100,229.0,97.0,0.0,Tangerine,255,131,19,#FF8313,both,Tangerine (971),#FF6C1B,both
+970,#EF6915,239.0,105.0,21.0,Pumpkin-LT,255,117,24,#FF7518,both,Pumpkin light,#FF6624,both
+947,#D24200,210.0,66.0,0.0,Burnt Orange,255,91,0,#FF5B00,both,Burnt Orange,#FF4A1B,both
+946,#C13807,193.0,56.0,7.0,Burnt Orange-MD,244,73,0,#F44900,both,Burnt Orange medium,#F53D1C,both
+900,#9C150B,156.0,21.0,11.0,Burnt Orange-DK,206,43,0,#CE2B00,both,Burnt Orange dark,#C63423,both
+967,#F9C2B2,249.0,194.0,178.0,,,,,,left_only,Apricot very light,#FFBEA9,both
+3824,#EC9E8B,236.0,158.0,139.0,,,,,,left_only,Apricot light,#FFA58D,both
+3341,#E4816B,228.0,129.0,107.0,Apricot,255,172,162,#EBACA2,both,Apricot,#FF8166,both
+3340,#DB603E,219.0,96.0,62.0,Apricot-MD,255,123,103,#FF7B67,both,Apricot medium,#FF6647,both
+608,#C93200,201.0,50.0,0.0,Bright Orange,255,91,0,#FF5B00,both,Burnt Orange,#FF4225,both
+606,#A70100,167.0,1.0,0.0,Bright Orange-Red,255,0,0,#FF0000,both,Burnt Orange-Red,#E81820,both
+951,#E8CDB5,232.0,205.0,181.0,Flesh,255,229,188,#FFE5BC,both,Tawny light,#F7CEA9,both
+3856,#DFAF84,223.0,175.0,132.0,,,,,,left_only,Mahogany ultra very,#E5A472,both
+722,#E2834D,226.0,131.0,77.0,Orange Spice-LT,255,146,109,#FF926D,both,Orange Spice light,#FF824A,both
+721,#CE5822,206.0,88.0,34.0,Orange Spice-MD,255,115,97,#FF7361,both,Orange Spice medium,#F25C2C,both
+720,#AF3700,175.0,55.0,0.0,Orange Spice-DK,200,36,43,#C8242B,both,Orange Spice dark,#D2421B,both
+3825,#EB9E70,235.0,158.0,112.0,,,,,,left_only,Pumpkin pale,#FF9A63,both
+922,#BB6239,187.0,98.0,57.0,Copper-LT,237,134,115,#ED8673,both,Copper light,#D7633A,both
+921,#9D401C,157.0,64.0,28.0,Copper,206,103,91,#CE675B,both,Copper,#BC4D2E,both
+920,#7F2203,127.0,34.0,3.0,Copper-MD,197,94,88,#C55E58,both,Copper medium,#A43D25,both
+919,#660600,102.0,6.0,0.0,Red Copper,180,75,82,#B44B52,both,Red Copper,#912920,both
+918,#5B1000,91.0,16.0,0.0,Red Copper-DK,168,68,76,#A8444C,both,Red Copper dark,#7B2E23,both
+3770,#F5E3D1,245.0,227.0,209.0,Flesh-VY LT,255,250,224,#FFFAE0,both,Tawny very light,#FFE6C9,both
+945,#DBBA9E,219.0,186.0,158.0,Flesh-MD,255,206,164,#FFCEA4,both,Tawny medium,#EEB28F,both
+402,#D38E62,211.0,142.0,98.0,Mahogany-VY LT,255,190,164,#FFBEA4,both,Mahogany very light,#E8895B,both
+3776,#AD6741,173.0,103.0,65.0,Mahogony-LT,221,109,91,#DD6D5B,both,Mahogany light,#BD5F36,both
+301,#884319,136.0,67.0,25.0,Mahogany-MD,209,102,84,#D16654,both,Mahogany medium,#994725,both
+400,#591A00,89.0,26.0,0.0,Mahogany-DK,157,60,39,#9D3C27,both,Mahogany dark,#753321,both
+300,#3F0E01,63.0,14.0,1.0,Mahogany-VY DK,143,57,38,#8F3926,both,Mahogany very dark,#632E20,both
+225,#E7C6C2,231.0,198.0,194.0,Shell Pink-ULT VY L,255,240,228,#FFF0E4,both,Shell Pink ultra ver,#F5C4BD,both
+224,#CA9B97,202.0,155.0,151.0,Shell Pink-VY LT,255,199,176,#FFC7B0,both,Shell Pink very light,#D48F8B,both
+152,#BC8688,188.0,134.0,136.0,,,,,,left_only,Shell Pink medium li,#CC8285,both
+223,#93505A,147.0,80.0,90.0,Shell Pink-LT,219,128,115,#DB8073,both,Shell Pink light,#B35C65,both
+3722,#803C46,128.0,60.0,70.0,Shell Pink-MD,184,89,88,#B85958,both,Shell Pink medium,#99444D,both
+3721,#681F2B,104.0,31.0,43.0,Shell Pink-DK,184,75,77,#B84B4D,both,Shell Pink dark,#85303A,both
+221,#520416,82.0,4.0,22.0,Shell Pink-VY DK,156,41,74,#9C294A,both,Shell Pink very dark,#6D2329,both
+948,#E6CAB6,230.0,202.0,182.0,Peach Flesh-VY LT,255,243,231,#FFF3E7,both,Peach very light,#FDD5C1,both
+754,#DAAA93,218.0,170.0,147.0,Peach Flesh-LT,251,227,209,#FBE3D1,both,Peach light,#F4B096,both
+3771,#CC9778,204.0,151.0,120.0,,,,,,left_only,Terra Cotta ultra,#DF9B7B,both
+758,#C89079,200.0,144.0,121.0,Terra Cotta-VY LT,255,177,147,#FFB193,both,Terra Cotta very light,#DB917A,both
+3778,#AC6858,172.0,104.0,88.0,Terra Cotta-LT,237,122,100,#ED7A64,both,Terra Cotta light,#C1695A,both
+356,#914B41,145.0,75.0,65.0,Terra Cotta-MD,226,114,91,#E2725B,both,Terra Cotta medium,#AD4F45,both
+3830,#7E2A23,126.0,42.0,35.0,,,,,,left_only,Terra Cotta,#9C3A36,both
+355,#610908,97.0,9.0,8.0,Terra Cotta-DK,189,73,47,#BD492F,both,Terra Cotta dark,#882E2C,both
+3777,#480005,72.0,0.0,5.0,Terra Cotta-VY DK,191,64,36,#BF4024,both,Terra Cotta very dark,#822529,both
+3779,#D6A393,214.0,163.0,147.0,Ter. Cotta-ULT VY L,255,177,152,#FFB198,both,Terra Cotta ultra,#E8A492,both
 3859,#956252,149.0,98.0,82.0,,,,,,left_only,Rosewood light,#B26D5C,both
 3858,#552121,85.0,33.0,33.0,,,,,,left_only,Rosewood medium,#753D36,both
 3857,#370609,55.0,6.0,9.0,,,,,,left_only,Rosewood dark,#572523,both
-20,#f4b4a3,244.0,180.0,163.0,,,,,,left_only,Flesh,#DBBBA6,both
-21,#ab574c,171.0,87.0,76.0,,,,,,left_only,Sunburn,#B87A6A,both
-22,#7a0f19,122.0,15.0,25.0,,,,,,left_only,Venison,#883D38,both
-3774,#dfc0ab,223.0,192.0,171.0,Sportsman Flsh-VY L,255,220,193,###FFDCC1,both,Desert Sand very light,#E9BEA6,both
-950,#d6b59f,214.0,181.0,159.0,Sportsman Flesh,239,162,127,###EFA27F,both,Desert Sand light,#DFAC93,both
-3064,#a5735c,165.0,115.0,92.0,Sportsman Flsh-VY D,194,101,76,###C2654C,both,Desert Sand,#B87359,both
-407,#a67767,166.0,119.0,103.0,Sportsman Flsh-VY D,194,101,76,###C2654C,both,Clay Brown (3773),#B17260,both
-3772,#825041,130.0,80.0,65.0,Negro Flesh,173,83,62,###AD533E,both,Desert Sand very dark,#935A4B,both
-632,#613023,97.0,48.0,35.0,Negro Flesh-MD,162,77,52,###A24D34,both,Desert Sand ultra ve,#723D34,both
-453,#c6bab4,198.0,186.0,180.0,Shell Grey - LT,235,207,185,###EBCFB9,both,Shell Grey light,#BFADA6,both
-452,#a79594,167.0,149.0,148.0,Shell Grey - MD,210,185,175,###D2B9AF,both,Shell Grey medium,#9F8B8B,both
-451,#7c6667,124.0,102.0,103.0,Shell Grey - DK,179,151,143,###B3978F,both,Shell Grey dark,#7A6C6C,both
+20,#F4B4A3,244.0,180.0,163.0,,,,,,left_only,Flesh,#DBBBA6,both
+21,#AB574C,171.0,87.0,76.0,,,,,,left_only,Sunburn,#B87A6A,both
+22,#7A0F19,122.0,15.0,25.0,,,,,,left_only,Venison,#883D38,both
+3774,#DFC0AB,223.0,192.0,171.0,Sportsman Flsh-VY L,255,220,193,#FFDCC1,both,Desert Sand very light,#E9BEA6,both
+950,#D6B59F,214.0,181.0,159.0,Sportsman Flesh,239,162,127,#EFA27F,both,Desert Sand light,#DFAC93,both
+3064,#A5735C,165.0,115.0,92.0,Sportsman Flsh-VY D,194,101,76,#C2654C,both,Desert Sand,#B87359,both
+407,#A67767,166.0,119.0,103.0,Sportsman Flsh-VY D,194,101,76,#C2654C,both,Clay Brown (3773),#B17260,both
+3772,#825041,130.0,80.0,65.0,Negro Flesh,173,83,62,#AD533E,both,Desert Sand very dark,#935A4B,both
+632,#613023,97.0,48.0,35.0,Negro Flesh-MD,162,77,52,#A24D34,both,Desert Sand ultra ve,#723D34,both
+453,#C6BAB4,198.0,186.0,180.0,Shell Grey - LT,235,207,185,#EBCFB9,both,Shell Grey light,#BFADA6,both
+452,#A79594,167.0,149.0,148.0,Shell Grey - MD,210,185,175,#D2B9AF,both,Shell Grey medium,#9F8B8B,both
+451,#7C6667,124.0,102.0,103.0,Shell Grey - DK,179,151,143,#B3978F,both,Shell Grey dark,#7A6C6C,both
 3861,#927676,146.0,118.0,118.0,,,,,,left_only,Cocoa light,#8D6C6A,both
 3860,#604444,96.0,68.0,68.0,,,,,,left_only,Cocoa,#6F4F4B,both
-779,#4b3030,75.0,48.0,48.0,,,,,,left_only,Cocoa dark,#543836,both
-09,#372428,55.0,36.0,40.0,,,,,,left_only,Brown V DK,#483837,both
-712,#e7dac3,231.0,218.0,195.0,Cream,245,240,219,###F5F0DB,both,Cream,#F3E8D2,both
-739,#e3cdab,227.0,205.0,171.0,Tan-ULT VY LT,244,233,202,###F4E9CA,both,Tan ultra very light,#EDCDA6,both
-738,#caaa81,202.0,170.0,129.0,Tan-VY LT,244,195,139,###F4C38B,both,Tan very light,#D5A978,both
-437,#c59867,197.0,152.0,103.0,Tan-LT,238,171,121,###EEAB79,both,Tan light,#D19C6A,both
-436,#a6794c,166.0,121.0,76.0,Tan,231,152,115,###E79873,both,Tan,#B97C4A,both
-435,#936036,147.0,96.0,54.0,Brown-VY LT,187,107,57,###BB6B39,both,Brown very light,#A36134,both
-434,#723700,114.0,55.0,0.0,Brown-LT,178,103,70,###B26746,both,Brown light,#804625,both
-433,#4f2403,79.0,36.0,3.0,Brown-MD,151,84,20,###975414,both,Brown medium,#643823,both
-801,#401c07,64.0,28.0,7.0,Coffee Brown-DK,123,71,20,###7B4714,both,Coffee Brown dark,#573324,both
-898,#320e02,50.0,14.0,2.0,Coffee Brown-VY DK,118,55,19,###763713,both,Coffee Brown very dark,#4A2E23,both
-938,#2f1512,47.0,21.0,18.0,Coffee Brown-ULT DK,99,39,16,###632710,both,Coffee Brown ultra dk,#3D2923,both
-3371,#180d0e,24.0,13.0,14.0,Black Brown,83,37,16,###532510,both,Black Brown,#2B2421,both
-543,#d3beae,211.0,190.0,174.0,Beige Brown-UL VY L,239,214,188,###EFD6BC,both,Beige Brown ultra,#E5C7AD,both
-3864,#b39781,179.0,151.0,129.0,,,,,,left_only,Mocha Beige light,#B1896F,both
-3863,#85644d,133.0,100.0,77.0,,,,,,left_only,Mocha Beige medium,#92694F,both
+779,#4B3030,75.0,48.0,48.0,,,,,,left_only,Cocoa dark,#543836,both
+09,#372428,55.0,36.0,40.0,,,,,,left_only,,,left_only
+712,#E7DAC3,231.0,218.0,195.0,Cream,245,240,219,#F5F0DB,both,Cream,#F3E8D2,both
+739,#E3CDAB,227.0,205.0,171.0,Tan-ULT VY LT,244,233,202,#F4E9CA,both,Tan ultra very light,#EDCDA6,both
+738,#CAAA81,202.0,170.0,129.0,Tan-VY LT,244,195,139,#F4C38B,both,Tan very light,#D5A978,both
+437,#C59867,197.0,152.0,103.0,Tan-LT,238,171,121,#EEAB79,both,Tan light,#D19C6A,both
+436,#A6794C,166.0,121.0,76.0,Tan,231,152,115,#E79873,both,Tan,#B97C4A,both
+435,#936036,147.0,96.0,54.0,Brown-VY LT,187,107,57,#BB6B39,both,Brown very light,#A36134,both
+434,#723700,114.0,55.0,0.0,Brown-LT,178,103,70,#B26746,both,Brown light,#804625,both
+433,#4F2403,79.0,36.0,3.0,Brown-MD,151,84,20,#975414,both,Brown medium,#643823,both
+801,#401C07,64.0,28.0,7.0,Coffee Brown-DK,123,71,20,#7B4714,both,Coffee Brown dark,#573324,both
+898,#320E02,50.0,14.0,2.0,Coffee Brown-VY DK,118,55,19,#763713,both,Coffee Brown very dark,#4A2E23,both
+938,#2F1512,47.0,21.0,18.0,Coffee Brown-ULT DK,99,39,16,#632710,both,Coffee Brown ultra dk,#3D2923,both
+3371,#180D0E,24.0,13.0,14.0,Black Brown,83,37,16,#532510,both,Black Brown,#2B2421,both
+543,#D3BEAE,211.0,190.0,174.0,Beige Brown-UL VY L,239,214,188,#EFD6BC,both,Beige Brown ultra,#E5C7AD,both
+3864,#B39781,179.0,151.0,129.0,,,,,,left_only,Mocha Beige light,#B1896F,both
+3863,#85644D,133.0,100.0,77.0,,,,,,left_only,Mocha Beige medium,#92694F,both
 3862,#694730,105.0,71.0,48.0,,,,,,left_only,Mocha Beige dark,#7C553E,both
-3031,#281610,40.0,22.0,16.0,Mocha Brown-VY DK,84,56,23,###543817,both,Mocha Brown very dark,#422E25,both
-3865,#f5f4ec,245.0,244.0,236.0,,,,,,left_only,Winter White,#F7F7F0,both
-ECRU,#e7dbc4,231.0,219.0,196.0,,,,,,left_only,,,left_only
-822,#d6ccb7,214.0,204.0,183.0,Beige Grey-LT,242,234,219,###F2EADB,both,Beige Grey light,#E0D6BA,both
-644,#bdb39f,189.0,179.0,159.0,Beige Grey-MD,224,224,215,###E0E0D7,both,Beige Grey medium,#BAB094,both
-642,#887a64,136.0,122.0,100.0,Beige Grey - DK,174,176,170,###AEB0AA,both,Beige Grey dark,#8C7D63,both
-640,#6d6148,109.0,97.0,72.0,Beige Grey - VY DK,163,163,157,###A3A39D,both,Beige Grey very dark,#72644F,both
-3787,#474135,71.0,65.0,53.0,Brown Grey - DK,139,109,115,###8B6D73,both,Brown Grey dark,#50473D,both
-3021,#261f1a,38.0,31.0,26.0,Brown Grey - VY DK,115,91,93,###735B5D,both,Brown Grey very dark,#46382E,both
-844,#383130,56.0,49.0,48.0,Beaver Brown -ULT D,107,103,102,###6B6766,both,Beaver Grey ultra dark,#3D3D36,both
-3033,#cfbeaa,207.0,190.0,170.0,Mocha Brown-VY LT,239,219,190,###EFDBBE,both,Mocha Brown very lig,#D2BDA6,both
-3782,#ab9981,171.0,153.0,129.0,Mocho Brown-LT,206,175,144,###CEAF90,both,Mocha Brown light,#AC9278,both
-3032,#89775e,137.0,119.0,94.0,Mocha Brown-MD,188,156,120,###BC9C78,both,Mocha Brown medium,#968669,both
-3790,#6e5846,110.0,88.0,70.0,Beige Grey - ULT DK,140,117,109,###8C756D,both,Beige Grey ultra dark,#614D3D,both
-3781,#402c1d,64.0,44.0,29.0,Mocha Brown-DK,113,71,42,###71472A,both,Mocha Brown dark,#503D2E,both
-05,#c2b3aa,194.0,179.0,170.0,,,,,,left_only,Light Brown,#C8C1B8,both
-06,#b8a89f,184.0,168.0,159.0,,,,,,left_only,Beige,#B4A293,both
-07,#89756b,137.0,117.0,107.0,,,,,,left_only,Brown,#7A6D64,both
-08,#503d37,80.0,61.0,55.0,,,,,,left_only,Brown DK,#695B50,both
-3866,#e0d3c9,224.0,211.0,201.0,,,,,,left_only,Mocha Brown ultra,#DDD1BE,both
-842,#b29a87,178.0,154.0,135.0,Beige Brown-VY LT,219,194,164,###DBC2A4,both,Beige Brown very light,#BF9F87,both
-841,#9e806e,158.0,128.0,110.0,Beige Brown-LT,188,134,107,###BC866B,both,Beige Brown light,#9B7863,both
-840,#7e604e,126.0,96.0,78.0,Beige Brown-MD,128,85,30,###80551E,both,Beige Brown medium,#7F5C4A,both
-839,#412b20,65.0,43.0,32.0,Beige Brown-DK,109,66,39,###6D4227,both,Beige Brown dark,#553D34,both
-838,#291311,41.0,19.0,17.0,Beige Brown-VY DK,94,56,27,###5E381B,both,Beige Brown very dark,#453029,both
-3072,#cbcbc1,203.0,203.0,193.0,Beaver Grey - VY LT,233,233,223,###E9E9DF,both,Beaver Grey very light,#C2C6BE,both
-647,#949382,148.0,147.0,130.0,Beaver Grey - MD,190,190,185,###BEBEB9,both,Beaver Grey medium,#7D7B70,both
-3023,#9c9482,156.0,148.0,130.0,Brown Grey - LT,198,190,173,###C6BEAD,both,Brown Grey light,#938D76,both
-3022,#797860,121.0,120.0,96.0,Brown Grey - MD,172,172,170,###ACACAA,both,Brown Grey medium,#73725F,both
-3024,#bfbeb2,191.0,190.0,178.0,Brown Grey - VY LT,210,208,205,###D2D0CD,both,Brown Grey very ligh,#B9B09F,both
-648,#a59e93,165.0,158.0,147.0,Beaver Grey-LT,202,202,202,###CACACA,both,Beaver Grey light,#98988B,both
-646,#756d60,117.0,109.0,96.0,Beaver Grey-DK,121,121,121,###797979,both,Beaver Grey dark,#696359,both
-645,#504945,80.0,73.0,69.0,Beaver Grey - VY DK,113,113,113,###717171,both,Beaver Grey very dark,#545E47,both
-B5200,#fefffd,254.0,255.0,253.0,,,,,,left_only,Snow White,#FAFAFF,both
-BLANC,#f8f7f5,248.0,247.0,245.0,blanc White,255,255,255,###FFFFFF,both,White,#FCFCFC,both
-762,#d7d8da,215.0,216.0,218.0,Pearl Grey - VY LT,232,232,229,###E8E8E5,both,Pearl Grey very light,#C4C5CE,both
-415,#adafb8,173.0,175.0,184.0,Pearl Grey,221,221,218,###DDDDDA,both,Pearl Grey,#9FA6B1,both
-318,#848994,132.0,137.0,148.0,Steel Grey - LT,197,198,190,###C5C6BE,both,Steel Grey light,#808796,both
-414,#606470,96.0,100.0,112.0,Steel Grey - DK,167,139,136,###A78B88,both,Steel Grey dark,#646B78,both
-01,#cdcacb,205.0,202.0,203.0,,,,,,left_only,Light Grey,#C5C5C5,both
-02,#b8b7ba,184.0,183.0,186.0,,,,,,left_only,Grey,#ABABAB,both
-03,#918f98,145.0,143.0,152.0,,,,,,left_only,Steel Grey,#908F90,both
-04,#6c666e,108.0,102.0,110.0,,,,,,left_only,Dark Grey,#676464,both
-535,#423d41,66.0,61.0,65.0,Ash Grey - VY LT,85,85,89,###555559,both,Ash Grey very light,#4B4B46,both
-168,#aeb4b8,174.0,180.0,184.0,,,,,,left_only,Pewter very light,#ABB3B7,both
+3031,#281610,40.0,22.0,16.0,Mocha Brown-VY DK,84,56,23,#543817,both,Mocha Brown very dark,#422E25,both
+3865,#F5F4EC,245.0,244.0,236.0,,,,,,left_only,Winter White,#F7F7F0,both
+ECRU,#E7DBC4,231.0,219.0,196.0,,,,,,left_only,,,left_only
+822,#D6CCB7,214.0,204.0,183.0,Beige Grey-LT,242,234,219,#F2EADB,both,Beige Grey light,#E0D6BA,both
+644,#BDB39F,189.0,179.0,159.0,Beige Grey-MD,224,224,215,#E0E0D7,both,Beige Grey medium,#BAB094,both
+642,#887A64,136.0,122.0,100.0,Beige Grey - DK,174,176,170,#AEB0AA,both,Beige Grey dark,#8C7D63,both
+640,#6D6148,109.0,97.0,72.0,Beige Grey - VY DK,163,163,157,#A3A39D,both,Beige Grey very dark,#72644F,both
+3787,#474135,71.0,65.0,53.0,Brown Grey - DK,139,109,115,#8B6D73,both,Brown Grey dark,#50473D,both
+3021,#261F1A,38.0,31.0,26.0,Brown Grey - VY DK,115,91,93,#735B5D,both,Brown Grey very dark,#46382E,both
+844,#383130,56.0,49.0,48.0,Beaver Brown -ULT D,107,103,102,#6B6766,both,Beaver Grey ultra dark,#3D3D36,both
+3033,#CFBEAA,207.0,190.0,170.0,Mocha Brown-VY LT,239,219,190,#EFDBBE,both,Mocha Brown very lig,#D2BDA6,both
+3782,#AB9981,171.0,153.0,129.0,Mocho Brown-LT,206,175,144,#CEAF90,both,Mocha Brown light,#AC9278,both
+3032,#89775E,137.0,119.0,94.0,Mocha Brown-MD,188,156,120,#BC9C78,both,Mocha Brown medium,#968669,both
+3790,#6E5846,110.0,88.0,70.0,Beige Grey - ULT DK,140,117,109,#8C756D,both,Beige Grey ultra dark,#614D3D,both
+3781,#402C1D,64.0,44.0,29.0,Mocha Brown-DK,113,71,42,#71472A,both,Mocha Brown dark,#503D2E,both
+05,#C2B3AA,194.0,179.0,170.0,,,,,,left_only,,,left_only
+06,#B8A89F,184.0,168.0,159.0,,,,,,left_only,,,left_only
+07,#89756B,137.0,117.0,107.0,,,,,,left_only,,,left_only
+08,#503D37,80.0,61.0,55.0,,,,,,left_only,,,left_only
+3866,#E0D3C9,224.0,211.0,201.0,,,,,,left_only,Mocha Brown ultra,#DDD1BE,both
+842,#B29A87,178.0,154.0,135.0,Beige Brown-VY LT,219,194,164,#DBC2A4,both,Beige Brown very light,#BF9F87,both
+841,#9E806E,158.0,128.0,110.0,Beige Brown-LT,188,134,107,#BC866B,both,Beige Brown light,#9B7863,both
+840,#7E604E,126.0,96.0,78.0,Beige Brown-MD,128,85,30,#80551E,both,Beige Brown medium,#7F5C4A,both
+839,#412B20,65.0,43.0,32.0,Beige Brown-DK,109,66,39,#6D4227,both,Beige Brown dark,#553D34,both
+838,#291311,41.0,19.0,17.0,Beige Brown-VY DK,94,56,27,#5E381B,both,Beige Brown very dark,#453029,both
+3072,#CBCBC1,203.0,203.0,193.0,Beaver Grey - VY LT,233,233,223,#E9E9DF,both,Beaver Grey very light,#C2C6BE,both
+647,#949382,148.0,147.0,130.0,Beaver Grey - MD,190,190,185,#BEBEB9,both,Beaver Grey medium,#7D7B70,both
+3023,#9C9482,156.0,148.0,130.0,Brown Grey - LT,198,190,173,#C6BEAD,both,Brown Grey light,#938D76,both
+3022,#797860,121.0,120.0,96.0,Brown Grey - MD,172,172,170,#ACACAA,both,Brown Grey medium,#73725F,both
+3024,#BFBEB2,191.0,190.0,178.0,Brown Grey - VY LT,210,208,205,#D2D0CD,both,Brown Grey very ligh,#B9B09F,both
+648,#A59E93,165.0,158.0,147.0,Beaver Grey-LT,202,202,202,#CACACA,both,Beaver Grey light,#98988B,both
+646,#756D60,117.0,109.0,96.0,Beaver Grey-DK,121,121,121,#797979,both,Beaver Grey dark,#696359,both
+645,#504945,80.0,73.0,69.0,Beaver Grey - VY DK,113,113,113,#717171,both,Beaver Grey very dark,#545E47,both
+B5200,#FEFFFD,254.0,255.0,253.0,,,,,,left_only,Snow White,#FAFAFF,both
+BLANC,#F8F7F5,248.0,247.0,245.0,blanc White,255,255,255,#FFFFFF,both,White,#FCFCFC,both
+762,#D7D8DA,215.0,216.0,218.0,Pearl Grey - VY LT,232,232,229,#E8E8E5,both,Pearl Grey very light,#C4C5CE,both
+415,#ADAFB8,173.0,175.0,184.0,Pearl Grey,221,221,218,#DDDDDA,both,Pearl Grey,#9FA6B1,both
+318,#848994,132.0,137.0,148.0,Steel Grey - LT,197,198,190,#C5C6BE,both,Steel Grey light,#808796,both
+414,#606470,96.0,100.0,112.0,Steel Grey - DK,167,139,136,#A78B88,both,Steel Grey dark,#646B78,both
+01,#CDCACB,205.0,202.0,203.0,,,,,,left_only,,,left_only
+02,#B8B7BA,184.0,183.0,186.0,,,,,,left_only,,,left_only
+03,#918F98,145.0,143.0,152.0,,,,,,left_only,,,left_only
+04,#6C666E,108.0,102.0,110.0,,,,,,left_only,,,left_only
+535,#423D41,66.0,61.0,65.0,Ash Grey - VY LT,85,85,89,#555559,both,Ash Grey very light,#4B4B46,both
+168,#AEB4B8,174.0,180.0,184.0,,,,,,left_only,Pewter very light,#ABB3B7,both
 169,#717779,113.0,119.0,121.0,,,,,,left_only,Pewter light,#707A7A,both
-317,#3f4550,63.0,69.0,80.0,Pewter Grey,167,139,136,###A78B88,both,Pewter Grey,#4F5460,both
-413,#31353c,49.0,53.0,60.0,Pewter Grey - DK,109,95,95,###6D5F5F,both,Pewter Grey dark,#3D4247,both
-3799,#212326,33.0,35.0,38.0,Pewter Grey - VY DK,81,76,83,###514C53,both,Pewter Grey very dark,#303438,both
-310,#010002,1.0,0.0,2.0,Black,0,0,0,###000000,both,Black,#000000,both
-504,,,,,Blue Green-LT,206,221,193,###CEDDC1,right_only,,,left_only
-731,,,,,Olive Green-DK,140,103,0,###8C6700,right_only,,,left_only
-776,,,,,Pink-MD,255,177,174,###FFB1AE,right_only,,,left_only
-781,,,,,Topaz-VY DK,181,107,56,###B56B38,right_only,,,left_only
-806,,,,,Peacock Blue-DK,30,130,133,###1E8285,right_only,,,left_only
-868,,,,,Hazel Nut Brown-VYD,153,92,48,###995C30,right_only,,,left_only
-971,,,,,Pumpkin,255,106,0,###FF6A00,right_only,,,left_only
-3773,,,,,Sportsman Flsh-MD,231,134,103,###E78667,right_only,,,left_only
+317,#3F4550,63.0,69.0,80.0,Pewter Grey,167,139,136,#A78B88,both,Pewter Grey,#4F5460,both
+413,#31353C,49.0,53.0,60.0,Pewter Grey - DK,109,95,95,#6D5F5F,both,Pewter Grey dark,#3D4247,both
+3799,#212326,33.0,35.0,38.0,Pewter Grey - VY DK,81,76,83,#514C53,both,Pewter Grey very dark,#303438,both
+310,#010002,1.0,0.0,2.0,Black,0,0,0,#000000,both,Black,#000000,both
+504,,,,,Blue Green-LT,206,221,193,#CEDDC1,right_only,,,left_only
+731,,,,,Olive Green-DK,140,103,0,#8C6700,right_only,,,left_only
+776,,,,,Pink-MD,255,177,174,#FFB1AE,right_only,,,left_only
+781,,,,,Topaz-VY DK,181,107,56,#B56B38,right_only,,,left_only
+806,,,,,Peacock Blue-DK,30,130,133,#1E8285,right_only,,,left_only
+868,,,,,Hazel Nut Brown-VYD,153,92,48,#995C30,right_only,,,left_only
+971,,,,,Pumpkin,255,106,0,#FF6A00,right_only,,,left_only
+3773,,,,,Sportsman Flsh-MD,231,134,103,#E78667,right_only,,,left_only
+001,,,,,,,,,,,Light Grey,#C5C5C5,right_only
+002,,,,,,,,,,,Grey,#ABABAB,right_only
+003,,,,,,,,,,,Steel Grey,#908F90,right_only
+004,,,,,,,,,,,Dark Grey,#676464,right_only
+005,,,,,,,,,,,Light Brown,#C8C1B8,right_only
+006,,,,,,,,,,,Beige,#B4A293,right_only
+007,,,,,,,,,,,Brown,#7A6D64,right_only
+008,,,,,,,,,,,Brown DK,#695B50,right_only
+009,,,,,,,,,,,Brown V DK,#483837,right_only
 ECRUT,,,,,,,,,,,Ecru,#EDDEC4,right_only
 E5200,,,,,,,,,,,Snow White,#FAFAFF,right_only
 E940,,,,,,,,,,,Glow White,#FCFCFC,right_only

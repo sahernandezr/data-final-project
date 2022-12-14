@@ -1,0 +1,490 @@
+code,name,brand,type_floss,color_family,img_link,hexcode1,r1,g1,b1,hexcode2,r2,g2,b2,hexcode3,r3,g3,b3
+01,White Tin,DMC,mouliné,light,https://disenosparabordar.com/wp-content/uploads/2021/11/11701.jpg,#CDCACB,205.0,202.0,203.0,#CDCACB,205.0,202.0,203.0,#CDCACB,205.0,202.0,203.0
+02,Tin,DMC,mouliné,light,https://disenosparabordar.com/wp-content/uploads/2021/11/11702.jpg,#B8B7BA,184.0,183.0,186.0,#B8B7BA,184.0,183.0,186.0,#B8B7BA,184.0,183.0,186.0
+03,Medium Tin,DMC,mouliné,grey,https://disenosparabordar.com/wp-content/uploads/2021/11/11703.jpg,#918F98,145.0,143.0,152.0,#918F98,145.0,143.0,152.0,#918F98,145.0,143.0,152.0
+04,Dark Tin,DMC,mouliné,grey,https://disenosparabordar.com/wp-content/uploads/2021/11/11704-1.jpg,#6C666E,108.0,102.0,110.0,#6C666E,108.0,102.0,110.0,#6C666E,108.0,102.0,110.0
+05,Light Driftwood,DMC,mouliné,brown,https://disenosparabordar.com/wp-content/uploads/2021/11/11705.jpg,#C2B3AA,194.0,179.0,170.0,#C2B3AA,194.0,179.0,170.0,#C2B3AA,194.0,179.0,170.0
+06,Medium Light Driftwood,DMC,mouliné,brown,https://disenosparabordar.com/wp-content/uploads/2021/11/11706.jpg,#B8A89F,184.0,168.0,159.0,#B8A89F,184.0,168.0,159.0,#B8A89F,184.0,168.0,159.0
+07,Driftwood,DMC,mouliné,brown,https://disenosparabordar.com/wp-content/uploads/2021/11/11707.jpg,#89756B,137.0,117.0,107.0,#89756B,137.0,117.0,107.0,#89756B,137.0,117.0,107.0
+08,Dark Driftwood,DMC,mouliné,brown,https://disenosparabordar.com/wp-content/uploads/2021/11/11708.jpg,#503D37,80.0,61.0,55.0,#503D37,80.0,61.0,55.0,#503D37,80.0,61.0,55.0
+09,Very Dark Cocoa,DMC,mouliné,brown,https://disenosparabordar.com/wp-content/uploads/2021/11/11709.jpg,#372428,55.0,36.0,40.0,#372428,55.0,36.0,40.0,#372428,55.0,36.0,40.0
+10,Very Light Tender Green,DMC,mouliné,light,https://disenosparabordar.com/wp-content/uploads/2021/11/11710.jpg,#E2DDBA,226.0,221.0,186.0,#CECEB8,255.0,233.0,233.0,#CECEB8,206.0,206.0,184.0
+11,Light Tender Green,DMC,mouliné,yellow,https://disenosparabordar.com/wp-content/uploads/2021/11/11711.jpg,#E3DB7A,227.0,219.0,122.0,#D5D29D,255.0,211.0,212.0,#D5D29D,213.0,210.0,157.0
+12,Tender Green,DMC,mouliné,yellow,https://disenosparabordar.com/wp-content/uploads/2021/11/11712.jpg,#D1CB48,209.0,203.0,72.0,#CCC563,253.0,134.0,141.0,#CCC563,204.0,197.0,99.0
+13,Medium Light Nile Green,DMC,mouliné,muted green,https://disenosparabordar.com/wp-content/uploads/2021/11/11713.jpg,#A6CF9D,166.0,207.0,157.0,#A8CEB7,255.0,234.0,235.0,#A8CEB7,168.0,206.0,183.0
+14,Pale Apple Green,DMC,mouliné,muted green,https://disenosparabordar.com/wp-content/uploads/2021/11/11714.jpg,#D2DEA4,210.0,222.0,164.0,#C5C8A3,254.0,212.0,219.0,#C5C8A3,197.0,200.0,163.0
+15,Apple Green,DMC,mouliné,muted green,https://disenosparabordar.com/wp-content/uploads/2021/11/11715.jpg,#CDD38D,205.0,211.0,141.0,#BDC580,255.0,128.0,109.0,#BDC580,189.0,197.0,128.0
+16,Light Chartreuse,DMC,mouliné,muted green,https://disenosparabordar.com/wp-content/uploads/2021/11/11716.jpg,#B9C655,185.0,198.0,85.0,#B0B56A,255.0,85.0,91.0,#B0B56A,176.0,181.0,106.0
+17,Light Yellow Plum,DMC,mouliné,yellow,https://disenosparabordar.com/wp-content/uploads/2021/11/11717.jpg,#E0C76E,224.0,199.0,110.0,#D4C66B,255.0,157.0,150.0,#D4C66B,212.0,198.0,107.0
+18,Yellow Plum,DMC,mouliné,yellow,https://disenosparabordar.com/wp-content/uploads/2021/11/11718.jpg,#DBBB44,219.0,187.0,68.0,#B6A753,233.0,109.0,115.0,#B6A753,182.0,167.0,83.0
+19,Medium Light Autumn Gold,DMC,mouliné,yellow,https://disenosparabordar.com/wp-content/uploads/2021/11/11719.jpg,#F5BC6F,245.0,188.0,111.0,#E0B78A,250.0,151.0,144.0,#E0B78A,224.0,183.0,138.0
+20,Shrimp,DMC,mouliné,orange,https://disenosparabordar.com/wp-content/uploads/2021/11/11720.jpg,#F4B4A3,244.0,180.0,163.0,#DBBBA6,231.0,79.0,134.0,#DBBBA6,219.0,187.0,166.0
+21,Light Alizarin,DMC,mouliné,orange,https://disenosparabordar.com/wp-content/uploads/2021/11/11721.jpg,#AB574C,171.0,87.0,76.0,#B87A6A,219.0,55.0,121.0,#B87A6A,184.0,122.0,106.0
+22,Alizarin,DMC,mouliné,orange,https://disenosparabordar.com/wp-content/uploads/2021/11/11722.jpg,#7A0F19,122.0,15.0,25.0,#883D38,171.0,22.0,95.0,#883D38,136.0,61.0,56.0
+23,Apple Blossom,DMC,mouliné,pink,https://disenosparabordar.com/wp-content/uploads/2021/11/11723.jpg,#F2E4E5,242.0,228.0,229.0,#E8DADF,232.0,218.0,223.0,#E8DADF,232.0,218.0,223.0
+24,White Lavender,DMC,mouliné,purple,https://disenosparabordar.com/wp-content/uploads/2021/11/11724.jpg,#E6D7E2,230.0,215.0,226.0,#E0D9E4,224.0,217.0,228.0,#E0D9E4,224.0,217.0,228.0
+25,Ultra Light Lavender,DMC,mouliné,purple,https://disenosparabordar.com/wp-content/uploads/2021/11/11725.jpg,#D9CFDF,217.0,207.0,223.0,#D0CADB,208.0,202.0,219.0,#D0CADB,208.0,202.0,219.0
+26,Pale Lavender,DMC,mouliné,purple,https://disenosparabordar.com/wp-content/uploads/2021/11/11726.jpg,#C5C1D8,197.0,193.0,216.0,#BBB0D1,187.0,176.0,209.0,#BBB0D1,187.0,176.0,209.0
+27,White Violet,DMC,mouliné,light,https://disenosparabordar.com/wp-content/uploads/2021/11/11727.jpg,#DBD7DE,219.0,215.0,222.0,#D9D4D8,217.0,212.0,216.0,#D9D4D8,217.0,212.0,216.0
+28,Medium Light Eggplant,DMC,mouliné,grey,https://disenosparabordar.com/wp-content/uploads/2021/11/11728.jpg,#67637A,103.0,99.0,122.0,#8178A0,129.0,120.0,160.0,#8178A0,129.0,120.0,160.0
+29,Eggplant,DMC,mouliné,purple,https://disenosparabordar.com/wp-content/uploads/2021/11/11729.jpg,#2B1E38,43.0,30.0,56.0,#493C5E,73.0,60.0,94.0,#493C5E,73.0,60.0,94.0
+30,Medium Light Blueberry,DMC,mouliné,purple,https://disenosparabordar.com/wp-content/uploads/2021/11/11730.jpg,#727198,114.0,113.0,152.0,#8A89B0,138.0,137.0,176.0,#8A89B0,138.0,137.0,176.0
+31,Blueberry,DMC,mouliné,blue,https://disenosparabordar.com/wp-content/uploads/2021/11/11731.jpg,#4B4D76,75.0,77.0,118.0,#65629D,101.0,98.0,157.0,#65629D,101.0,98.0,157.0
+32,Dark Blueberry,DMC,mouliné,blue,https://disenosparabordar.com/wp-content/uploads/2021/11/11732.jpg,#2D2F55,45.0,47.0,85.0,#565385,86.0,83.0,133.0,#565385,86.0,83.0,133.0
+33,Fuchsia,DMC,mouliné,purple,https://disenosparabordar.com/wp-content/uploads/2021/11/11733.jpg,#723D72,114.0,61.0,114.0,#884B8E,136.0,75.0,142.0,#884B8E,136.0,75.0,142.0
+34,Dark Fuchsia,DMC,mouliné,purple,https://disenosparabordar.com/wp-content/uploads/2021/11/11734.jpg,#55014B,85.0,1.0,75.0,#7A3070,122.0,48.0,112.0,#7A3070,122.0,48.0,112.0
+35,Very Dark Fuchsia,DMC,mouliné,purple,https://disenosparabordar.com/wp-content/uploads/2021/11/11735.jpg,#330027,51.0,0.0,39.0,#58274B,88.0,39.0,75.0,#58274B,88.0,39.0,75.0
+150,Ultra Very Dark Dusty Rose,DMC,mouliné,red,https://disenosparabordar.com/wp-content/uploads/2021/11/117150.jpg,#5D001F,93.0,0.0,31.0,#911238,145.0,18.0,56.0,#911238,145.0,18.0,56.0
+151,Very Light Dusty Rose,DMC,mouliné,pink,https://disenosparabordar.com/wp-content/uploads/2021/11/117151.jpg,#E2ACB9,226.0,172.0,185.0,#F2A8BA,242.0,168.0,186.0,#F2A8BA,242.0,168.0,186.0
+152,Medium Light Shell Pink,DMC,mouliné,pink,https://disenosparabordar.com/wp-content/uploads/2021/11/117152.jpg,#BC8688,188.0,134.0,136.0,#CC8285,208.0,57.0,106.0,#CC8285,204.0,130.0,133.0
+153,Very Light Violet,DMC,mouliné,purple,https://disenosparabordar.com/wp-content/uploads/2021/11/117153.jpg,#C9B3D0,201.0,179.0,208.0,#D19EC4,209.0,158.0,196.0,#D19EC4,209.0,158.0,196.0
+154,Very Dark Grape,DMC,mouliné,purple,https://disenosparabordar.com/wp-content/uploads/2021/11/117154.jpg,#14000F,20.0,0.0,15.0,#38172B,56.0,23.0,43.0,#38172B,56.0,23.0,43.0
+155,Medium Dark Blue Violet,DMC,mouliné,purple,https://disenosparabordar.com/wp-content/uploads/2021/11/117155.jpg,#7475AE,116.0,117.0,174.0,#7665AB,118.0,101.0,171.0,#7665AB,118.0,101.0,171.0
+156,Medium Light Blue Violet,DMC,mouliné,blue,https://disenosparabordar.com/wp-content/uploads/2021/11/117156.jpg,#7D8CB5,125.0,140.0,181.0,#737DB3,115.0,125.0,179.0,#737DB3,115.0,125.0,179.0
+157,Very Light Cornflower Blue,DMC,mouliné,blue,https://disenosparabordar.com/wp-content/uploads/2021/11/117157.jpg,#9CB0C9,156.0,176.0,201.0,#95ABCA,149.0,171.0,202.0,#95ABCA,149.0,171.0,202.0
+158,Medium Very Dark Cornflower Blue,DMC,mouliné,blue,https://disenosparabordar.com/wp-content/uploads/2021/11/117158.jpg,#1D2758,29.0,39.0,88.0,#303065,48.0,48.0,101.0,#303065,48.0,48.0,101.0
+159,Light Gray Blue,DMC,mouliné,blue,https://disenosparabordar.com/wp-content/uploads/2021/11/117159.jpg,#99A2B6,153.0,162.0,182.0,#97A6C5,194.0,36.0,67.0,#97A6C5,151.0,166.0,197.0
+160,Medium Gray Blue,DMC,mouliné,blue,https://disenosparabordar.com/wp-content/uploads/2021/11/117160.jpg,#6C7B97,108.0,123.0,151.0,#66759C,255.0,196.0,184.0,#66759C,102.0,117.0,156.0
+161,Gray Blue,DMC,mouliné,blue,https://disenosparabordar.com/wp-content/uploads/2021/11/117161.jpg,#475776,71.0,87.0,118.0,#4F5C85,255.0,157.0,144.0,#4F5C85,79.0,92.0,133.0
+162,Ultra Very Light Blue,DMC,mouliné,blue,https://disenosparabordar.com/wp-content/uploads/2021/11/117162.jpg,#BAD2D8,186.0,210.0,216.0,#A2C1D0,253.0,229.0,217.0,#A2C1D0,162.0,193.0,208.0
+163,Medium Caledon Green,DMC,mouliné,green,https://disenosparabordar.com/wp-content/uploads/2021/11/117163.jpg,#466B52,70.0,107.0,82.0,#44715B,243.0,149.0,157.0,#44715B,68.0,113.0,91.0
+164,Light Forest Green,DMC,mouliné,green,https://disenosparabordar.com/wp-content/uploads/2021/11/117164.jpg,#98B17B,152.0,177.0,123.0,#87BF78,255.0,109.0,115.0,#87BF78,135.0,191.0,120.0
+165,Very Light Moss Green,DMC,mouliné,muted green,https://disenosparabordar.com/wp-content/uploads/2021/11/117165.jpg,#CBC46D,203.0,196.0,109.0,#CDC965,243.0,108.0,123.0,#CDC965,205.0,201.0,101.0
+166,Medium Light Moss Green,DMC,mouliné,muted green,https://disenosparabordar.com/wp-content/uploads/2021/11/117166.jpg,#A09500,160.0,149.0,0.0,#A19F20,248.0,247.0,221.0,#A19F20,161.0,159.0,32.0
+167,Very Dark Yellow Beige,DMC,mouliné,brown,https://disenosparabordar.com/wp-content/uploads/2021/11/117167.jpg,#80582C,128.0,88.0,44.0,#8D643A,188.0,22.0,65.0,#8D643A,141.0,100.0,58.0
+168,Very Light Pewter,DMC,mouliné,grey,https://disenosparabordar.com/wp-content/uploads/2021/11/117168.jpg,#AEB4B8,174.0,180.0,184.0,#ABB3B7,96.0,44.0,54.0,#ABB3B7,171.0,179.0,183.0
+169,Light Pewter,DMC,mouliné,grey,https://disenosparabordar.com/wp-content/uploads/2021/11/117169.jpg,#717779,113.0,119.0,121.0,#707A7A,138.0,24.0,77.0,#707A7A,112.0,122.0,122.0
+208,Very Dark Lavender,DMC,mouliné,purple,https://disenosparabordar.com/wp-content/uploads/2021/11/117208.jpg,#633D88,99.0,61.0,136.0,#945B80,148.0,91.0,128.0,#824596,130.0,69.0,150.0
+209,Dark Lavender,DMC,mouliné,purple,https://disenosparabordar.com/wp-content/uploads/2021/11/117209.jpg,#866FA9,134.0,111.0,169.0,#CE94BA,206.0,148.0,186.0,#A66CB3,166.0,108.0,179.0
+210,Medium Lavender,DMC,mouliné,purple,https://disenosparabordar.com/wp-content/uploads/2021/11/117210.jpg,#A999C8,169.0,153.0,200.0,#ECCFE1,236.0,207.0,225.0,#BE91CD,190.0,145.0,205.0
+680,Dark Old Gold,DMC,mouliné,brown,https://disenosparabordar.com/wp-content/uploads/2021/11/117680.jpg,#9C6E28,156.0,110.0,40.0,#D18C67,209.0,140.0,103.0,#A67334,166.0,115.0,52.0
+699,Green,DMC,mouliné,green,https://disenosparabordar.com/wp-content/uploads/2021/11/117699.jpg,#003E16,0.0,62.0,22.0,#005B06,0.0,91.0,6.0,#005F3D,0.0,95.0,61.0
+700,Bright Green,DMC,mouliné,green,https://disenosparabordar.com/wp-content/uploads/2021/11/117700.jpg,#005A1A,0.0,90.0,26.0,#00602F,0.0,96.0,47.0,#00703E,0.0,112.0,62.0
+701,Light Green,DMC,mouliné,green,https://disenosparabordar.com/wp-content/uploads/2021/11/117701.jpg,#0C6C22,12.0,108.0,34.0,#4F6C45,79.0,108.0,69.0,#0D7338,13.0,115.0,56.0
+702,Kelly Green,DMC,mouliné,green,https://disenosparabordar.com/wp-content/uploads/2021/11/117702.jpg,#448239,68.0,130.0,57.0,#4F7942,79.0,121.0,66.0,#34853E,52.0,133.0,62.0
+703,Chartreuse,DMC,mouliné,green,https://disenosparabordar.com/wp-content/uploads/2021/11/117703.jpg,#69963F,105.0,150.0,63.0,#79904C,121.0,144.0,76.0,#60A746,96.0,167.0,70.0
+704,Bright Chartreuse,DMC,mouliné,green,https://disenosparabordar.com/wp-content/uploads/2021/11/117704.jpg,#7A992A,122.0,153.0,42.0,#A5A467,165.0,164.0,103.0,#78AD44,120.0,173.0,68.0
+712,Cream,DMC,mouliné,light,https://disenosparabordar.com/wp-content/uploads/2021/11/117712.jpg,#E7DAC3,231.0,218.0,195.0,#F5F0DB,245.0,240.0,219.0,#F3E8D2,243.0,232.0,210.0
+718,Plum,DMC,mouliné,pink,https://disenosparabordar.com/wp-content/uploads/2021/11/117718.jpg,#74004D,116.0,0.0,77.0,#DB3779,219.0,55.0,121.0,#A7206F,167.0,32.0,111.0
+720,Dark Orange Spice,DMC,mouliné,orange,https://disenosparabordar.com/wp-content/uploads/2021/11/117720.jpg,#AF3700,175.0,55.0,0.0,#C8242B,200.0,36.0,43.0,#D2421B,210.0,66.0,27.0
+721,Medium Orange Spice,DMC,mouliné,orange,https://disenosparabordar.com/wp-content/uploads/2021/11/117721.jpg,#CE5822,206.0,88.0,34.0,#FF7361,255.0,115.0,97.0,#F25C2C,242.0,92.0,44.0
+722,Light Orange Spice,DMC,mouliné,orange,https://disenosparabordar.com/wp-content/uploads/2021/11/117722.jpg,#E2834D,226.0,131.0,77.0,#FF926D,255.0,146.0,109.0,#FF824A,255.0,130.0,74.0
+725,Medium Light Topaz,DMC,mouliné,yellow,https://disenosparabordar.com/wp-content/uploads/2021/11/117725.jpg,#ECB037,236.0,176.0,55.0,#FFC87C,255.0,200.0,124.0,#FCBA40,252.0,186.0,64.0
+726,Light Topaz,DMC,mouliné,yellow,https://disenosparabordar.com/wp-content/uploads/2021/11/117726.jpg,#F8CF53,248.0,207.0,83.0,#FFE080,255.0,224.0,128.0,#FFD447,255.0,212.0,71.0
+727,Very Light Topaz,DMC,mouliné,yellow,https://disenosparabordar.com/wp-content/uploads/2021/11/117727.jpg,#F7E181,247.0,225.0,129.0,#FFEBA8,255.0,235.0,168.0,#FFE471,255.0,228.0,113.0
+728,Topaz,DMC,mouliné,yellow,https://disenosparabordar.com/wp-content/uploads/2021/11/117728.jpg,#DCA433,220.0,164.0,51.0,#EFAD3D,145.0,18.0,56.0,#EFAD3D,239.0,173.0,61.0
+729,Medium Old Gold,DMC,mouliné,brown,https://disenosparabordar.com/wp-content/uploads/2021/11/117729.jpg,#BE9256,190.0,146.0,86.0,#F3B080,243.0,176.0,128.0,#C28940,194.0,137.0,64.0
+730,Very Dark Olive Green,DMC,mouliné,muted green,https://disenosparabordar.com/wp-content/uploads/2021/11/117730.jpg,#4B3800,75.0,56.0,0.0,#846600,132.0,102.0,0.0,#574D20,87.0,77.0,32.0
+731,Dark Olive Green,DMC,mouliné,green,https://static1.dmc.com/cache/7/3/732__731__3_1_150x150.jpg,#8C6700,140.0,103.0,0.0,#8C6700,140.0,103.0,0.0,#8C6700,140.0,103.0,0.0
+732,Olive Green,DMC,mouliné,muted green,https://disenosparabordar.com/wp-content/uploads/2021/11/117732.jpg,#665100,102.0,81.0,0.0,#916800,145.0,104.0,0.0,#695C20,105.0,92.0,32.0
+733,Medium Olive Green,DMC,mouliné,muted green,https://disenosparabordar.com/wp-content/uploads/2021/11/117733.jpg,#947B22,148.0,123.0,34.0,#CE9B61,206.0,155.0,97.0,#988630,152.0,134.0,48.0
+734,Light Olive Green,DMC,mouliné,muted green,https://disenosparabordar.com/wp-content/uploads/2021/11/117734.jpg,#AF9541,175.0,149.0,65.0,#DDA66B,221.0,166.0,107.0,#B09D47,176.0,157.0,71.0
+738,Very Light Tan,DMC,mouliné,light,https://disenosparabordar.com/wp-content/uploads/2021/11/117738.jpg,#CAAA81,202.0,170.0,129.0,#F4C38B,244.0,195.0,139.0,#D5A978,213.0,169.0,120.0
+739,Ultra Very Light Tan,DMC,mouliné,light,https://disenosparabordar.com/wp-content/uploads/2021/11/117739.jpg,#E3CDAB,227.0,205.0,171.0,#F4E9CA,244.0,233.0,202.0,#EDCDA6,237.0,205.0,166.0
+740,Tangerine,DMC,mouliné,orange,https://disenosparabordar.com/wp-content/uploads/2021/11/117740.jpg,#E56100,229.0,97.0,0.0,#FF8313,255.0,131.0,19.0,#FF6C1B,255.0,108.0,27.0
+741,Medium Tangerine,DMC,mouliné,orange,https://disenosparabordar.com/wp-content/uploads/2021/11/117741.jpg,#F18800,241.0,136.0,0.0,#FF8E04,255.0,142.0,4.0,#FF8820,255.0,136.0,32.0
+742,Light Tangerine,DMC,mouliné,yellow,https://disenosparabordar.com/wp-content/uploads/2021/11/117742.jpg,#F19F0E,241.0,159.0,14.0,#FFB755,255.0,183.0,85.0,#FFA523,255.0,165.0,35.0
+743,Medium Yellow,DMC,mouliné,yellow,https://disenosparabordar.com/wp-content/uploads/2021/11/117743.jpg,#F5BF46,245.0,191.0,70.0,#FFE692,255.0,230.0,146.0,#FFC847,255.0,200.0,71.0
+744,Pale Yellow,DMC,mouliné,yellow,https://disenosparabordar.com/wp-content/uploads/2021/11/117744.jpg,#F6CF74,246.0,207.0,116.0,#FFEFAA,255.0,239.0,170.0,#FFDE7A,255.0,222.0,122.0
+745,Light Pale Yellow,DMC,mouliné,yellow,https://disenosparabordar.com/wp-content/uploads/2021/11/117745.jpg,#F9DFA2,249.0,223.0,162.0,#FFF0C5,255.0,240.0,197.0,#FFDF89,255.0,223.0,137.0
+746,Off White,DMC,mouliné,light,https://disenosparabordar.com/wp-content/uploads/2021/11/117746.jpg,#EAE5C6,234.0,229.0,198.0,#F6EADB,246.0,234.0,219.0,#FAF1C7,250.0,241.0,199.0
+747,Very Light Sky Blue,DMC,mouliné,blue,https://disenosparabordar.com/wp-content/uploads/2021/11/117747.jpg,#BEDCDD,190.0,220.0,221.0,#F0F7EF,240.0,247.0,239.0,#ADDBE1,173.0,219.0,225.0
+754,Light Peach,DMC,mouliné,orange,https://disenosparabordar.com/wp-content/uploads/2021/11/117754.jpg,#DAAA93,218.0,170.0,147.0,#FBE3D1,251.0,227.0,209.0,#F4B096,244.0,176.0,150.0
+758,Very Light Terra Cotta,DMC,mouliné,orange,https://disenosparabordar.com/wp-content/uploads/2021/11/117758.jpg,#C89079,200.0,144.0,121.0,#FFB193,255.0,177.0,147.0,#DB917A,219.0,145.0,122.0
+760,Salmon,DMC,mouliné,pink,https://disenosparabordar.com/wp-content/uploads/2021/11/117760.jpg,#C67D80,198.0,125.0,128.0,#F9A092,249.0,160.0,146.0,#E5787F,229.0,120.0,127.0
+761,Light Salmon,DMC,mouliné,pink,https://disenosparabordar.com/wp-content/uploads/2021/11/117761.jpg,#DCA6A7,220.0,166.0,167.0,#FFC9BC,255.0,201.0,188.0,#F5A3A8,245.0,163.0,168.0
+762,Very Light Pearl Gray,DMC,mouliné,light,https://disenosparabordar.com/wp-content/uploads/2021/11/117762.jpg,#D7D8DA,215.0,216.0,218.0,#E8E8E5,232.0,232.0,229.0,#C4C5CE,196.0,197.0,206.0
+772,Very Light Yellow Green,DMC,mouliné,green,https://disenosparabordar.com/wp-content/uploads/2021/11/117772.jpg,#CCD7AA,204.0,215.0,170.0,#E7F9CB,231.0,249.0,203.0,#C2DA97,194.0,218.0,151.0
+775,Very Light Baby Blue,DMC,mouliné,blue,https://disenosparabordar.com/wp-content/uploads/2021/11/117775.jpg,#BCCED4,188.0,206.0,212.0,#F7F6F8,247.0,246.0,248.0,#B4CFDB,180.0,207.0,219.0
+776,Medium Pink,DMC,mouliné,pink,https://static1.dmc.com/cache/1/1/117mc_e_776_swatch_150x150.jpg,#FFB1AE,255.0,177.0,174.0,#FFB1AE,255.0,177.0,174.0,#FFB1AE,255.0,177.0,174.0
+777,Very Dark Raspberry,DMC,mouliné,red,https://disenosparabordar.com/wp-content/uploads/2021/11/117777.jpg,#420016,66.0,0.0,22.0,#780D2C,120.0,13.0,44.0,#780D2C,120.0,13.0,44.0
+778,Very Light Antique Mauve,DMC,mouliné,pink,https://disenosparabordar.com/wp-content/uploads/2021/11/117778.jpg,#C8A6A9,200.0,166.0,169.0,#FFC7B8,255.0,199.0,184.0,#C9949E,201.0,148.0,158.0
+779,Dark Cocoa,DMC,mouliné,purple,https://disenosparabordar.com/wp-content/uploads/2021/11/117779.jpg,#4B3030,75.0,48.0,48.0,#543836,122.0,48.0,112.0,#543836,84.0,56.0,54.0
+780,Ultra Very Dark Topaz,DMC,mouliné,brown,https://disenosparabordar.com/wp-content/uploads/2021/11/117780.jpg,#7B3E00,123.0,62.0,0.0,#B5622E,181.0,98.0,46.0,#8C4A23,140.0,74.0,35.0
+781,Very Dark Topaz,DMC,mouliné,orange,https://static1.dmc.com/cache/7/8/782__781__3_1_150x150.jpg,#B56B38,181.0,107.0,56.0,#B56B38,181.0,107.0,56.0,#B56B38,181.0,107.0,56.0
+782,Dark Topaz,DMC,mouliné,brown,https://disenosparabordar.com/wp-content/uploads/2021/11/117782.jpg,#925700,146.0,87.0,0.0,#CC7742,204.0,119.0,66.0,#AC6520,172.0,101.0,32.0
+783,Medium Topaz,DMC,mouliné,yellow,https://disenosparabordar.com/wp-content/uploads/2021/11/117783.jpg,#BE7900,190.0,121.0,0.0,#E19255,225.0,146.0,85.0,#D0842C,208.0,132.0,44.0
+791,Very Dark Cornflower Blue,DMC,mouliné,blue,https://disenosparabordar.com/wp-content/uploads/2021/11/117791.jpg,#181548,24.0,21.0,72.0,#47375D,71.0,55.0,93.0,#2E2960,46.0,41.0,96.0
+792,Dark Cornflower Blue,DMC,mouliné,blue,https://disenosparabordar.com/wp-content/uploads/2021/11/117792.jpg,#33437C,51.0,67.0,124.0,#616180,97.0,97.0,128.0,#3A3E82,58.0,62.0,130.0
+793,Medium Cornflower Blue,DMC,mouliné,blue,https://disenosparabordar.com/wp-content/uploads/2021/11/117793.jpg,#607198,96.0,113.0,152.0,#938BA4,147.0,139.0,164.0,#546497,84.0,100.0,151.0
+794,Light Cornflower Blue,DMC,mouliné,blue,https://disenosparabordar.com/wp-content/uploads/2021/11/117794.jpg,#7C94B5,124.0,148.0,181.0,#BBD0DA,187.0,208.0,218.0,#708AB8,112.0,138.0,184.0
+796,Dark Royal Blue,DMC,mouliné,blue,https://disenosparabordar.com/wp-content/uploads/2021/11/117796.jpg,#121150,18.0,17.0,80.0,#1E3A5F,30.0,58.0,95.0,#242B70,36.0,43.0,112.0
+797,Royal Blue,DMC,mouliné,blue,https://disenosparabordar.com/wp-content/uploads/2021/11/117797.jpg,#1F2E69,31.0,46.0,105.0,#1E4263,30.0,66.0,99.0,#293A7C,41.0,58.0,124.0
+798,Dark Delft Blue,DMC,mouliné,blue,https://disenosparabordar.com/wp-content/uploads/2021/11/117798.jpg,#33568E,51.0,86.0,142.0,#67738D,103.0,115.0,141.0,#3D5FA3,61.0,95.0,163.0
+799,Medium Delft Blue,DMC,mouliné,blue,https://disenosparabordar.com/wp-content/uploads/2021/11/117799.jpg,#597DA6,89.0,125.0,166.0,#849CB6,132.0,156.0,182.0,#537BB5,83.0,123.0,181.0
+800,Pale Delft Blue,DMC,mouliné,blue,https://disenosparabordar.com/wp-content/uploads/2021/11/117800.jpg,#98B5CC,152.0,181.0,204.0,#E9EEE9,233.0,238.0,233.0,#8EB2D4,142.0,178.0,212.0
+801,Dark Coffee Brown,DMC,mouliné,brown,https://disenosparabordar.com/wp-content/uploads/2021/11/117801.jpg,#401C07,64.0,28.0,7.0,#7B4714,123.0,71.0,20.0,#573324,87.0,51.0,36.0
+803,Ultra Very Dark Baby Blue,DMC,mouliné,blue,https://disenosparabordar.com/wp-content/uploads/2021/11/117803.jpg,#0A2447,10.0,36.0,71.0,#203660,237.0,69.0,90.0,#203660,32.0,54.0,96.0
+806,Medium Dark Wedgwood,DMC,mouliné,blue,https://static1.dmc.com/cache/3/7/3760__806__3_1_150x150.jpg,#1E8285,30.0,130.0,133.0,#1E8285,30.0,130.0,133.0,#1E8285,30.0,130.0,133.0
+3047,Light Yellow Beige,DMC,mouliné,light,https://disenosparabordar.com/wp-content/uploads/2021/11/1173047.jpg,#D4C799,212.0,199.0,153.0,#FFECD3,255.0,236.0,211.0,#DBC991,219.0,201.0,145.0
+3051,Dark Green Gray,DMC,mouliné,muted green,https://disenosparabordar.com/wp-content/uploads/2021/11/1173051.jpg,#353717,53.0,55.0,23.0,#554900,85.0,73.0,0.0,#464D2E,70.0,77.0,46.0
+3052,Medium Green Gray,DMC,mouliné,muted green,https://disenosparabordar.com/wp-content/uploads/2021/11/1173052.jpg,#727451,114.0,116.0,81.0,#898D72,137.0,141.0,114.0,#717C54,113.0,124.0,84.0
+3053,Green Gray,DMC,mouliné,muted green,https://disenosparabordar.com/wp-content/uploads/2021/11/1173053.jpg,#888E64,136.0,142.0,100.0,#BBB394,187.0,179.0,148.0,#8B9669,139.0,150.0,105.0
+3064,Desert Sand,DMC,mouliné,brown,https://disenosparabordar.com/wp-content/uploads/2021/11/1173064.jpg,#A5735C,165.0,115.0,92.0,#C2654C,194.0,101.0,76.0,#B87359,184.0,115.0,89.0
+3072,Very Light Beaver Gray,DMC,mouliné,light,https://disenosparabordar.com/wp-content/uploads/2021/11/1173072.jpg,#CBCBC1,203.0,203.0,193.0,#E9E9DF,233.0,233.0,223.0,#C2C6BE,194.0,198.0,190.0
+3078,Very Light Golden Yellow,DMC,mouliné,yellow,https://disenosparabordar.com/wp-content/uploads/2021/11/1173078.jpg,#F5E499,245.0,228.0,153.0,#FFFFDC,255.0,255.0,220.0,#FAEB97,250.0,235.0,151.0
+3325,Light Baby Blue.,DMC,mouliné,blue,https://disenosparabordar.com/wp-content/uploads/2021/11/1173325.jpg,#8AADC3,138.0,173.0,195.0,#CAE2E5,202.0,226.0,229.0,#8EB8D8,142.0,184.0,216.0
+3326,Light Rose,DMC,mouliné,pink,https://disenosparabordar.com/wp-content/uploads/2021/11/1173326.jpg,#D990A0,217.0,144.0,160.0,#FF9D96,255.0,157.0,150.0,#F793A6,247.0,147.0,166.0
+3328,Dark Salmon,DMC,mouliné,pink,https://disenosparabordar.com/wp-content/uploads/2021/11/1173328.jpg,#993A40,153.0,58.0,64.0,#BC4055,188.0,64.0,85.0,#C1424B,193.0,66.0,75.0
+3340,Medium Apricot,DMC,mouliné,orange,https://disenosparabordar.com/wp-content/uploads/2021/11/1173340.jpg,#DB603E,219.0,96.0,62.0,#FF7B67,255.0,123.0,103.0,#FF6647,255.0,102.0,71.0
+3341,Apricot,DMC,mouliné,pink,https://disenosparabordar.com/wp-content/uploads/2021/11/1173341.jpg,#E4816B,228.0,129.0,107.0,#EBACA2,255.0,172.0,162.0,#FF8166,255.0,129.0,102.0
+3345,Dark Hunter Green,DMC,mouliné,green,https://disenosparabordar.com/wp-content/uploads/2021/11/1173345.jpg,#1E2D05,30.0,45.0,5.0,#616452,97.0,100.0,82.0,#344A25,52.0,74.0,37.0
+3346,Hunter Green,DMC,mouliné,green,https://disenosparabordar.com/wp-content/uploads/2021/11/1173346.jpg,#48521B,72.0,82.0,27.0,#78866B,120.0,134.0,107.0,#4D6130,77.0,97.0,48.0
+3347,Medium Yellow Green,DMC,mouliné,green,https://disenosparabordar.com/wp-content/uploads/2021/11/1173347.jpg,#636D2A,99.0,109.0,42.0,#809873,128.0,152.0,115.0,#6B834A,107.0,131.0,74.0
+3348,Light Yellow Green,DMC,mouliné,muted green,https://disenosparabordar.com/wp-content/uploads/2021/11/1173348.jpg,#AFAE68,175.0,174.0,104.0,#E1F9BE,225.0,249.0,190.0,#A3B86A,163.0,184.0,106.0
+3350,Ultra Dark Dusty Rose,DMC,mouliné,pink,https://disenosparabordar.com/wp-content/uploads/2021/11/1173350.jpg,#751231,117.0,18.0,49.0,#C94F5B,201.0,79.0,91.0,#9E2946,158.0,41.0,70.0
+3354,Light Dusty Rose,DMC,mouliné,pink,https://disenosparabordar.com/wp-content/uploads/2021/11/1173354.jpg,#CE8C9E,206.0,140.0,158.0,#FFD6D1,255.0,214.0,209.0,#E7899E,231.0,137.0,158.0
+3362,Dark Pine Green,DMC,mouliné,green,https://disenosparabordar.com/wp-content/uploads/2021/11/1173362.jpg,#3A4127,58.0,65.0,39.0,#605F54,96.0,95.0,84.0,#424A33,66.0,74.0,51.0
+3363,Medium Pine Green,DMC,mouliné,muted green,https://disenosparabordar.com/wp-content/uploads/2021/11/1173363.jpg,#57603C,87.0,96.0,60.0,#747F60,116.0,127.0,96.0,#5B6B4A,91.0,107.0,74.0
+3364,Pine Green,DMC,mouliné,muted green,https://disenosparabordar.com/wp-content/uploads/2021/11/1173364.jpg,#797A4B,121.0,122.0,75.0,#A1A787,161.0,167.0,135.0,#89965F,137.0,150.0,95.0
+3371,Black Brown,DMC,mouliné,brown,https://disenosparabordar.com/wp-content/uploads/2021/11/1173371.jpg,#180D0E,24.0,13.0,14.0,#532510,83.0,37.0,16.0,#2B2421,43.0,36.0,33.0
+3607,Light Plum,DMC,mouliné,pink,https://disenosparabordar.com/wp-content/uploads/2021/11/1173607.jpg,#933879,147.0,56.0,121.0,#E74F86,231.0,79.0,134.0,#BF3D8F,191.0,61.0,143.0
+3608,Very Light Plum,DMC,mouliné,pink,https://disenosparabordar.com/wp-content/uploads/2021/11/1173608.jpg,#C282AB,194.0,130.0,171.0,#F798B6,247.0,152.0,182.0,#D770AD,215.0,112.0,173.0
+3609,Ultra Light Plum,DMC,mouliné,pink,https://disenosparabordar.com/wp-content/uploads/2021/11/1173609.jpg,#D6A5C8,214.0,165.0,200.0,#FFD6E5,255.0,214.0,229.0,#E591CE,229.0,145.0,206.0
+3685,Very Dark Mauve,DMC,mouliné,red,https://disenosparabordar.com/wp-content/uploads/2021/11/1173685.jpg,#41001E,65.0,0.0,30.0,#A1354F,161.0,53.0,79.0,#6A1836,106.0,24.0,54.0
+3687,Mauve,DMC,mouliné,pink,https://disenosparabordar.com/wp-content/uploads/2021/11/1173687.jpg,#954165,149.0,65.0,101.0,#CB4E61,203.0,78.0,97.0,#B13D64,177.0,61.0,100.0
+3688,Medium Mauve,DMC,mouliné,pink,https://disenosparabordar.com/wp-content/uploads/2021/11/1173688.jpg,#B16986,177.0,105.0,134.0,#FA9790,250.0,151.0,144.0,#D16987,209.0,105.0,135.0
+3689,Light Mauve,DMC,mouliné,pink,https://disenosparabordar.com/wp-content/uploads/2021/11/1173689.jpg,#DFB1C4,223.0,177.0,196.0,#FFD5D8,255.0,213.0,216.0,#F5ACC2,245.0,172.0,194.0
+3705,Dark Melon,DMC,mouliné,red,https://disenosparabordar.com/wp-content/uploads/2021/11/1173705.jpg,#BA263D,186.0,38.0,61.0,#FF555B,255.0,85.0,91.0,#EE3A4D,238.0,58.0,77.0
+3706,Medium Melon,DMC,mouliné,pink,https://disenosparabordar.com/wp-content/uploads/2021/11/1173706.jpg,#DF697F,223.0,105.0,127.0,#FF806D,255.0,128.0,109.0,#FF6175,255.0,97.0,117.0
+3708,Light Melon,DMC,mouliné,pink,https://disenosparabordar.com/wp-content/uploads/2021/11/1173708.jpg,#E98AA2,233.0,138.0,162.0,#FED4DB,254.0,212.0,219.0,#FF889E,255.0,136.0,158.0
+3712,Medium Salmon,DMC,mouliné,pink,https://disenosparabordar.com/wp-content/uploads/2021/11/1173712.jpg,#B1585C,177.0,88.0,92.0,#E6656B,230.0,101.0,107.0,#CF575C,207.0,87.0,92.0
+3713,Very Light Salmon,DMC,mouliné,pink,https://disenosparabordar.com/wp-content/uploads/2021/11/1173713.jpg,#ECC4C5,236.0,196.0,197.0,#FDE5D9,253.0,229.0,217.0,#FFC7C7,255.0,199.0,199.0
+3716,Very Light Rose,DMC,mouliné,pink,https://disenosparabordar.com/wp-content/uploads/2021/11/1173716.jpg,#DE99AF,222.0,153.0,175.0,#FFD3D4,255.0,211.0,212.0,#FE97AF,254.0,151.0,175.0
+3721,Dark Shell Pink,DMC,mouliné,red,https://disenosparabordar.com/wp-content/uploads/2021/11/1173721.jpg,#681F2B,104.0,31.0,43.0,#B84B4D,184.0,75.0,77.0,#85303A,133.0,48.0,58.0
+3722,Medium Shell Pink,DMC,mouliné,pink,https://disenosparabordar.com/wp-content/uploads/2021/11/1173722.jpg,#803C46,128.0,60.0,70.0,#B85958,184.0,89.0,88.0,#99444D,153.0,68.0,77.0
+3726,Dark Antique Mauve,DMC,mouliné,brown,https://disenosparabordar.com/wp-content/uploads/2021/11/1173726.jpg,#794452,121.0,68.0,82.0,#C3767B,195.0,118.0,123.0,#804653,128.0,70.0,83.0
+3727,Light Antique Mauve,DMC,mouliné,pink,https://disenosparabordar.com/wp-content/uploads/2021/11/1173727.jpg,#BC8F9E,188.0,143.0,158.0,#FFC7C4,255.0,199.0,196.0,#C9899C,201.0,137.0,156.0
+3731,Very Dark Dusty Rose,DMC,mouliné,pink,https://disenosparabordar.com/wp-content/uploads/2021/11/1173731.jpg,#A0395C,160.0,57.0,92.0,#D15D67,209.0,93.0,103.0,#C1405F,193.0,64.0,95.0
+3733,Dusty Rose,DMC,mouliné,pink,https://disenosparabordar.com/wp-content/uploads/2021/11/1173733.jpg,#BA677F,186.0,103.0,127.0,#FF9A94,255.0,154.0,148.0,#E06C85,224.0,108.0,133.0
+3740,Dark Antique Violet,DMC,mouliné,purple,https://disenosparabordar.com/wp-content/uploads/2021/11/1173740.jpg,#482F3F,72.0,47.0,63.0,#9C7D85,156.0,125.0,133.0,#5C3E4D,92.0,62.0,77.0
+3743,Very Light Antique Violet,DMC,mouliné,purple,https://disenosparabordar.com/wp-content/uploads/2021/11/1173743.jpg,#C3BBC4,195.0,187.0,196.0,#EBEBE7,235.0,235.0,231.0,#BBA9B8,187.0,169.0,184.0
+3746,Dark Blue Violet,DMC,mouliné,purple,https://disenosparabordar.com/wp-content/uploads/2021/11/1173746.jpg,#545797,84.0,87.0,151.0,#9566A2,149.0,102.0,162.0,#604F9F,96.0,79.0,159.0
+3747,Very Light Blue Violet,DMC,mouliné,blue,https://disenosparabordar.com/wp-content/uploads/2021/11/1173747.jpg,#BFC6D7,191.0,198.0,215.0,#E6ECE8,230.0,236.0,232.0,#ADBADF,173.0,186.0,223.0
+3750,Very Dark Antique Blue,DMC,mouliné,blue,https://disenosparabordar.com/wp-content/uploads/2021/11/1173750.jpg,#081E35,8.0,30.0,53.0,#0C5B6C,12.0,91.0,108.0,#23384F,35.0,56.0,79.0
+3752,Very Light Antique Blue,DMC,mouliné,blue,https://disenosparabordar.com/wp-content/uploads/2021/11/1173752.jpg,#9FB1BD,159.0,177.0,189.0,#C2D1CE,194.0,209.0,206.0,#9DB1BD,157.0,177.0,189.0
+3753,Ultra Very Light Antique Blue,DMC,mouliné,blue,https://disenosparabordar.com/wp-content/uploads/2021/11/1173753.jpg,#BCC9D1,188.0,201.0,209.0,#EDF7F7,237.0,247.0,247.0,#B1C6D7,177.0,198.0,215.0
+3755,Baby Blue,DMC,mouliné,blue,https://disenosparabordar.com/wp-content/uploads/2021/11/1173755.jpg,#729BB7,114.0,155.0,183.0,#9EB0CE,158.0,176.0,206.0,#6998C4,105.0,152.0,196.0
+3756,Ultra Very Light Baby Blue,DMC,mouliné,blue,https://disenosparabordar.com/wp-content/uploads/2021/11/1173756.jpg,#DEE3DE,222.0,227.0,222.0,#F8F8FC,248.0,248.0,252.0,#DDEDF3,221.0,237.0,243.0
+3760,Medium Wedgwood,DMC,mouliné,blue,https://disenosparabordar.com/wp-content/uploads/2021/11/1173760.jpg,#34728F,52.0,114.0,143.0,#668E98,102.0,142.0,152.0,#2C6F99,44.0,111.0,153.0
+3761,Light Sky Blue,DMC,mouliné,blue,https://disenosparabordar.com/wp-content/uploads/2021/11/1173761.jpg,#A4CAD2,164.0,202.0,210.0,#E3EAE6,227.0,234.0,230.0,#8EC4D8,142.0,196.0,216.0
+3765,Very Dark Peacock Blue,DMC,mouliné,blue,https://disenosparabordar.com/wp-content/uploads/2021/11/1173765.jpg,#004D6C,0.0,77.0,108.0,#188086,24.0,128.0,134.0,#005879,0.0,88.0,121.0
+3766,Light Peacock Blue,DMC,mouliné,green,https://disenosparabordar.com/wp-content/uploads/2021/11/1173766.jpg,#7CB2BB,124.0,178.0,187.0,#18656F,24.0,101.0,111.0,#58A2B9,88.0,162.0,185.0
+3768,Dark Gray Green,DMC,mouliné,blue,https://disenosparabordar.com/wp-content/uploads/2021/11/1173768.jpg,#36484E,54.0,72.0,78.0,#5C6E6C,92.0,110.0,108.0,#425B61,66.0,91.0,97.0
+3770,Very Light Tawny,DMC,mouliné,light,https://disenosparabordar.com/wp-content/uploads/2021/11/1173770.jpg,#F5E3D1,245.0,227.0,209.0,#FFFAE0,255.0,250.0,224.0,#FFE6C9,255.0,230.0,201.0
+3771,Ultra Very Light Terra Cotta,DMC,mouliné,pink,https://disenosparabordar.com/wp-content/uploads/2021/11/1173771.jpg,#CC9778,204.0,151.0,120.0,#DF9B7B,228.0,85.0,146.0,#DF9B7B,223.0,155.0,123.0
+211,Light Lavender,DMC,mouliné,purple,https://disenosparabordar.com/wp-content/uploads/2021/11/117211.jpg,#C2B8DA,194.0,184.0,218.0,#F3DAE4,243.0,218.0,228.0,#D6B5E3,214.0,181.0,227.0
+221,Very Dark Shell Pink,DMC,mouliné,brown,https://disenosparabordar.com/wp-content/uploads/2021/11/117221.jpg,#520416,82.0,4.0,22.0,#9C294A,156.0,41.0,74.0,#6D2329,109.0,35.0,41.0
+223,Light Shell Pink,DMC,mouliné,pink,https://disenosparabordar.com/wp-content/uploads/2021/11/117223.jpg,#93505A,147.0,80.0,90.0,#DB8073,219.0,128.0,115.0,#B35C65,179.0,92.0,101.0
+224,Very Light Shell Pink,DMC,mouliné,pink,https://disenosparabordar.com/wp-content/uploads/2021/11/117224.jpg,#CA9B97,202.0,155.0,151.0,#FFC7B0,255.0,199.0,176.0,#D48F8B,212.0,143.0,139.0
+225,Ultra Very Light Shell Pink,DMC,mouliné,pink,https://disenosparabordar.com/wp-content/uploads/2021/11/117225.jpg,#E7C6C2,231.0,198.0,194.0,#FFF0E4,255.0,240.0,228.0,#F5C4BD,245.0,196.0,189.0
+300,Very Dark Mahogany,DMC,mouliné,brown,https://disenosparabordar.com/wp-content/uploads/2021/11/117300.jpg,#3F0E01,63.0,14.0,1.0,#8F3926,143.0,57.0,38.0,#632E20,99.0,46.0,32.0
+301,Medium Mahogany,DMC,mouliné,brown,https://disenosparabordar.com/wp-content/uploads/2021/11/117301.jpg,#884319,136.0,67.0,25.0,#D16654,209.0,102.0,84.0,#994725,153.0,71.0,37.0
+304,Medium Red,DMC,mouliné,red,https://disenosparabordar.com/wp-content/uploads/2021/11/117304.jpg,#6D0023,109.0,0.0,35.0,#BC0061,188.0,0.0,97.0,#9A0029,154.0,0.0,41.0
+307,Lemon,DMC,mouliné,yellow,https://disenosparabordar.com/wp-content/uploads/2021/11/117307.jpg,#F7D830,247.0,216.0,48.0,#FFE76D,255.0,231.0,109.0,#FBDE18,251.0,222.0,24.0
+309,Ultra Very Dark Rose,DMC,mouliné,red,https://disenosparabordar.com/wp-content/uploads/2021/11/117309.jpg,#7D002C,125.0,0.0,44.0,#D62B5B,214.0,43.0,91.0,#AD203E,173.0,32.0,62.0
+310,Black,DMC,mouliné,dark,https://disenosparabordar.com/wp-content/uploads/2021/11/117310.jpg,#010002,1.0,0.0,2.0,#000000,0.0,0.0,0.0,#000000,0.0,0.0,0.0
+311,Medium Navy Blue,DMC,mouliné,blue,https://disenosparabordar.com/wp-content/uploads/2021/11/117311.jpg,#072544,7.0,37.0,68.0,#004F61,0.0,79.0,97.0,#203050,32.0,48.0,80.0
+312,Very Dark Baby Blue,DMC,mouliné,blue,https://disenosparabordar.com/wp-content/uploads/2021/11/117312.jpg,#102C55,16.0,44.0,85.0,#3A5467,58.0,84.0,103.0,#23426F,35.0,66.0,111.0
+315,Medium Dark Antique Mauve,DMC,mouliné,purple,https://disenosparabordar.com/wp-content/uploads/2021/11/117315.jpg,#582737,88.0,39.0,55.0,#A35A5B,163.0,90.0,91.0,#6F3842,111.0,56.0,66.0
+316,Medium Antique Mauve,DMC,mouliné,purple,https://disenosparabordar.com/wp-content/uploads/2021/11/117316.jpg,#A6738A,166.0,115.0,138.0,#DC8D8D,220.0,141.0,141.0,#AF6A7F,175.0,106.0,127.0
+317,Pewter Gray,DMC,mouliné,grey,https://disenosparabordar.com/wp-content/uploads/2021/11/117317.jpg,#3F4550,63.0,69.0,80.0,#A78B88,167.0,139.0,136.0,#4F5460,79.0,84.0,96.0
+318,Light Steel Gray,DMC,mouliné,grey,https://disenosparabordar.com/wp-content/uploads/2021/11/117318.jpg,#848994,132.0,137.0,148.0,#C5C6BE,197.0,198.0,190.0,#808796,128.0,135.0,150.0
+319,Very Dark Pistachio Green,DMC,mouliné,green,https://disenosparabordar.com/wp-content/uploads/2021/11/117319.jpg,#06260E,6.0,38.0,14.0,#555F52,85.0,95.0,82.0,#25402C,37.0,64.0,44.0
+320,Medium Pistachio Green,DMC,mouliné,green,https://disenosparabordar.com/wp-content/uploads/2021/11/117320.jpg,#597452,89.0,116.0,82.0,#8A9978,138.0,153.0,120.0,#5A7F5A,90.0,127.0,90.0
+321,Red,DMC,mouliné,red,https://disenosparabordar.com/wp-content/uploads/2021/11/117321.jpg,#6F0012,111.0,0.0,18.0,#E71261,231.0,18.0,97.0,#AC0025,172.0,0.0,37.0
+322,Dark Baby Blue,DMC,mouliné,blue,https://disenosparabordar.com/wp-content/uploads/2021/11/117322.jpg,#4F7098,79.0,112.0,152.0,#516D87,81.0,109.0,135.0,#40669B,64.0,102.0,155.0
+326,Very Dark Rose,DMC,mouliné,red,https://disenosparabordar.com/wp-content/uploads/2021/11/117326.jpg,#680024,104.0,0.0,36.0,#BC1641,188.0,22.0,65.0,#A61238,166.0,18.0,56.0
+327,Dark Violet,DMC,mouliné,purple,https://disenosparabordar.com/wp-content/uploads/2021/11/117327.jpg,#462350,70.0,35.0,80.0,#3D0067,61.0,0.0,103.0,#5E2E5E,94.0,46.0,94.0
+333,Very Dark Blue Violet,DMC,mouliné,purple,https://disenosparabordar.com/wp-content/uploads/2021/11/117333.jpg,#3A2F77,58.0,47.0,119.0,#7F5482,127.0,84.0,130.0,#4F3687,79.0,54.0,135.0
+334,Medium Baby Blue,DMC,mouliné,blue,https://disenosparabordar.com/wp-content/uploads/2021/11/117334.jpg,#4B7597,75.0,117.0,151.0,#738CAA,115.0,140.0,170.0,#4A75A6,74.0,117.0,166.0
+335,Rose,DMC,mouliné,pink,https://disenosparabordar.com/wp-content/uploads/2021/11/117335.jpg,#AA3C5E,170.0,60.0,94.0,#DB244F,219.0,36.0,79.0,#D44464,212.0,68.0,100.0
+336,Navy Blue,DMC,mouliné,blue,https://disenosparabordar.com/wp-content/uploads/2021/11/117336.jpg,#091634,9.0,22.0,52.0,#244967,36.0,73.0,103.0,#202C4F,32.0,44.0,79.0
+340,Medium Blue Violet,DMC,mouliné,purple,https://disenosparabordar.com/wp-content/uploads/2021/11/117340.jpg,#747CB2,116.0,124.0,178.0,#A279A4,162.0,121.0,164.0,#7C76BE,124.0,118.0,190.0
+341,Light Blue Violet,DMC,mouliné,blue,https://disenosparabordar.com/wp-content/uploads/2021/11/117341.jpg,#94A4C4,148.0,164.0,196.0,#91B4C5,145.0,180.0,197.0,#929ECB,146.0,158.0,203.0
+347,Very Dark Salmon,DMC,mouliné,red,https://disenosparabordar.com/wp-content/uploads/2021/11/117347.jpg,#840821,132.0,8.0,33.0,#C22443,194.0,36.0,67.0,#A62030,166.0,32.0,48.0
+349,Dark Coral,DMC,mouliné,red,https://disenosparabordar.com/wp-content/uploads/2021/11/117349.jpg,#890012,137.0,0.0,18.0,#DC3D5B,220.0,61.0,91.0,#BD1C29,189.0,28.0,41.0
+350,Medium Coral,DMC,mouliné,red,https://disenosparabordar.com/wp-content/uploads/2021/11/117350.jpg,#9D1A1E,157.0,26.0,30.0,#ED455A,237.0,69.0,90.0,#D43434,212.0,52.0,52.0
+351,Coral,DMC,mouliné,orange,https://disenosparabordar.com/wp-content/uploads/2021/11/117351.jpg,#AC3632,172.0,54.0,50.0,#FF8087,255.0,128.0,135.0,#E04D46,224.0,77.0,70.0
+352,Light Coral,DMC,mouliné,orange,https://disenosparabordar.com/wp-content/uploads/2021/11/117352.jpg,#CD766A,205.0,118.0,106.0,#FF9D90,255.0,157.0,144.0,#F27365,242.0,115.0,101.0
+353,Peach,DMC,mouliné,orange,https://disenosparabordar.com/wp-content/uploads/2021/11/117353.jpg,#E9B7A8,233.0,183.0,168.0,#FFC4B8,255.0,196.0,184.0,#FEA693,254.0,166.0,147.0
+355,Dark Terra Cotta,DMC,mouliné,brown,https://disenosparabordar.com/wp-content/uploads/2021/11/117355.jpg,#610908,97.0,9.0,8.0,#BD492F,189.0,73.0,47.0,#882E2C,136.0,46.0,44.0
+356,Medium Terra Cotta,DMC,mouliné,red,https://disenosparabordar.com/wp-content/uploads/2021/11/117356.jpg,#914B41,145.0,75.0,65.0,#E2725B,226.0,114.0,91.0,#AD4F45,173.0,79.0,69.0
+367,Dark Pistachio Green,DMC,mouliné,green,https://disenosparabordar.com/wp-content/uploads/2021/11/117367.jpg,#375435,55.0,84.0,53.0,#5F705B,95.0,112.0,91.0,#406647,64.0,102.0,71.0
+368,Light Pistachio Green,DMC,mouliné,green,https://disenosparabordar.com/wp-content/uploads/2021/11/117368.jpg,#809468,128.0,148.0,104.0,#B5CEA2,181.0,206.0,162.0,#7BA476,123.0,164.0,118.0
+369,Very Light Pistachio Green,DMC,mouliné,green,https://disenosparabordar.com/wp-content/uploads/2021/11/117369.jpg,#B6C39E,182.0,195.0,158.0,#F3FAD1,243.0,250.0,209.0,#C1D49D,193.0,212.0,157.0
+370,Medium Mustard,DMC,mouliné,brown,https://disenosparabordar.com/wp-content/uploads/2021/11/117370.jpg,#917B49,145.0,123.0,73.0,#B88A57,184.0,138.0,87.0,#826E3D,130.0,110.0,61.0
+371,Mustard,DMC,mouliné,brown,https://disenosparabordar.com/wp-content/uploads/2021/11/117371.jpg,#867145,134.0,113.0,69.0,#C49B64,196.0,155.0,100.0,#8F7A47,143.0,122.0,71.0
+372,Light Mustard,DMC,mouliné,brown,https://disenosparabordar.com/wp-content/uploads/2021/11/117372.jpg,#A7986E,167.0,152.0,110.0,#CBA26B,203.0,162.0,107.0,#A39361,163.0,147.0,97.0
+400,Dark Mahogany,DMC,mouliné,brown,https://disenosparabordar.com/wp-content/uploads/2021/11/117400.jpg,#591A00,89.0,26.0,0.0,#9D3C27,157.0,60.0,39.0,#753321,117.0,51.0,33.0
+402,Very Light Mahogany,DMC,mouliné,orange,https://disenosparabordar.com/wp-content/uploads/2021/11/117402.jpg,#D38E62,211.0,142.0,98.0,#FFBEA4,255.0,190.0,164.0,#E8895B,232.0,137.0,91.0
+407,Dark Desert Sand,DMC,mouliné,brown,https://disenosparabordar.com/wp-content/uploads/2021/11/117407.jpg,#A67767,166.0,119.0,103.0,#C2654C,194.0,101.0,76.0,#B17260,177.0,114.0,96.0
+413,Dark Pewter Gray,DMC,mouliné,grey,https://disenosparabordar.com/wp-content/uploads/2021/11/117413.jpg,#31353C,49.0,53.0,60.0,#6D5F5F,109.0,95.0,95.0,#3D4247,61.0,66.0,71.0
+414,Dark Steel Gray,DMC,mouliné,grey,https://disenosparabordar.com/wp-content/uploads/2021/11/117414.jpg,#606470,96.0,100.0,112.0,#A78B88,167.0,139.0,136.0,#646B78,100.0,107.0,120.0
+415,Pearl Gray,DMC,mouliné,grey,https://disenosparabordar.com/wp-content/uploads/2021/11/117415.jpg,#ADAFB8,173.0,175.0,184.0,#DDDDDA,221.0,221.0,218.0,#9FA6B1,159.0,166.0,177.0
+420,Dark Hazelnut Brown,DMC,mouliné,brown,https://disenosparabordar.com/wp-content/uploads/2021/11/117420.jpg,#7F5222,127.0,82.0,34.0,#8C5B2B,140.0,91.0,43.0,#8E6034,142.0,96.0,52.0
+422,Light Hazelnut Brown,DMC,mouliné,brown,https://disenosparabordar.com/wp-content/uploads/2021/11/117422.jpg,#B99765,185.0,151.0,101.0,#EDAC7B,237.0,172.0,123.0,#BC935B,188.0,147.0,91.0
+433,Medium Brown,DMC,mouliné,brown,https://disenosparabordar.com/wp-content/uploads/2021/11/117433.jpg,#4F2403,79.0,36.0,3.0,#975414,151.0,84.0,20.0,#643823,100.0,56.0,35.0
+434,Light Brown,DMC,mouliné,brown,https://disenosparabordar.com/wp-content/uploads/2021/11/117434.jpg,#723700,114.0,55.0,0.0,#B26746,178.0,103.0,70.0,#804625,128.0,70.0,37.0
+435,Very Light Brown,DMC,mouliné,brown,https://disenosparabordar.com/wp-content/uploads/2021/11/117435.jpg,#936036,147.0,96.0,54.0,#BB6B39,187.0,107.0,57.0,#A36134,163.0,97.0,52.0
+436,Tan,DMC,mouliné,brown,https://disenosparabordar.com/wp-content/uploads/2021/11/117436.jpg,#A6794C,166.0,121.0,76.0,#E79873,231.0,152.0,115.0,#B97C4A,185.0,124.0,74.0
+437,Light Tan,DMC,mouliné,brown,https://disenosparabordar.com/wp-content/uploads/2021/11/117437.jpg,#C59867,197.0,152.0,103.0,#EEAB79,238.0,171.0,121.0,#D19C6A,209.0,156.0,106.0
+444,Dark Lemon,DMC,mouliné,yellow,https://disenosparabordar.com/wp-content/uploads/2021/11/117444.jpg,#EFBC00,239.0,188.0,0.0,#FFB000,255.0,176.0,0.0,#F0B900,240.0,185.0,0.0
+445,Light Lemon,DMC,mouliné,yellow,https://disenosparabordar.com/wp-content/uploads/2021/11/117445.jpg,#F5F1B3,245.0,241.0,179.0,#FFFFBE,255.0,255.0,190.0,#F7F57A,247.0,245.0,122.0
+807,Peacock Blue,DMC,mouliné,blue,https://disenosparabordar.com/wp-content/uploads/2021/11/117807.jpg,#488A9A,72.0,138.0,154.0,#80A7A0,128.0,167.0,160.0,#6D90C7,109.0,144.0,199.0
+809,Delft Blue,DMC,mouliné,blue,https://disenosparabordar.com/wp-content/uploads/2021/11/117809.jpg,#7D99C0,125.0,153.0,192.0,#BEC1CD,190.0,193.0,205.0,#5C92BB,92.0,146.0,187.0
+813,Light Blue,DMC,mouliné,blue,https://disenosparabordar.com/wp-content/uploads/2021/11/117813.jpg,#6A94B1,106.0,148.0,177.0,#AFC3CD,175.0,195.0,205.0,#A1C2D7,161.0,194.0,215.0
+814,Dark Garnet,DMC,mouliné,red,https://disenosparabordar.com/wp-content/uploads/2021/11/117814.jpg,#2A000C,42.0,0.0,12.0,#A20058,162.0,0.0,88.0,#5B1325,91.0,19.0,37.0
+815,Medium Garnet,DMC,mouliné,red,https://disenosparabordar.com/wp-content/uploads/2021/11/117815.jpg,#320009,50.0,0.0,9.0,#A6005B,166.0,0.0,91.0,#700D23,112.0,13.0,35.0
+816,Garnet,DMC,mouliné,red,https://disenosparabordar.com/wp-content/uploads/2021/11/117816.jpg,#550012,85.0,0.0,18.0,#B3005B,179.0,0.0,91.0,#89132C,137.0,19.0,44.0
+817,Very Dark Coral Red,DMC,mouliné,red,https://disenosparabordar.com/wp-content/uploads/2021/11/117817.jpg,#85000D,133.0,0.0,13.0,#DB1855,219.0,24.0,85.0,#A60D1B,166.0,13.0,27.0
+818,Baby Pink,DMC,mouliné,pink,https://disenosparabordar.com/wp-content/uploads/2021/11/117818.jpg,#EEC9CB,238.0,201.0,203.0,#FFEAEB,255.0,234.0,235.0,#FFD0D2,255.0,208.0,210.0
+819,Light Baby Pink,DMC,mouliné,pink,https://disenosparabordar.com/wp-content/uploads/2021/11/117819.jpg,#F4DFD8,244.0,223.0,216.0,#F8F7DD,248.0,247.0,221.0,#FFDEDA,255.0,222.0,218.0
+820,Very Dark Royal Blue,DMC,mouliné,blue,https://disenosparabordar.com/wp-content/uploads/2021/11/117820.jpg,#10033F,16.0,3.0,63.0,#1E3655,30.0,54.0,85.0,#202063,32.0,32.0,99.0
+822,Light Beige Gray,DMC,mouliné,light,https://disenosparabordar.com/wp-content/uploads/2021/11/117822.jpg,#D6CCB7,214.0,204.0,183.0,#F2EADB,242.0,234.0,219.0,#E0D6BA,224.0,214.0,186.0
+823,Dark Navy Blue,DMC,mouliné,blue,https://disenosparabordar.com/wp-content/uploads/2021/11/117823.jpg,#030215,3.0,2.0,21.0,#000049,0.0,0.0,73.0,#20233A,32.0,35.0,58.0
+824,Very Dark Blue,DMC,mouliné,blue,https://disenosparabordar.com/wp-content/uploads/2021/11/117824.jpg,#042452,4.0,36.0,82.0,#476174,71.0,97.0,116.0,#1B3E71,27.0,62.0,113.0
+825,Dark Blue,DMC,mouliné,blue,https://disenosparabordar.com/wp-content/uploads/2021/11/117825.jpg,#073E6D,7.0,62.0,109.0,#556C80,85.0,108.0,128.0,#1B4F86,27.0,79.0,134.0
+826,Medium Blue,DMC,mouliné,blue,https://disenosparabordar.com/wp-content/uploads/2021/11/117826.jpg,#3D6C96,61.0,108.0,150.0,#738A99,115.0,138.0,153.0,#306BA1,48.0,107.0,161.0
+827,Very Light Blue,DMC,mouliné,blue,https://disenosparabordar.com/wp-content/uploads/2021/11/117827.jpg,#98BACC,152.0,186.0,204.0,#D5E7E8,213.0,231.0,232.0,#87B4D0,135.0,180.0,208.0
+828,Ultra Very Light Sky Blue,DMC,mouliné,blue,https://disenosparabordar.com/wp-content/uploads/2021/11/117828.jpg,#BAD2D5,186.0,210.0,213.0,#EDF7EE,237.0,247.0,238.0,#A6C9D4,166.0,201.0,212.0
+829,Very Dark Golden Olive,DMC,mouliné,brown,https://disenosparabordar.com/wp-content/uploads/2021/11/117829.jpg,#563302,86.0,51.0,2.0,#825A08,130.0,90.0,8.0,#5F4220,95.0,66.0,32.0
+830,Dark Golden Olive,DMC,mouliné,brown,https://disenosparabordar.com/wp-content/uploads/2021/11/117830.jpg,#5B3C00,91.0,60.0,0.0,#885F12,136.0,95.0,18.0,#694B23,105.0,75.0,35.0
+831,Medium Golden Olive,DMC,mouliné,brown,https://disenosparabordar.com/wp-content/uploads/2021/11/117831.jpg,#77560A,119.0,86.0,10.0,#906712,144.0,103.0,18.0,#785C25,120.0,92.0,37.0
+832,Golden Olive,DMC,mouliné,brown,https://disenosparabordar.com/wp-content/uploads/2021/11/117832.jpg,#936E1A,147.0,110.0,26.0,#B27737,178.0,119.0,55.0,#9A762C,154.0,118.0,44.0
+833,Light Golden Olive,DMC,mouliné,brown,https://disenosparabordar.com/wp-content/uploads/2021/11/117833.jpg,#A68331,166.0,131.0,49.0,#DBB680,219.0,182.0,128.0,#B08D3E,176.0,141.0,62.0
+834,Very Light Golden Olive,DMC,mouliné,brown,https://disenosparabordar.com/wp-content/uploads/2021/11/117834.jpg,#BE9E4D,190.0,158.0,77.0,#F2D18E,242.0,209.0,142.0,#C7A550,199.0,165.0,80.0
+838,Very Dark Beige Brown,DMC,mouliné,brown,https://disenosparabordar.com/wp-content/uploads/2021/11/117838.jpg,#291311,41.0,19.0,17.0,#5E381B,94.0,56.0,27.0,#453029,69.0,48.0,41.0
+839,Dark Beige Brown,DMC,mouliné,brown,https://disenosparabordar.com/wp-content/uploads/2021/11/117839.jpg,#412B20,65.0,43.0,32.0,#6D4227,109.0,66.0,39.0,#553D34,85.0,61.0,52.0
+840,Medium Beige Brown,DMC,mouliné,brown,https://disenosparabordar.com/wp-content/uploads/2021/11/117840.jpg,#7E604E,126.0,96.0,78.0,#80551E,128.0,85.0,30.0,#7F5C4A,127.0,92.0,74.0
+841,Light Beige Brown,DMC,mouliné,brown,https://disenosparabordar.com/wp-content/uploads/2021/11/117841.jpg,#9E806E,158.0,128.0,110.0,#BC866B,188.0,134.0,107.0,#9B7863,155.0,120.0,99.0
+842,Very Light Beige Brown,DMC,mouliné,light,https://disenosparabordar.com/wp-content/uploads/2021/11/117842.jpg,#B29A87,178.0,154.0,135.0,#DBC2A4,219.0,194.0,164.0,#BF9F87,191.0,159.0,135.0
+844,Ultra Dark Beaver Gray,DMC,mouliné,brown,https://disenosparabordar.com/wp-content/uploads/2021/11/117844.jpg,#383130,56.0,49.0,48.0,#6B6766,107.0,103.0,102.0,#3D3D36,61.0,61.0,54.0
+869,Very Dark Hazelnut Brown,DMC,mouliné,brown,https://disenosparabordar.com/wp-content/uploads/2021/11/117869.jpg,#663E08,102.0,62.0,8.0,#995C30,153.0,92.0,48.0,#704725,112.0,71.0,37.0
+890,Ultra Dark Pistachio Green,DMC,mouliné,green,https://disenosparabordar.com/wp-content/uploads/2021/11/117890.jpg,#112317,17.0,35.0,23.0,#4F564C,79.0,86.0,76.0,#1B3623,27.0,54.0,35.0
+891,Dark Carnation,DMC,mouliné,pink,https://disenosparabordar.com/wp-content/uploads/2021/11/117891.jpg,#BE1A45,190.0,26.0,69.0,#F13154,241.0,49.0,84.0,#EF2C46,239.0,44.0,70.0
+892,Medium Carnation,DMC,mouliné,pink,https://disenosparabordar.com/wp-content/uploads/2021/11/117892.jpg,#C8344F,200.0,52.0,79.0,#F95A61,249.0,90.0,97.0,#F43853,244.0,56.0,83.0
+893,Light Carnation,DMC,mouliné,pink,https://disenosparabordar.com/wp-content/uploads/2021/11/117893.jpg,#CC4A6C,204.0,74.0,108.0,#F3959D,243.0,149.0,157.0,#FB4D6D,251.0,77.0,109.0
+894,Very Light Carnation,DMC,mouliné,pink,https://disenosparabordar.com/wp-content/uploads/2021/11/117894.jpg,#E88AA2,232.0,138.0,162.0,#FFC2BF,255.0,194.0,191.0,#FF7C9A,255.0,124.0,154.0
+895,Very Dark Hunter Green,DMC,mouliné,green,https://disenosparabordar.com/wp-content/uploads/2021/11/117895.jpg,#082907,8.0,41.0,7.0,#595C4E,89.0,92.0,78.0,#253D25,37.0,61.0,37.0
+898,Very Dark Coffee Brown,DMC,mouliné,brown,https://disenosparabordar.com/wp-content/uploads/2021/11/117898.jpg,#320E02,50.0,14.0,2.0,#763713,118.0,55.0,19.0,#4A2E23,74.0,46.0,35.0
+899,Medium Rose,DMC,mouliné,pink,https://disenosparabordar.com/wp-content/uploads/2021/11/117899.jpg,#BE5A79,190.0,90.0,121.0,#E96D73,233.0,109.0,115.0,#EB6682,235.0,102.0,130.0
+900,Dark Burnt Orange,DMC,mouliné,orange,https://disenosparabordar.com/wp-content/uploads/2021/11/117900.jpg,#9C150B,156.0,21.0,11.0,#CE2B00,206.0,43.0,0.0,#C63423,198.0,52.0,35.0
+902,Very Dark Garnet,DMC,mouliné,red,https://disenosparabordar.com/wp-content/uploads/2021/11/117902.jpg,#410015,65.0,0.0,21.0,#8A184D,138.0,24.0,77.0,#5B202E,91.0,32.0,46.0
+904,Very Dark Parrot Green,DMC,mouliné,green,https://disenosparabordar.com/wp-content/uploads/2021/11/117904.jpg,#2E4200,46.0,66.0,0.0,#4E5F39,78.0,95.0,57.0,#345F25,52.0,95.0,37.0
+905,Dark Parrot Green,DMC,mouliné,green,https://disenosparabordar.com/wp-content/uploads/2021/11/117905.jpg,#3A5500,58.0,85.0,0.0,#627739,98.0,119.0,57.0,#3D7123,61.0,113.0,35.0
+906,Medium Parrot Green,DMC,mouliné,green,https://disenosparabordar.com/wp-content/uploads/2021/11/117906.jpg,#567600,86.0,118.0,0.0,#8FA359,143.0,163.0,89.0,#5A8B23,90.0,139.0,35.0
+907,Light Parrot Green,DMC,mouliné,green,https://disenosparabordar.com/wp-content/uploads/2021/11/117907.jpg,#8FA10A,143.0,161.0,10.0,#B9C866,185.0,200.0,102.0,#87A623,135.0,166.0,35.0
+909,Very Dark Emerald Green,DMC,mouliné,green,https://disenosparabordar.com/wp-content/uploads/2021/11/117909.jpg,#00451F,0.0,69.0,31.0,#316955,49.0,105.0,85.0,#006540,0.0,101.0,64.0
+910,Dark Emerald Green,DMC,mouliné,green,https://disenosparabordar.com/wp-content/uploads/2021/11/117910.jpg,#00612D,0.0,97.0,45.0,#30745B,48.0,116.0,91.0,#007A4B,0.0,122.0,75.0
+911,Medium Emerald Green,DMC,mouliné,green,https://disenosparabordar.com/wp-content/uploads/2021/11/117911.jpg,#19834D,25.0,131.0,77.0,#318061,49.0,128.0,97.0,#008853,0.0,136.0,83.0
+912,Light Emerald Green,DMC,mouliné,green,https://disenosparabordar.com/wp-content/uploads/2021/11/117912.jpg,#479765,71.0,151.0,101.0,#739E73,115.0,158.0,115.0,#309C66,48.0,156.0,102.0
+913,Medium Nile Green,DMC,mouliné,green,https://disenosparabordar.com/wp-content/uploads/2021/11/117913.jpg,#68AB78,104.0,171.0,120.0,#99BC95,153.0,188.0,149.0,#4DAF78,77.0,175.0,120.0
+915,Dark Plum,DMC,mouliné,purple,https://disenosparabordar.com/wp-content/uploads/2021/11/117915.jpg,#3B001D,59.0,0.0,29.0,#AA185B,170.0,24.0,91.0,#76003D,118.0,0.0,61.0
+917,Medium Plum,DMC,mouliné,purple,https://disenosparabordar.com/wp-content/uploads/2021/11/117917.jpg,#780752,120.0,7.0,82.0,#AB165F,171.0,22.0,95.0,#911B5B,145.0,27.0,91.0
+918,Dark Red Copper,DMC,mouliné,brown,https://disenosparabordar.com/wp-content/uploads/2021/11/117918.jpg,#5B1000,91.0,16.0,0.0,#A8444C,168.0,68.0,76.0,#7B2E23,123.0,46.0,35.0
+919,Red Copper,DMC,mouliné,brown,https://disenosparabordar.com/wp-content/uploads/2021/11/117919.jpg,#660600,102.0,6.0,0.0,#B44B52,180.0,75.0,82.0,#912920,145.0,41.0,32.0
+920,Medium Copper,DMC,mouliné,brown,https://disenosparabordar.com/wp-content/uploads/2021/11/117920.jpg,#7F2203,127.0,34.0,3.0,#C55E58,197.0,94.0,88.0,#A43D25,164.0,61.0,37.0
+921,Copper,DMC,mouliné,brown,https://disenosparabordar.com/wp-content/uploads/2021/11/117921.jpg,#9D401C,157.0,64.0,28.0,#CE675B,206.0,103.0,91.0,#BC4D2E,188.0,77.0,46.0
+922,Light Copper,DMC,mouliné,orange,https://disenosparabordar.com/wp-content/uploads/2021/11/117922.jpg,#BB6239,187.0,98.0,57.0,#ED8673,237.0,134.0,115.0,#D7633A,215.0,99.0,58.0
+924,Very Dark Gray Green,DMC,mouliné,blue,https://disenosparabordar.com/wp-content/uploads/2021/11/117924.jpg,#142D32,20.0,45.0,50.0,#566364,86.0,99.0,100.0,#294247,41.0,66.0,71.0
+926,Medium Gray Green,DMC,mouliné,blue,https://disenosparabordar.com/wp-content/uploads/2021/11/117926.jpg,#687979,104.0,121.0,121.0,#607473,96.0,116.0,115.0,#617878,97.0,120.0,120.0
+3772,Very Dark Desert Sand,DMC,mouliné,brown,https://disenosparabordar.com/wp-content/uploads/2021/11/1173772.jpg,#825041,130.0,80.0,65.0,#AD533E,173.0,83.0,62.0,#935A4B,147.0,90.0,75.0
+927,Light Gray Green,DMC,mouliné,blue,https://disenosparabordar.com/wp-content/uploads/2021/11/117927.jpg,#8E9C97,142.0,156.0,151.0,#C8C6C2,200.0,198.0,194.0,#889A97,136.0,154.0,151.0
+3773,Medium Desert Sand,DMC,mouliné,orange,https://static1.dmc.com/cache/4/0/407__3773__3_1_150x150.jpg,#E78667,231.0,134.0,103.0,#E78667,231.0,134.0,103.0,#E78667,231.0,134.0,103.0
+3774,Very Light Desert Sand,DMC,mouliné,light,https://disenosparabordar.com/wp-content/uploads/2021/11/1173774.jpg,#DFC0AB,223.0,192.0,171.0,#FFDCC1,255.0,220.0,193.0,#E9BEA6,233.0,190.0,166.0
+3776,Light Mahogany,DMC,mouliné,brown,https://disenosparabordar.com/wp-content/uploads/2021/11/1173776.jpg,#AD6741,173.0,103.0,65.0,#DD6D5B,221.0,109.0,91.0,#BD5F36,189.0,95.0,54.0
+3777,Very Dark Terra Cotta,DMC,mouliné,red,https://disenosparabordar.com/wp-content/uploads/2021/11/1173777.jpg,#480005,72.0,0.0,5.0,#BF4024,191.0,64.0,36.0,#822529,130.0,37.0,41.0
+3778,Light Terra Cotta,DMC,mouliné,orange,https://disenosparabordar.com/wp-content/uploads/2021/11/1173778.jpg,#AC6858,172.0,104.0,88.0,#ED7A64,237.0,122.0,100.0,#C1695A,193.0,105.0,90.0
+3779,Very Light Rosewood,DMC,mouliné,pink,https://disenosparabordar.com/wp-content/uploads/2021/11/1173779.jpg,#D6A393,214.0,163.0,147.0,#FFB198,255.0,177.0,152.0,#E8A492,232.0,164.0,146.0
+3781,Dark Mocha Brown,DMC,mouliné,brown,https://disenosparabordar.com/wp-content/uploads/2021/11/1173781.jpg,#402C1D,64.0,44.0,29.0,#71472A,113.0,71.0,42.0,#503D2E,80.0,61.0,46.0
+3782,Light Mocha Brown,DMC,mouliné,light,https://disenosparabordar.com/wp-content/uploads/2021/11/1173782.jpg,#AB9981,171.0,153.0,129.0,#CEAF90,206.0,175.0,144.0,#AC9278,172.0,146.0,120.0
+3787,Dark Brown Gray,DMC,mouliné,brown,https://disenosparabordar.com/wp-content/uploads/2021/11/1173787.jpg,#474135,71.0,65.0,53.0,#8B6D73,139.0,109.0,115.0,#50473D,80.0,71.0,61.0
+3790,Ultra Dark Beige Gray,DMC,mouliné,brown,https://disenosparabordar.com/wp-content/uploads/2021/11/1173790.jpg,#6E5846,110.0,88.0,70.0,#8C756D,140.0,117.0,109.0,#614D3D,97.0,77.0,61.0
+3799,Very Dark Pewter Gray,DMC,mouliné,grey,https://disenosparabordar.com/wp-content/uploads/2021/11/1173799.jpg,#212326,33.0,35.0,38.0,#514C53,81.0,76.0,83.0,#303438,48.0,52.0,56.0
+3801,Very Dark Melon,DMC,mouliné,red,https://disenosparabordar.com/wp-content/uploads/2021/11/1173801.jpg,#AD0025,173.0,0.0,37.0,#E02338,224.0,35.0,56.0,#E02338,224.0,35.0,56.0
+3802,Very Dark Antique Mauve,DMC,mouliné,purple,https://disenosparabordar.com/wp-content/uploads/2021/11/1173802.jpg,#481426,72.0,20.0,38.0,#602C36,96.0,44.0,54.0,#602C36,96.0,44.0,54.0
+3803,Dark Mauve,DMC,mouliné,pink,https://disenosparabordar.com/wp-content/uploads/2021/11/1173803.jpg,#5D133A,93.0,19.0,58.0,#7B2544,123.0,37.0,68.0,#7B2544,123.0,37.0,68.0
+3804,Dark Cyclamen Pink,DMC,mouliné,pink,https://disenosparabordar.com/wp-content/uploads/2021/11/1173804.jpg,#9D2360,157.0,35.0,96.0,#BA1861,186.0,24.0,97.0,#BA1861,186.0,24.0,97.0
+3805,Cyclamen Pink,DMC,mouliné,pink,https://disenosparabordar.com/wp-content/uploads/2021/11/1173805.jpg,#AA3870,170.0,56.0,112.0,#CC2B73,204.0,43.0,115.0,#CC2B73,204.0,43.0,115.0
+3806,Light Cyclamen Pink,DMC,mouliné,pink,https://disenosparabordar.com/wp-content/uploads/2021/11/1173806.jpg,#D1789F,209.0,120.0,159.0,#E45592,228.0,85.0,146.0,#E45592,228.0,85.0,146.0
+3807,Cornflower Blue,DMC,mouliné,blue,https://disenosparabordar.com/wp-content/uploads/2021/11/1173807.jpg,#435382,67.0,83.0,130.0,#47548F,71.0,84.0,143.0,#47548F,71.0,84.0,143.0
+3808,Ultra Very Dark Turquoise,DMC,mouliné,green,https://disenosparabordar.com/wp-content/uploads/2021/11/1173808.jpg,#003035,0.0,48.0,53.0,#004757,198.0,56.0,80.0,#004757,0.0,71.0,87.0
+3809,Very Dark turquoise,DMC,mouliné,blue,https://disenosparabordar.com/wp-content/uploads/2021/11/1173809.jpg,#005059,0.0,80.0,89.0,#135C6D,207.0,85.0,106.0,#135C6D,19.0,92.0,109.0
+3810,Dark Turquoise,DMC,mouliné,green,https://disenosparabordar.com/wp-content/uploads/2021/11/1173810.jpg,#34757F,52.0,117.0,127.0,#347B8C,188.0,0.0,97.0,#347B8C,52.0,123.0,140.0
+3811,Very Light Turquoise,DMC,mouliné,blue,https://disenosparabordar.com/wp-content/uploads/2021/11/1173811.jpg,#A6C8C7,166.0,200.0,199.0,#95C5C6,219.0,24.0,85.0,#95C5C6,149.0,197.0,198.0
+3812,Very Dark Seagreen,DMC,mouliné,green,https://disenosparabordar.com/wp-content/uploads/2021/11/1173812.jpg,#007966,0.0,121.0,102.0,#00887C,213.0,39.0,86.0,#00887C,0.0,136.0,124.0
+3813,Light Blue Green,DMC,mouliné,blue,https://disenosparabordar.com/wp-content/uploads/2021/11/1173813.jpg,#A4B7A9,164.0,183.0,169.0,#8CAC9D,241.0,49.0,84.0,#8CAC9D,140.0,172.0,157.0
+3814,Aquamarine,DMC,mouliné,green,https://disenosparabordar.com/wp-content/uploads/2021/11/1173814.jpg,#07695A,7.0,105.0,90.0,#0D7163,179.0,0.0,91.0,#0D7163,13.0,113.0,99.0
+3815,Dark Celadon Green,DMC,mouliné,green,https://disenosparabordar.com/wp-content/uploads/2021/11/1173815.jpg,#37634C,55.0,99.0,76.0,#386A57,249.0,90.0,97.0,#386A57,56.0,106.0,87.0
+3816,Celadon Green,DMC,mouliné,muted green,https://disenosparabordar.com/wp-content/uploads/2021/11/1173816.jpg,#608C7B,96.0,140.0,123.0,#53836F,255.0,194.0,191.0,#53836F,83.0,131.0,111.0
+3817,Light Celadon Green,DMC,mouliné,muted green,https://disenosparabordar.com/wp-content/uploads/2021/11/1173817.jpg,#96AE9C,150.0,174.0,156.0,#82AB96,162.0,0.0,88.0,#82AB96,130.0,171.0,150.0
+3818,Ultra Very Dark Emerald Green,DMC,mouliné,green,https://disenosparabordar.com/wp-content/uploads/2021/11/1173818.jpg,#003615,0.0,54.0,21.0,#004F36,255.0,204.0,208.0,#004F36,0.0,79.0,54.0
+3819,Light Moss Green,DMC,mouliné,green,https://disenosparabordar.com/wp-content/uploads/2021/11/1173819.jpg,#C4BF56,196.0,191.0,86.0,#B8B738,214.0,43.0,91.0,#B8B738,184.0,183.0,56.0
+3820,Dark Straw,DMC,mouliné,yellow,https://disenosparabordar.com/wp-content/uploads/2021/11/1173820.jpg,#C9961C,201.0,150.0,28.0,#D6962B,209.0,93.0,103.0,#D6962B,214.0,150.0,43.0
+3821,Straw,DMC,mouliné,yellow,https://disenosparabordar.com/wp-content/uploads/2021/11/1173821.jpg,#D6A93C,214.0,169.0,60.0,#E3B044,255.0,154.0,148.0,#E3B044,227.0,176.0,68.0
+3822,Light Straw,DMC,mouliné,yellow,https://disenosparabordar.com/wp-content/uploads/2021/11/1173822.jpg,#E4C163,228.0,193.0,99.0,#F0C65F,255.0,214.0,209.0,#F0C65F,240.0,198.0,95.0
+3823,Ultra Pale Yellow,DMC,mouliné,yellow,https://disenosparabordar.com/wp-content/uploads/2021/11/1173823.jpg,#F6E7BE,246.0,231.0,190.0,#FEEDB4,232.0,218.0,223.0,#FEEDB4,254.0,237.0,180.0
+3824,Light Apricot,DMC,mouliné,pink,https://disenosparabordar.com/wp-content/uploads/2021/11/1173824.jpg,#EC9E8B,236.0,158.0,139.0,#FFA58D,255.0,115.0,140.0,#FFA58D,255.0,165.0,141.0
+3825,Pale Pumpkin,DMC,mouliné,orange,https://disenosparabordar.com/wp-content/uploads/2021/11/1173825.jpg,#EB9E70,235.0,158.0,112.0,#FF9A63,222.0,57.0,105.0,#FF9A63,255.0,154.0,99.0
+3826,Golden Brown,DMC,mouliné,brown,https://disenosparabordar.com/wp-content/uploads/2021/11/1173826.jpg,#8D4506,141.0,69.0,6.0,#9C4D25,255.0,207.0,214.0,#9C4D25,156.0,77.0,37.0
+3827,Pale Golden Brown,DMC,mouliné,brown,https://disenosparabordar.com/wp-content/uploads/2021/11/1173827.jpg,#D69B5D,214.0,155.0,93.0,#E19858,161.0,53.0,79.0,#E19858,225.0,152.0,88.0
+3828,Hazelnut Brown,DMC,mouliné,brown,https://disenosparabordar.com/wp-content/uploads/2021/11/1173828.jpg,#A07947,160.0,121.0,71.0,#A67946,219.0,36.0,79.0,#A67946,166.0,121.0,70.0
+3829,Very Dark Old Gold,DMC,mouliné,brown,https://disenosparabordar.com/wp-content/uploads/2021/11/1173829.jpg,#915E0B,145.0,94.0,11.0,#A46C2E,242.0,168.0,186.0,#A46C2E,164.0,108.0,46.0
+3830,Terra Cotta,DMC,mouliné,brown,https://disenosparabordar.com/wp-content/uploads/2021/11/1173830.jpg,#7E2A23,126.0,42.0,35.0,#9C3A36,204.0,43.0,115.0,#9C3A36,156.0,58.0,54.0
+3831,Dark Raspberry,DMC,mouliné,pink,https://disenosparabordar.com/wp-content/uploads/2021/11/1173831.jpg,#80002A,128.0,0.0,42.0,#A8203A,168.0,32.0,58.0,#A8203A,168.0,32.0,58.0
+3832,Medium Raspberry,DMC,mouliné,red,https://disenosparabordar.com/wp-content/uploads/2021/11/1173832.jpg,#A6344F,166.0,52.0,79.0,#C63850,198.0,56.0,80.0,#C63850,198.0,56.0,80.0
+3833,Light Raspberry,DMC,mouliné,pink,https://disenosparabordar.com/wp-content/uploads/2021/11/1173833.jpg,#BD5B70,189.0,91.0,112.0,#CF556A,207.0,85.0,106.0,#CF556A,207.0,85.0,106.0
+3834,Dark Grape,DMC,mouliné,purple,https://disenosparabordar.com/wp-content/uploads/2021/11/1173834.jpg,#3F163A,63.0,22.0,58.0,#5B294A,91.0,41.0,74.0,#5B294A,91.0,41.0,74.0
+3835,Medium Grape,DMC,mouliné,purple,https://disenosparabordar.com/wp-content/uploads/2021/11/1173835.jpg,#724A6E,114.0,74.0,110.0,#714061,113.0,64.0,97.0,#714061,113.0,64.0,97.0
+3836,Light Grape,DMC,mouliné,purple,https://disenosparabordar.com/wp-content/uploads/2021/11/1173836.jpg,#9F7E9B,159.0,126.0,155.0,#A26C90,162.0,108.0,144.0,#A26C90,162.0,108.0,144.0
+3837,Ultra Dark Lavender,DMC,mouliné,purple,https://disenosparabordar.com/wp-content/uploads/2021/11/1173837.jpg,#482671,72.0,38.0,113.0,#6C3681,108.0,54.0,129.0,#6C3681,108.0,54.0,129.0
+3838,Dark Lavender Blue,DMC,mouliné,blue,https://disenosparabordar.com/wp-content/uploads/2021/11/1173838.jpg,#556BA0,85.0,107.0,160.0,#4A5CA6,74.0,92.0,166.0,#4A5CA6,74.0,92.0,166.0
+3839,Medium Lavender Blue,DMC,mouliné,blue,https://disenosparabordar.com/wp-content/uploads/2021/11/1173839.jpg,#6B82B1,107.0,130.0,177.0,#5B70AE,91.0,112.0,174.0,#5B70AE,91.0,112.0,174.0
+3840,Light Lavender Blue,DMC,mouliné,blue,https://disenosparabordar.com/wp-content/uploads/2021/11/1173840.jpg,#A1B8D3,161.0,184.0,211.0,#85A3CE,133.0,163.0,206.0,#85A3CE,133.0,163.0,206.0
+3841,Pale Baby Blue,DMC,mouliné,blue,https://disenosparabordar.com/wp-content/uploads/2021/11/1173841.jpg,#AEC6D1,174.0,198.0,209.0,#9FBCCE,255.0,128.0,135.0,#9FBCCE,159.0,188.0,206.0
+3842,Very Dark Wedgwood,DMC,mouliné,blue,https://disenosparabordar.com/wp-content/uploads/2021/11/1173842.jpg,#00395F,0.0,57.0,95.0,#0D3E6B,220.0,61.0,91.0,#0D3E6B,13.0,62.0,107.0
+3843,Electric Blue,DMC,mouliné,teal,https://disenosparabordar.com/wp-content/uploads/2021/11/1173843.jpg,#0070A3,0.0,112.0,163.0,#0081C7,255.0,201.0,188.0,#0081C7,0.0,129.0,199.0
+3844,Dark Bright Turquoise,DMC,mouliné,teal,https://disenosparabordar.com/wp-content/uploads/2021/11/1173844.jpg,#006B84,0.0,107.0,132.0,#0089B2,188.0,64.0,85.0,#0089B2,0.0,137.0,178.0
+3845,Medium Bright Turquoise,DMC,mouliné,teal,https://disenosparabordar.com/wp-content/uploads/2021/11/1173845.jpg,#0096B2,0.0,150.0,178.0,#009BBE,230.0,101.0,107.0,#009BBE,0.0,155.0,190.0
+451,Dark Shell Gray,DMC,mouliné,brown,https://disenosparabordar.com/wp-content/uploads/2021/11/117451.jpg,#7C6667,124.0,102.0,103.0,#B3978F,179.0,151.0,143.0,#7A6C6C,122.0,108.0,108.0
+452,Medium Shell Gray,DMC,mouliné,purple,https://disenosparabordar.com/wp-content/uploads/2021/11/117452.jpg,#A79594,167.0,149.0,148.0,#D2B9AF,210.0,185.0,175.0,#9F8B8B,159.0,139.0,139.0
+453,Light Shell Gray,DMC,mouliné,light,https://disenosparabordar.com/wp-content/uploads/2021/11/117453.jpg,#C6BAB4,198.0,186.0,180.0,#EBCFB9,235.0,207.0,185.0,#BFADA6,191.0,173.0,166.0
+469,Avocado Green,DMC,mouliné,green,https://disenosparabordar.com/wp-content/uploads/2021/11/117469.jpg,#514E00,81.0,78.0,0.0,#74725C,116.0,114.0,92.0,#575F23,87.0,95.0,35.0
+470,Light Avocado Green,DMC,mouliné,green,https://disenosparabordar.com/wp-content/uploads/2021/11/117470.jpg,#616C07,97.0,108.0,7.0,#858F6C,133.0,143.0,108.0,#6A7830,106.0,120.0,48.0
+471,Very Light Avocado Green,DMC,mouliné,green,https://disenosparabordar.com/wp-content/uploads/2021/11/117471.jpg,#847F38,132.0,127.0,56.0,#B0BB8C,176.0,187.0,140.0,#8D9D54,141.0,157.0,84.0
+472,Ultra Light Avocado Green,DMC,mouliné,muted green,https://disenosparabordar.com/wp-content/uploads/2021/11/117472.jpg,#B7AE58,183.0,174.0,88.0,#EEFFB6,238.0,255.0,182.0,#BBBB60,187.0,187.0,96.0
+498,Dark Red,DMC,mouliné,red,https://disenosparabordar.com/wp-content/uploads/2021/11/117498.jpg,#520014,82.0,0.0,20.0,#BB0061,187.0,0.0,97.0,#880025,136.0,0.0,37.0
+500,Very Dark Blue Green,DMC,mouliné,green,https://disenosparabordar.com/wp-content/uploads/2021/11/117500.jpg,#091C15,9.0,28.0,21.0,#2B3929,43.0,57.0,41.0,#253D36,37.0,61.0,54.0
+501,Dark Blue Green,DMC,mouliné,blue,https://disenosparabordar.com/wp-content/uploads/2021/11/117501.jpg,#31483E,49.0,72.0,62.0,#435549,67.0,85.0,73.0,#36544A,54.0,84.0,74.0
+502,Blue Green,DMC,mouliné,blue,https://disenosparabordar.com/wp-content/uploads/2021/11/117502.jpg,#5C7365,92.0,115.0,101.0,#869E86,134.0,158.0,134.0,#547565,84.0,117.0,101.0
+503,Medium Blue Green,DMC,mouliné,green,https://disenosparabordar.com/wp-content/uploads/2021/11/117503.jpg,#7D9A8E,125.0,154.0,142.0,#C3CEB7,195.0,206.0,183.0,#839C8B,131.0,156.0,139.0
+504,Very Light Blue Green,DMC,mouliné,green,https://static1.dmc.com/cache/3/8/3813__504__3_150x150.jpg,#CEDDC1,206.0,221.0,193.0,#CEDDC1,206.0,221.0,193.0,#CEDDC1,206.0,221.0,193.0
+505,Jade Green,DMC,mouliné,green,https://disenosparabordar.com/wp-content/uploads/2021/11/117505.jpg,#275635,39.0,86.0,53.0,#2C6142,166.0,0.0,91.0,#2C6142,44.0,97.0,66.0
+517,Dark Wedgwood,DMC,mouliné,blue,https://disenosparabordar.com/wp-content/uploads/2021/11/117517.jpg,#004D77,0.0,77.0,119.0,#107F87,16.0,127.0,135.0,#236391,35.0,99.0,145.0
+518,Light Wedgwood,DMC,mouliné,blue,https://disenosparabordar.com/wp-content/uploads/2021/11/117518.jpg,#47859A,71.0,133.0,154.0,#66949A,102.0,148.0,154.0,#3D84A4,61.0,132.0,164.0
+519,Sky Blue,DMC,mouliné,blue,https://disenosparabordar.com/wp-content/uploads/2021/11/117519.jpg,#7DAABD,125.0,170.0,189.0,#C2D1CF,194.0,209.0,207.0,#78B1C8,120.0,177.0,200.0
+520,Dark Fern Green,DMC,mouliné,green,https://disenosparabordar.com/wp-content/uploads/2021/11/117520.jpg,#354028,53.0,64.0,40.0,#374912,55.0,73.0,18.0,#3A4734,58.0,71.0,52.0
+522,Fern Green,DMC,mouliné,muted green,https://disenosparabordar.com/wp-content/uploads/2021/11/117522.jpg,#838A6F,131.0,138.0,111.0,#9FA98E,159.0,169.0,142.0,#727D5F,114.0,125.0,95.0
+523,Light Fern Green,DMC,mouliné,muted green,https://disenosparabordar.com/wp-content/uploads/2021/11/117523.jpg,#919378,145.0,147.0,120.0,#ACB78E,172.0,183.0,142.0,#8E9773,142.0,151.0,115.0
+524,Very Light Fern Green,DMC,mouliné,muted green,https://disenosparabordar.com/wp-content/uploads/2021/11/117524.jpg,#9FA387,159.0,163.0,135.0,#CDB69E,205.0,182.0,158.0,#9AA284,154.0,162.0,132.0
+535,Very Light Ash Gray,DMC,mouliné,grey,https://disenosparabordar.com/wp-content/uploads/2021/11/117535.jpg,#423D41,66.0,61.0,65.0,#555559,85.0,85.0,89.0,#4B4B46,75.0,75.0,70.0
+543,Ultra Very Light Beige,DMC,mouliné,light,https://disenosparabordar.com/wp-content/uploads/2021/11/117543.jpg,#D3BEAE,211.0,190.0,174.0,#EFD6BC,239.0,214.0,188.0,#E5C7AD,229.0,199.0,173.0
+550,Very Dark Violet,DMC,mouliné,purple,https://disenosparabordar.com/wp-content/uploads/2021/11/117550.jpg,#2C033C,44.0,3.0,60.0,#6D1261,109.0,18.0,97.0,#47184B,71.0,24.0,75.0
+552,Medium Violet,DMC,mouliné,purple,https://disenosparabordar.com/wp-content/uploads/2021/11/117552.jpg,#562F6E,86.0,47.0,110.0,#925582,146.0,85.0,130.0,#7B3881,123.0,56.0,129.0
+553,Violet,DMC,mouliné,purple,https://disenosparabordar.com/wp-content/uploads/2021/11/117553.jpg,#6D4987,109.0,73.0,135.0,#A06492,160.0,100.0,146.0,#924F92,146.0,79.0,146.0
+554,Light Violet,DMC,mouliné,purple,https://disenosparabordar.com/wp-content/uploads/2021/11/117554.jpg,#AF92B8,175.0,146.0,184.0,#F3CEE1,243.0,206.0,225.0,#C48BC3,196.0,139.0,195.0
+561,Very Dark Jade,DMC,mouliné,green,https://disenosparabordar.com/wp-content/uploads/2021/11/117561.jpg,#224D38,34.0,77.0,56.0,#3B604C,59.0,96.0,76.0,#295544,41.0,85.0,68.0
+562,Medium Jade,DMC,mouliné,green,https://disenosparabordar.com/wp-content/uploads/2021/11/117562.jpg,#497954,73.0,121.0,84.0,#618661,97.0,134.0,97.0,#3A7C5A,58.0,124.0,90.0
+563,Light Jade,DMC,mouliné,green,https://disenosparabordar.com/wp-content/uploads/2021/11/117563.jpg,#84AE8D,132.0,174.0,141.0,#B6D4B4,182.0,212.0,180.0,#6DB18C,109.0,177.0,140.0
+564,Very Light Jade,DMC,mouliné,green,https://disenosparabordar.com/wp-content/uploads/2021/11/117564.jpg,#9FC09E,159.0,192.0,158.0,#D6E6CC,214.0,230.0,204.0,#8BC9A3,139.0,201.0,163.0
+580,Dark Moss Green,DMC,mouliné,green,https://disenosparabordar.com/wp-content/uploads/2021/11/117580.jpg,#5F5920,95.0,89.0,32.0,#006700,0.0,103.0,0.0,#5C5F20,92.0,95.0,32.0
+581,Moss Green,DMC,mouliné,green,https://disenosparabordar.com/wp-content/uploads/2021/11/117581.jpg,#767701,118.0,119.0,1.0,#979831,151.0,152.0,49.0,#797B29,121.0,123.0,41.0
+597,Turquoise,DMC,mouliné,green,https://disenosparabordar.com/wp-content/uploads/2021/11/117597.jpg,#568D96,86.0,141.0,150.0,#809784,128.0,151.0,132.0,#4D929F,77.0,146.0,159.0
+598,Light Turquoise,DMC,mouliné,green,https://disenosparabordar.com/wp-content/uploads/2021/11/117598.jpg,#87B3B2,135.0,179.0,178.0,#D0DFCD,208.0,223.0,205.0,#7AB2B5,122.0,178.0,181.0
+600,Very Dark Cranberry,DMC,mouliné,pink,https://disenosparabordar.com/wp-content/uploads/2021/11/117600.jpg,#890041,137.0,0.0,65.0,#D0396A,208.0,57.0,106.0,#AF0047,175.0,0.0,71.0
+601,Dark Cranberry,DMC,mouliné,pink,https://disenosparabordar.com/wp-content/uploads/2021/11/117601.jpg,#9C1752,156.0,23.0,82.0,#DE3969,222.0,57.0,105.0,#C61B57,198.0,27.0,87.0
+602,Medium Cranberry,DMC,mouliné,pink,https://disenosparabordar.com/wp-content/uploads/2021/11/117602.jpg,#B64073,182.0,64.0,115.0,#E7547A,231.0,84.0,122.0,#D7306D,215.0,48.0,109.0
+603,Cranberry,DMC,mouliné,pink,https://disenosparabordar.com/wp-content/uploads/2021/11/117603.jpg,#D06F97,208.0,111.0,151.0,#FF738C,255.0,115.0,140.0,#E94F8C,233.0,79.0,140.0
+604,Light Cranberry,DMC,mouliné,pink,https://disenosparabordar.com/wp-content/uploads/2021/11/117604.jpg,#E197B4,225.0,151.0,180.0,#FFBDCA,255.0,189.0,202.0,#F67AAD,246.0,122.0,173.0
+605,Very Light Cranberry,DMC,mouliné,pink,https://disenosparabordar.com/wp-content/uploads/2021/11/117605.jpg,#E8AFC5,232.0,175.0,197.0,#FFCFD6,255.0,207.0,214.0,#FE98C1,254.0,152.0,193.0
+606,Bright Orange-Red,DMC,mouliné,red,https://disenosparabordar.com/wp-content/uploads/2021/11/117606.jpg,#A70100,167.0,1.0,0.0,#FF0000,255.0,0.0,0.0,#E81820,232.0,24.0,32.0
+608,Bright Orange,DMC,mouliné,orange,https://disenosparabordar.com/wp-content/uploads/2021/11/117608.jpg,#C93200,201.0,50.0,0.0,#FF5B00,255.0,91.0,0.0,#FF4225,255.0,66.0,37.0
+610,Dark Drab Brown,DMC,mouliné,brown,https://disenosparabordar.com/wp-content/uploads/2021/11/117610.jpg,#5E492C,94.0,73.0,44.0,#976854,151.0,104.0,84.0,#604A30,96.0,74.0,48.0
+611,Drab Brown,DMC,mouliné,brown,https://disenosparabordar.com/wp-content/uploads/2021/11/117611.jpg,#695235,105.0,82.0,53.0,#9E6D5B,158.0,109.0,91.0,#705A3D,112.0,90.0,61.0
+612,Light Drab Brown,DMC,mouliné,brown,https://disenosparabordar.com/wp-content/uploads/2021/11/117612.jpg,#A18B66,161.0,139.0,102.0,#CB9867,203.0,152.0,103.0,#99815A,153.0,129.0,90.0
+613,Very Light Drab Brown,DMC,mouliné,light,https://disenosparabordar.com/wp-content/uploads/2021/11/117613.jpg,#CDC0A6,205.0,192.0,166.0,#DBB07A,219.0,176.0,122.0,#AC966D,172.0,150.0,109.0
+632,Ultra Very Dark Desert Sand,DMC,mouliné,brown,https://disenosparabordar.com/wp-content/uploads/2021/11/117632.jpg,#613023,97.0,48.0,35.0,#A24D34,162.0,77.0,52.0,#723D34,114.0,61.0,52.0
+640,Very Dark Beige Gray,DMC,mouliné,brown,https://disenosparabordar.com/wp-content/uploads/2021/11/117640.jpg,#6D6148,109.0,97.0,72.0,#A3A39D,163.0,163.0,157.0,#72644F,114.0,100.0,79.0
+642,Dark Beige Gray,DMC,mouliné,brown,https://disenosparabordar.com/wp-content/uploads/2021/11/117642.jpg,#887A64,136.0,122.0,100.0,#AEB0AA,174.0,176.0,170.0,#8C7D63,140.0,125.0,99.0
+644,Medium Beige Gray,DMC,mouliné,light,https://disenosparabordar.com/wp-content/uploads/2021/11/117644-e1638244818411.jpg,#BDB39F,189.0,179.0,159.0,#E0E0D7,224.0,224.0,215.0,#BAB094,186.0,176.0,148.0
+645,Very Dark Beaver Gray,DMC,mouliné,brown,https://disenosparabordar.com/wp-content/uploads/2021/11/117645.jpg,#504945,80.0,73.0,69.0,#717171,113.0,113.0,113.0,#545E47,84.0,94.0,71.0
+646,Dark Beaver Gray,DMC,mouliné,brown,https://disenosparabordar.com/wp-content/uploads/2021/11/117646.jpg,#756D60,117.0,109.0,96.0,#797979,121.0,121.0,121.0,#696359,105.0,99.0,89.0
+647,Medium Beaver Gray,DMC,mouliné,muted green,https://disenosparabordar.com/wp-content/uploads/2021/11/117647.jpg,#949382,148.0,147.0,130.0,#BEBEB9,190.0,190.0,185.0,#7D7B70,125.0,123.0,112.0
+648,Light Beaver Gray,DMC,mouliné,light,https://disenosparabordar.com/wp-content/uploads/2021/11/117648.jpg,#A59E93,165.0,158.0,147.0,#CACACA,202.0,202.0,202.0,#98988B,152.0,152.0,139.0
+666,Bright Red,DMC,mouliné,red,https://disenosparabordar.com/wp-content/uploads/2021/11/117666.jpg,#880000,136.0,0.0,0.0,#D52756,213.0,39.0,86.0,#C90023,201.0,0.0,35.0
+676,Light Old Gold,DMC,mouliné,brown,https://disenosparabordar.com/wp-content/uploads/2021/11/117676.jpg,#D6B27A,214.0,178.0,122.0,#FFCE9E,255.0,206.0,158.0,#E6B469,230.0,180.0,105.0
+677,Very Light Old Gold,DMC,mouliné,yellow,https://disenosparabordar.com/wp-content/uploads/2021/11/117677.jpg,#E0C994,224.0,201.0,148.0,#FFE7B6,255.0,231.0,182.0,#EACF8E,234.0,207.0,142.0
+928,Very Light Gray Green,DMC,mouliné,blue,https://disenosparabordar.com/wp-content/uploads/2021/11/117928.jpg,#BBC2BD,187.0,194.0,189.0,#E1E0D8,225.0,224.0,216.0,#ABB5B1,171.0,181.0,177.0
+930,Dark Antique Blue,DMC,mouliné,grey,https://disenosparabordar.com/wp-content/uploads/2021/11/117930.jpg,#203343,32.0,51.0,67.0,#667A8C,102.0,122.0,140.0,#30465A,48.0,70.0,90.0
+931,Medium Antique Blue,DMC,mouliné,blue,https://disenosparabordar.com/wp-content/uploads/2021/11/117931.jpg,#4E687F,78.0,104.0,127.0,#7C8791,124.0,135.0,145.0,#536A82,83.0,106.0,130.0
+932,Light Antique Blue,DMC,mouliné,blue,https://disenosparabordar.com/wp-content/uploads/2021/11/117932.jpg,#7D91A2,125.0,145.0,162.0,#B6BAC2,182.0,186.0,194.0,#758FA6,117.0,143.0,166.0
+934,Black Avocado Green,DMC,mouliné,green,https://disenosparabordar.com/wp-content/uploads/2021/11/117934.jpg,#1E1E16,30.0,30.0,22.0,#3E3B28,62.0,59.0,40.0,#2E3425,46.0,52.0,37.0
+935,Dark Avocado Green,DMC,mouliné,green,https://disenosparabordar.com/wp-content/uploads/2021/11/117935.jpg,#24240F,36.0,36.0,15.0,#433F2F,67.0,63.0,47.0,#363D2C,54.0,61.0,44.0
+936,Very Dark Avocado Green,DMC,mouliné,green,https://disenosparabordar.com/wp-content/uploads/2021/11/117936.jpg,#35330C,53.0,51.0,12.0,#454531,69.0,69.0,49.0,#424423,66.0,68.0,35.0
+937,Medium Avocado Green,DMC,mouliné,green,https://disenosparabordar.com/wp-content/uploads/2021/11/117937.jpg,#3C4400,60.0,68.0,0.0,#495637,73.0,86.0,55.0,#465429,70.0,84.0,41.0
+938,Ultra Dark Coffee Brown,DMC,mouliné,brown,https://disenosparabordar.com/wp-content/uploads/2021/11/117938.jpg,#2F1512,47.0,21.0,18.0,#632710,99.0,39.0,16.0,#3D2923,61.0,41.0,35.0
+939,Very Dark Navy Blue,DMC,mouliné,blue,https://disenosparabordar.com/wp-content/uploads/2021/11/117939.jpg,#030107,3.0,1.0,7.0,#000031,0.0,0.0,49.0,#1B1B2C,27.0,27.0,44.0
+943,Medium Aquamarine,DMC,mouliné,green,https://disenosparabordar.com/wp-content/uploads/2021/11/117943.jpg,#007F63,0.0,127.0,99.0,#00A275,0.0,162.0,117.0,#008F79,0.0,143.0,121.0
+945,Tawny,DMC,mouliné,light,https://disenosparabordar.com/wp-content/uploads/2021/11/117945.jpg,#DBBA9E,219.0,186.0,158.0,#FFCEA4,255.0,206.0,164.0,#EEB28F,238.0,178.0,143.0
+946,Medium Burnt Orange,DMC,mouliné,orange,https://disenosparabordar.com/wp-content/uploads/2021/11/117946.jpg,#C13807,193.0,56.0,7.0,#F44900,244.0,73.0,0.0,#F53D1C,245.0,61.0,28.0
+947,Burnt Orange,DMC,mouliné,orange,https://disenosparabordar.com/wp-content/uploads/2021/11/117947.jpg,#D24200,210.0,66.0,0.0,#FF5B00,255.0,91.0,0.0,#FF4A1B,255.0,74.0,27.0
+948,Very Light Peach,DMC,mouliné,pink,https://disenosparabordar.com/wp-content/uploads/2021/11/117948.jpg,#E6CAB6,230.0,202.0,182.0,#FFF3E7,255.0,243.0,231.0,#FDD5C1,253.0,213.0,193.0
+950,Light Desert Sand,DMC,mouliné,light,https://disenosparabordar.com/wp-content/uploads/2021/11/117950.jpg,#D6B59F,214.0,181.0,159.0,#EFA27F,239.0,162.0,127.0,#DFAC93,223.0,172.0,147.0
+951,Light Tawny,DMC,mouliné,pink,https://disenosparabordar.com/wp-content/uploads/2021/11/117951.jpg,#E8CDB5,232.0,205.0,181.0,#FFE5BC,255.0,229.0,188.0,#F7CEA9,247.0,206.0,169.0
+954,Nile Green,DMC,mouliné,green,https://disenosparabordar.com/wp-content/uploads/2021/11/117954.jpg,#88C193,136.0,193.0,147.0,#AAD5A4,170.0,213.0,164.0,#6CBE87,108.0,190.0,135.0
+955,Light Nile Green,DMC,mouliné,green,https://disenosparabordar.com/wp-content/uploads/2021/11/117955.jpg,#ACD7B0,172.0,215.0,176.0,#D6E6CC,214.0,230.0,204.0,#97DCA8,151.0,220.0,168.0
+956,Geranium,DMC,mouliné,pink,https://disenosparabordar.com/wp-content/uploads/2021/11/117956.jpg,#D24977,210.0,73.0,119.0,#FF6D73,255.0,109.0,115.0,#F94472,249.0,68.0,114.0
+957,Pale Geranium,DMC,mouliné,pink,https://disenosparabordar.com/wp-content/uploads/2021/11/117957.jpg,#EA89A8,234.0,137.0,168.0,#FFCCD0,255.0,204.0,208.0,#FF7CA2,255.0,124.0,162.0
+958,Dark Seagreen,DMC,mouliné,green,https://disenosparabordar.com/wp-content/uploads/2021/11/117958.jpg,#369C86,54.0,156.0,134.0,#00A082,0.0,160.0,130.0,#009887,0.0,152.0,135.0
+959,Medium Seagreen,DMC,mouliné,green,https://disenosparabordar.com/wp-content/uploads/2021/11/117959.jpg,#5CB19F,92.0,177.0,159.0,#ABCEB1,171.0,206.0,177.0,#30AD9D,48.0,173.0,157.0
+961,Dark Dusty Rose,DMC,mouliné,pink,https://disenosparabordar.com/wp-content/uploads/2021/11/117961.jpg,#B74E6E,183.0,78.0,110.0,#F36C7B,243.0,108.0,123.0,#D94B6F,217.0,75.0,111.0
+962,Medium Dusty Rose,DMC,mouliné,pink,https://disenosparabordar.com/wp-content/uploads/2021/11/117962.jpg,#C26F85,194.0,111.0,133.0,#FD868D,253.0,134.0,141.0,#E46486,228.0,100.0,134.0
+963,Ultra Very Light Dusty Rose,DMC,mouliné,pink,https://disenosparabordar.com/wp-content/uploads/2021/11/117963.jpg,#EFC0C9,239.0,192.0,201.0,#FFE9E9,255.0,233.0,233.0,#FFBAC4,255.0,186.0,196.0
+964,Light Seagreen,DMC,mouliné,green,https://disenosparabordar.com/wp-content/uploads/2021/11/117964.jpg,#95CCC3,149.0,204.0,195.0,#D0E0D2,208.0,224.0,210.0,#75CDC1,117.0,205.0,193.0
+966,Medium Baby Green,DMC,mouliné,green,https://disenosparabordar.com/wp-content/uploads/2021/11/117966.jpg,#95B697,149.0,182.0,151.0,#CED5B0,206.0,213.0,176.0,#8DBF8E,141.0,191.0,142.0
+967,Very Light Apricot,DMC,mouliné,pink,https://disenosparabordar.com/wp-content/uploads/2021/11/117967.jpg,#F9C2B2,249.0,194.0,178.0,#FFBEA9,255.0,189.0,202.0,#FFBEA9,255.0,190.0,169.0
+970,Light Pumpkin,DMC,mouliné,orange,https://disenosparabordar.com/wp-content/uploads/2021/11/117970.jpg,#EF6915,239.0,105.0,21.0,#FF7518,255.0,117.0,24.0,#FF6624,255.0,102.0,36.0
+971,Pumpkin,DMC,mouliné,orange,https://static1.dmc.com/cache/7/4/740__971__3_150x150.jpg,#FF6A00,255.0,106.0,0.0,#FF6A00,255.0,106.0,0.0,#FF6A00,255.0,106.0,0.0
+972,Deep Canary,DMC,mouliné,yellow,https://disenosparabordar.com/wp-content/uploads/2021/11/117972.jpg,#F09D00,240.0,157.0,0.0,#FF9200,255.0,146.0,0.0,#FFA400,255.0,164.0,0.0
+973,Bright Canary,DMC,mouliné,yellow,https://disenosparabordar.com/wp-content/uploads/2021/11/117973.jpg,#F5C700,245.0,199.0,0.0,#FFC243,255.0,194.0,67.0,#FFCF00,255.0,207.0,0.0
+975,Dark Golden Brown,DMC,mouliné,brown,https://disenosparabordar.com/wp-content/uploads/2021/11/117975.jpg,#5A1F00,90.0,31.0,0.0,#9E4312,158.0,67.0,18.0,#793A20,121.0,58.0,32.0
+976,Medium Golden Brown,DMC,mouliné,brown,https://disenosparabordar.com/wp-content/uploads/2021/11/117976.jpg,#AE6419,174.0,100.0,25.0,#F68D39,246.0,141.0,57.0,#C46A2C,196.0,106.0,44.0
+977,Light Golden Brown,DMC,mouliné,brown,https://disenosparabordar.com/wp-content/uploads/2021/11/117977.jpg,#CF8C49,207.0,140.0,73.0,#FFA449,255.0,164.0,73.0,#E6833D,230.0,131.0,61.0
+986,Very Dark Forest Green,DMC,mouliné,green,https://disenosparabordar.com/wp-content/uploads/2021/11/117986.jpg,#153607,21.0,54.0,7.0,#3A5241,58.0,82.0,65.0,#25502C,37.0,80.0,44.0
+987,Dark Forest Green,DMC,mouliné,green,https://disenosparabordar.com/wp-content/uploads/2021/11/117987.jpg,#3D5022,61.0,80.0,34.0,#536149,83.0,97.0,73.0,#42663A,66.0,102.0,58.0
+988,Medium Forest Green,DMC,mouliné,green,https://disenosparabordar.com/wp-content/uploads/2021/11/117988.jpg,#5F7236,95.0,114.0,54.0,#86916E,134.0,145.0,110.0,#5A8044,90.0,128.0,68.0
+989,Forest Green,DMC,mouliné,green,https://disenosparabordar.com/wp-content/uploads/2021/11/117989.jpg,#718546,113.0,133.0,70.0,#86996E,134.0,153.0,110.0,#6C9254,108.0,146.0,84.0
+991,Dark Aquamarine,DMC,mouliné,green,https://disenosparabordar.com/wp-content/uploads/2021/11/117991.jpg,#004F3E,0.0,79.0,62.0,#2F5B49,47.0,91.0,73.0,#0D5850,13.0,88.0,80.0
+992,Light Aquamarine,DMC,mouliné,green,https://disenosparabordar.com/wp-content/uploads/2021/11/117992.jpg,#488C75,72.0,140.0,117.0,#92B7A5,146.0,183.0,165.0,#369380,54.0,147.0,128.0
+993,Very Light Aquamarine,DMC,mouliné,green,https://disenosparabordar.com/wp-content/uploads/2021/11/117993.jpg,#69A690,105.0,166.0,144.0,#C0E0C8,192.0,224.0,200.0,#55AB90,85.0,171.0,144.0
+995,Dark Electric Blue,DMC,mouliné,teal,https://disenosparabordar.com/wp-content/uploads/2021/11/117995.jpg,#006196,0.0,97.0,150.0,#007B86,0.0,123.0,134.0,#006FBC,0.0,111.0,188.0
+996,Medium Electric Blue,DMC,mouliné,teal,https://disenosparabordar.com/wp-content/uploads/2021/11/117996.jpg,#2A9ECE,42.0,158.0,206.0,#AADEE1,170.0,222.0,225.0,#0097E1,0.0,151.0,225.0
+3011,Dark Khaki Green,DMC,mouliné,muted green,https://disenosparabordar.com/wp-content/uploads/2021/11/1173011.jpg,#574D2C,87.0,77.0,44.0,#7B5B40,123.0,91.0,64.0,#5C5830,92.0,88.0,48.0
+3012,Medium Khaki Green,DMC,mouliné,muted green,https://disenosparabordar.com/wp-content/uploads/2021/11/1173012.jpg,#7C6D3F,124.0,109.0,63.0,#AA8667,170.0,134.0,103.0,#7D7340,125.0,115.0,64.0
+3013,Light Khaki Green,DMC,mouliné,muted green,https://disenosparabordar.com/wp-content/uploads/2021/11/1173013.jpg,#A29768,162.0,151.0,104.0,#D0C3A4,208.0,195.0,164.0,#A39F6A,163.0,159.0,106.0
+3021,Very Dark Brown Gray,DMC,mouliné,brown,https://disenosparabordar.com/wp-content/uploads/2021/11/1173021.jpg,#261F1A,38.0,31.0,26.0,#735B5D,115.0,91.0,93.0,#46382E,70.0,56.0,46.0
+3022,Medium Brown Gray,DMC,mouliné,muted green,https://disenosparabordar.com/wp-content/uploads/2021/11/1173022.jpg,#797860,121.0,120.0,96.0,#ACACAA,172.0,172.0,170.0,#73725F,115.0,114.0,95.0
+3023,Light Brown Gray,DMC,mouliné,muted green,https://disenosparabordar.com/wp-content/uploads/2021/11/1173023.jpg,#9C9482,156.0,148.0,130.0,#C6BEAD,198.0,190.0,173.0,#938D76,147.0,141.0,118.0
+3024,Very Light Brown Gray,DMC,mouliné,light,https://disenosparabordar.com/wp-content/uploads/2021/11/1173024.jpg,#BFBEB2,191.0,190.0,178.0,#D2D0CD,210.0,208.0,205.0,#B9B09F,185.0,176.0,159.0
+3031,Very Dark Mocha Brown,DMC,mouliné,brown,https://disenosparabordar.com/wp-content/uploads/2021/11/1173031.jpg,#281610,40.0,22.0,16.0,#543817,84.0,56.0,23.0,#422E25,66.0,46.0,37.0
+3032,Medium Mocha Brown,DMC,mouliné,brown,https://disenosparabordar.com/wp-content/uploads/2021/11/1173032.jpg,#89775E,137.0,119.0,94.0,#BC9C78,188.0,156.0,120.0,#968669,150.0,134.0,105.0
+3033,Very Light Mocha Brown,DMC,mouliné,light,https://disenosparabordar.com/wp-content/uploads/2021/11/1173033.jpg,#CFBEAA,207.0,190.0,170.0,#EFDBBE,239.0,219.0,190.0,#D2BDA6,210.0,189.0,166.0
+3041,Medium Antique Violet,DMC,mouliné,purple,https://disenosparabordar.com/wp-content/uploads/2021/11/1173041.jpg,#675162,103.0,81.0,98.0,#BE9BA7,190.0,155.0,167.0,#725465,114.0,84.0,101.0
+3042,Light Antique Violet,DMC,mouliné,purple,https://disenosparabordar.com/wp-content/uploads/2021/11/1173042.jpg,#9D8F9E,157.0,143.0,158.0,#E1CDC8,225.0,205.0,200.0,#967C8D,150.0,124.0,141.0
+3045,Dark Yellow Beige,DMC,mouliné,brown,https://disenosparabordar.com/wp-content/uploads/2021/11/1173045.jpg,#A07B4B,160.0,123.0,75.0,#D89769,216.0,151.0,105.0,#9F7646,159.0,118.0,70.0
+3846,Light Bright Turquoise,DMC,mouliné,teal,https://disenosparabordar.com/wp-content/uploads/2021/11/1173846.jpg,#18B3CC,24.0,179.0,204.0,#00AFD1,249.0,160.0,146.0,#00AFD1,0.0,175.0,209.0
+3847,Dark Teal Green,DMC,mouliné,green,https://disenosparabordar.com/wp-content/uploads/2021/11/1173847.jpg,#003C37,0.0,60.0,55.0,#00504D,224.0,35.0,56.0,#00504D,0.0,80.0,77.0
+3046,Medium Yellow Beige,DMC,mouliné,brown,https://disenosparabordar.com/wp-content/uploads/2021/11/1173046.jpg,#C4AA6F,196.0,170.0,111.0,#E5C18B,229.0,193.0,139.0,#C5A966,197.0,169.0,102.0
+3848,Medium Teal Green,DMC,mouliné,green,https://disenosparabordar.com/wp-content/uploads/2021/11/1173848.jpg,#136A64,19.0,106.0,100.0,#186D6A,120.0,13.0,44.0,#186D6A,24.0,109.0,106.0
+3849,Light Teal Green,DMC,mouliné,green,https://disenosparabordar.com/wp-content/uploads/2021/11/1173849.jpg,#50908C,80.0,144.0,140.0,#44918D,168.0,32.0,58.0,#44918D,68.0,145.0,141.0
+3850,Dark Bright Green,DMC,mouliné,green,https://disenosparabordar.com/wp-content/uploads/2021/11/1173850.jpg,#006D4E,0.0,109.0,78.0,#00856B,187.0,0.0,97.0,#00856B,0.0,133.0,107.0
+3851,Light Bright Green,DMC,mouliné,green,https://disenosparabordar.com/wp-content/uploads/2021/11/1173851.jpg,#309E81,48.0,158.0,129.0,#009F82,231.0,18.0,97.0,#009F82,0.0,159.0,130.0
+3852,Very Dark Straw,DMC,mouliné,yellow,https://disenosparabordar.com/wp-content/uploads/2021/11/1173852.jpg,#B97E00,185.0,126.0,0.0,#C3801B,201.0,79.0,91.0,#C3801B,195.0,128.0,27.0
+3853,Dark Autumn Gold,DMC,mouliné,orange,https://disenosparabordar.com/wp-content/uploads/2021/11/1173853.jpg,#C46617,196.0,102.0,23.0,#D1642C,123.0,37.0,68.0,#D1642C,209.0,100.0,44.0
+3854,Medium Autumn Gold,DMC,mouliné,orange,https://disenosparabordar.com/wp-content/uploads/2021/11/1173854.jpg,#D99150,217.0,145.0,80.0,#F29347,203.0,78.0,97.0,#F29347,242.0,147.0,71.0
+3855,Light Autumn Gold,DMC,mouliné,yellow,https://disenosparabordar.com/wp-content/uploads/2021/11/1173855.jpg,#F3C47D,243.0,196.0,125.0,#F9C170,255.0,213.0,216.0,#F9C170,249.0,193.0,112.0
+3856,Ultra Very Light Mahogany,DMC,mouliné,orange,https://disenosparabordar.com/wp-content/uploads/2021/11/1173856.jpg,#DFAF84,223.0,175.0,132.0,#E5A472,231.0,84.0,122.0,#E5A472,229.0,164.0,114.0
+3857,Dark Rosewood,DMC,mouliné,brown,https://disenosparabordar.com/wp-content/uploads/2021/11/1173857.jpg,#370609,55.0,6.0,9.0,#572523,247.0,152.0,182.0,#572523,87.0,37.0,35.0
+3858,Medium Rosewood,DMC,mouliné,brown,https://disenosparabordar.com/wp-content/uploads/2021/11/1173858.jpg,#552121,85.0,33.0,33.0,#753D36,255.0,214.0,229.0,#753D36,117.0,61.0,54.0
+3859,Light Rosewood,DMC,mouliné,brown,https://disenosparabordar.com/wp-content/uploads/2021/11/1173859.jpg,#956252,149.0,98.0,82.0,#B26D5C,186.0,24.0,97.0,#B26D5C,178.0,109.0,92.0
+3860,Cocoa,DMC,mouliné,brown,https://disenosparabordar.com/wp-content/uploads/2021/11/1173860.jpg,#604444,96.0,68.0,68.0,#6F4F4B,136.0,75.0,142.0,#6F4F4B,111.0,79.0,75.0
+3861,Light Cocoa,DMC,mouliné,brown,https://disenosparabordar.com/wp-content/uploads/2021/11/1173861.jpg,#927676,146.0,118.0,118.0,#8D6C6A,170.0,24.0,91.0,#8D6C6A,141.0,108.0,106.0
+3862,Dark Mocha Beige,DMC,mouliné,brown,https://disenosparabordar.com/wp-content/uploads/2021/11/1173862.jpg,#694730,105.0,71.0,48.0,#7C553E,255.0,199.0,196.0,#7C553E,124.0,85.0,62.0
+3863,Medium Mocha Beige,DMC,mouliné,brown,https://disenosparabordar.com/wp-content/uploads/2021/11/1173863.jpg,#85644D,133.0,100.0,77.0,#92694F,255.0,199.0,184.0,#92694F,146.0,105.0,79.0
+3864,Light Mocha Beige,DMC,mouliné,brown,https://disenosparabordar.com/wp-content/uploads/2021/11/1173864.jpg,#B39781,179.0,151.0,129.0,#B1896F,88.0,39.0,75.0,#B1896F,177.0,137.0,111.0
+3865,Winter White,DMC,mouliné,light,https://disenosparabordar.com/wp-content/uploads/2021/11/1173865.jpg,#F5F4EC,245.0,244.0,236.0,#F7F7F0,220.0,141.0,141.0,#F7F7F0,247.0,247.0,240.0
+3866,Ultra Very Light Mocha,DMC,mouliné,light,https://disenosparabordar.com/wp-content/uploads/2021/11/1173866.jpg,#E0D3C9,224.0,211.0,201.0,#DDD1BE,195.0,118.0,123.0,#DDD1BE,221.0,209.0,190.0
+B5200,Snow White,DMC,mouliné,light,https://disenosparabordar.com/wp-content/uploads/2021/11/117B5200.jpg,#FEFFFD,254.0,255.0,253.0,#FAFAFF,163.0,90.0,91.0,#FAFAFF,250.0,250.0,255.0
+ECRU,Ecru,DMC,mouliné,light,https://disenosparabordar.com/wp-content/uploads/2021/11/117ECRU.jpg,#E7DBC4,231.0,219.0,196.0,#E7DBC4,231.0,219.0,196.0,#E7DBC4,231.0,219.0,196.0
+BLANC,White,DMC,mouliné,light,https://disenosparabordar.com/wp-content/uploads/2021/11/117BLANC.jpg,#F8F7F5,248.0,247.0,245.0,#FFFFFF,255.0,255.0,255.0,#FCFCFC,252.0,252.0,252.0
