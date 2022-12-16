@@ -1,5 +1,6 @@
 code,name,brand,type_floss,color_family,img_link,hexcode1,r1,g1,b1,hexcode2,r2,g2,b2,hexcode2,r3,g3,b3
-666,Bright Red,DMC,mouliné,red,,#bd0206,189,2,6,#db181e,219,24,30,#cc090f,204,9,15
-498,Dark Red,DMC,mouliné,red,,#880025,136,0,37,#9c0e28,156,14,40,#ae1e3a,174,30,58
-792,Dark Cornflower Blue,DMC,mouliné,blue,,#333a95,51,58,149,#1a2179,26,33,121,#070c62,7,12,98
-701,Light Green,DMC,mouliné,green,,#0D7338,13,115,56,#1b7843,27,120,67,#34955f,52,149,95
+666,Bright Red,DMC,mouliné,red,https://disenosparabordar.com/wp-content/uploads/2021/11/117666.jpg,#bd0206,189,2,6,#db181e,219,24,30,#cc090f,204,9,15
+498,Dark Red,DMC,mouliné,red,https://disenosparabordar.com/wp-content/uploads/2021/11/117498.jpg,#880025,136,0,37,#9c0e28,156,14,40,#ae1e3a,174,30,58
+792,Dark Cornflower Blue,DMC,mouliné,blue,https://disenosparabordar.com/wp-content/uploads/2021/11/117792.jpg,#33437C,#333a95,51,58,149,#1a2179,26,33,121,#070c62,7,12,98
+701,Light Green,DMC,mouliné,green,https://disenosparabordar.com/wp-content/uploads/2021/11/117701.jpg,#0D7338,13,115,56,#1b7843,27,120,67,#34955f,52,149,95
+310,Black,DMC,mouliné,dark,https://disenosparabordar.com/wp-content/uploads/2021/11/117310.jpg,#000002,0.0,0.0,2.0,#000000,0.0,0.0,0.0,#000000,0.0,0.0,0.0
