@@ -1,0 +1,5 @@
+code,name,brand,type_floss,color_family,img_link,hexcode1,r1,g1,b1,hexcode2,r2,g2,b2,hexcode2,r3,g3,b3
+666,Bright Red,DMC,mouliné,red,,#bd0206,189,2,6,#db181e,219,24,30,#cc090f,204,9,15
+498,Dark Red,DMC,mouliné,red,,#880025,136,0,37,#9c0e28,156,14,40,#ae1e3a,174,30,58
+792,Dark Cornflower Blue,DMC,mouliné,blue,,#333a95,51,58,149,#1a2179,26,33,121,#070c62,7,12,98
+701,Light Green,DMC,mouliné,green,,#0D7338,13,115,56,#1b7843,27,120,67,#34955f,52,149,95
